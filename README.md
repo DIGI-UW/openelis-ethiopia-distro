@@ -1,4 +1,4 @@
-## OpenELIS Global2 Docker Compose Setup
+## OpenELIS Docker Compose Distribution Setup for Ethiopia
 Docker Compose setup for OpenELIS-Global2
 
 You can find more information on how to set up OpenELIS at our [docs page](http://docs.openelis-global.org/)
