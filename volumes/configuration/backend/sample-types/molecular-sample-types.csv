@@ -1,0 +1,29 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+Raw Biological Material,RBM,H,Y,30,Raw Biological Material,Matériel Biologique Brut
+Blood Sample,BLD,H,Y,31,Blood Sample,Échantillon de Sang
+Body Fluid,BF,H,Y,32,Body Fluid,Liquide Corporel
+Swab Sample,SWB,H,Y,33,Swab Sample,Échantillon Écouvillon
+Sputum Sample,SPT,H,Y,34,Sputum Sample,Échantillon d'Expectoration
+Biopsy Sample,BIO,H,Y,35,Biopsy Sample,Échantillon de Biopsie
+Fixed Tissue,FXT,H,Y,36,Fixed Tissue,Tissu Fixé
+Dairy Product,DP,O,Y,37,Dairy Product,Produit Laitier
+Mammalian Cells,MC,O,Y,38,Mammalian Cells,Cellules Mammifères
+Isolate,ISO,O,Y,39,Isolate,Isolat
+Cell Pellet,CP,O,Y,40,Cell Pellet,Culot Cellulaire
+Environmental Sample,ENV,E,Y,41,Environmental Sample,Échantillon Environnemental
+Viral Particles,VP,O,Y,42,Viral Particles,Particules Virales
+Soil Sample,SOIL,E,Y,43,Soil Sample,Échantillon de Sol
+Water Sample,H2O,E,Y,44,Water Sample,Échantillon d'Eau
+Bacterial Cells,BC,O,Y,45,Bacterial Cells,Cellules Bactériennes
+Yeast Cells,YC,O,Y,46,Yeast Cells,Cellules de Levure
+Pre-Extracted DNA,DNA,O,Y,47,Pre-Extracted DNA,ADN Pré-Extrait
+Pre-Extracted RNA,RNA,O,Y,48,Pre-Extracted RNA,ARN Pré-Extrait
+Extracted Nucleic Acid,ENA,O,Y,49,Extracted Nucleic Acid,Acide Nucléique Extrait
+Quality Checked DNA,QC-DNA,O,Y,50,Quality Checked DNA,ADN Contrôlé Qualité
+Quality Checked RNA,QC-RNA,O,Y,51,Quality Checked RNA,ARN Contrôlé Qualité
+PCR Product,PCR,O,Y,52,PCR Product,Produit PCR
+Amplified DNA,AMP-DNA,O,Y,53,Amplified DNA,ADN Amplifié
+Fragmented DNA,FRAG,O,Y,54,Fragmented DNA,ADN Fragmenté
+Library,LIB,O,Y,55,Library,Bibliothèque
+Normalized Library,NLIB,O,Y,56,Normalized Library,Bibliothèque Normalisée
+Sequencing Ready Library,SEQLIB,O,Y,57,Sequencing Ready Library,Bibliothèque Prête au Séquençage

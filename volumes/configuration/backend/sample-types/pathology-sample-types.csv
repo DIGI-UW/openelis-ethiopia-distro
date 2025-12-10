@@ -1,0 +1,80 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+Path Alert Hospital Sample,PATH-AH,H,Y,390,Path Alert Hospital Sample,Échantillon Hôpital Alert Pathologie
+Path Research Project Sample,PATH-RES,H,Y,391,Path Research Project Sample,Échantillon Projet Recherche Pathologie
+Path Clinical Diagnostic Sample,PATH-CLIN,H,Y,392,Path Clinical Diagnostic Sample,Échantillon Diagnostic Clinique Pathologie
+Path FFPE Tissue Block,PATH-FFPE,H,Y,393,Path FFPE Tissue Block,Bloc Tissulaire FFPE Pathologie
+Path Fresh Biopsy,PATH-FBIO,H,Y,394,Path Fresh Biopsy,Biopsie Fraîche Pathologie
+Path Surgical Resection,PATH-SURG,H,Y,395,Path Surgical Resection,Résection Chirurgicale Pathologie
+Path FNA,PATH-FNA,H,Y,396,Path Fine Needle Aspirate,Aspiration à l'Aiguille Fine Pathologie
+Path Pleural Fluid,PATH-PLEU,H,Y,397,Path Pleural Fluid,Liquide Pleural Pathologie
+Path Peritoneal Fluid,PATH-PERI,H,Y,398,Path Peritoneal Fluid,Liquide Péritonéal Pathologie
+Path Pericardial Fluid,PATH-PERIC,H,Y,399,Path Pericardial Fluid,Liquide Péricardique Pathologie
+Path CSF,PATH-CSF,H,Y,400,Path Cerebrospinal Fluid,Liquide Céphalo-Rachidien Pathologie
+Path Urine Cytology,PATH-UR,H,Y,401,Path Urine Cytology,Cytologie Urine Pathologie
+Path Sputum Cytology,PATH-SPT,H,Y,402,Path Sputum Cytology,Cytologie Expectoration Pathologie
+Path Cervical Smear,PATH-CERV,H,Y,403,Path Cervical Smear,Frottis Cervical Pathologie
+Path EDTA Blood,PATH-EDTA,H,Y,404,Path EDTA Blood,Sang EDTA Pathologie
+Path Peripheral Blood Smear,PATH-PBS,H,Y,405,Path Peripheral Blood Smear,Frottis Sanguin Périphérique Pathologie
+Path Human Fresh Tissue,PATH-HFT,H,Y,406,Path Human Fresh Tissue,Tissu Humain Frais Pathologie
+Path Human Frozen Tissue,PATH-HZT,H,Y,407,Path Human Frozen Tissue,Tissu Humain Congelé Pathologie
+Path Human FFPE Research,PATH-HFFPE,H,Y,408,Path Human FFPE Research,FFPE Humain Recherche Pathologie
+Path Animal Tissue,PATH-ANIM,O,Y,409,Path Animal Tissue,Tissu Animal Pathologie
+Path Mouse Footpad,PATH-MFP,O,Y,410,Path Mouse Footpad,Coussinet Souris Pathologie
+Path Mouse Nerve,PATH-MNV,O,Y,411,Path Mouse Nerve,Nerf Souris Pathologie
+Path Bacterial Pellet,PATH-BPEL,O,Y,412,Path Bacterial Pellet,Culot Bactérien Pathologie
+Path Cellular Pellet,PATH-CPEL,O,Y,413,Path Cellular Pellet,Culot Cellulaire Pathologie
+Path M leprae Pellet,PATH-MLEP,O,Y,414,Path M leprae Pellet,Culot M leprae Pathologie
+Path Primary Cell Culture,PATH-PCC,O,Y,415,Path Primary Cell Culture,Culture Cellulaire Primaire Pathologie
+Path QC Pass Sample,PATH-QCP,H,Y,416,Path QC Pass Sample,Échantillon QC Passé Pathologie
+Path QC Fail Sample,PATH-QCF,H,Y,417,Path QC Fail Sample,Échantillon QC Échoué Pathologie
+Path NBF Fixed Sample,PATH-NBF,H,Y,418,Path NBF Fixed Sample,Échantillon Fixé NBF Pathologie
+Path Cytolyt Preserved,PATH-CYTO,H,Y,419,Path Cytolyt Preserved,Préservé Cytolyt Pathologie
+Path OCT Embedded,PATH-OCT,H,Y,420,Path OCT Embedded,Inclus OCT Pathologie
+Path RNAlater Sample,PATH-RNA,H,Y,421,Path RNAlater Sample,Échantillon RNAlater Pathologie
+Path Embedded Block Pass,PATH-EBP,H,Y,422,Path Embedded Block Pass,Bloc Inclus Passé Pathologie
+Path Embedded Block Fail,PATH-EBF,H,Y,423,Path Embedded Block Fail,Bloc Inclus Échoué Pathologie
+Path Re-embedded Block,PATH-REEMB,H,Y,424,Path Re-embedded Block,Bloc Ré-inclus Pathologie
+Path Grossed Sample,PATH-GRS,H,Y,425,Path Grossed Sample,Échantillon Macroscopié Pathologie
+Path Aliquoted Sample,PATH-ALQ,H,Y,426,Path Aliquoted Sample,Échantillon Aliquoté Pathologie
+Path Slide Sample,PATH-SLD,H,Y,427,Path Slide Sample,Échantillon Lame Pathologie
+Path LBC Sample,PATH-LBC,H,Y,428,Path LBC Sample,Échantillon LBC Pathologie
+Path Cell Block,PATH-CB,H,Y,429,Path Cell Block,Bloc Cellulaire Pathologie
+Path Molecular Testing Sample,PATH-MOL,H,Y,430,Path Molecular Testing Sample,Échantillon Test Moléculaire Pathologie
+Path Biobanking Sample,PATH-BIOB,H,Y,431,Path Biobanking Sample,Échantillon Biobanque Pathologie
+Path Alcohol Processed,PATH-ALC,H,Y,432,Path Alcohol Processed,Traité Alcool Pathologie
+Path Xylene Processed,PATH-XYL,H,Y,433,Path Xylene Processed,Traité Xylène Pathologie
+Path Paraffin Embedded,PATH-PAR,H,Y,434,Path Paraffin Embedded,Inclus Paraffine Pathologie
+Path Microtomy Section,PATH-MIC,H,Y,435,Path Microtomy Section,Section Microtomie Pathologie
+Path Centrifuged Fluid,PATH-CENT,H,Y,436,Path Centrifuged Fluid,Liquide Centrifugé Pathologie
+Path Cytology Sediment,PATH-SED,H,Y,437,Path Cytology Sediment,Sédiment Cytologie Pathologie
+Path ThinPrep Sample,PATH-THPR,H,Y,438,Path ThinPrep Sample,Échantillon ThinPrep Pathologie
+Path FNA Direct Smear,PATH-FNAS,H,Y,439,Path FNA Direct Smear,Frottis Direct FNA Pathologie
+Path Needle Rinse,PATH-NR,H,Y,440,Path Needle Rinse,Rinçage Aiguille Pathologie
+Path Clot Sample,PATH-CLOT,H,Y,441,Path Clot Sample,Échantillon Caillot Pathologie
+Path Wedge Smear,PATH-WDG,H,Y,442,Path Wedge Smear,Frottis en Coin Pathologie
+Path LN2 Frozen,PATH-LN2,H,Y,443,Path LN2 Frozen,Congelé LN2 Pathologie
+Path H&E Stained,PATH-HE,H,Y,444,Path H&E Stained,Coloré H&E Pathologie
+Path Pap Stained,PATH-PAP,H,Y,445,Path Pap Stained,Coloré Papanicolaou Pathologie
+Path Romanowsky Stained,PATH-ROM,H,Y,446,Path Romanowsky Stained,Coloré Romanowsky Pathologie
+Path Giemsa Stained,PATH-GMS,H,Y,447,Path Giemsa Stained,Coloré Giemsa Pathologie
+Path Wright Stained,PATH-WRT,H,Y,448,Path Wright Stained,Coloré Wright Pathologie
+Path AFB Stained,PATH-AFB,H,Y,449,Path AFB Stained,Coloré AFB Pathologie
+Path GMS Stained,PATH-GMSS,H,Y,450,Path GMS Stained,Coloré GMS Pathologie
+Path PAS Stained,PATH-PAS,H,Y,451,Path PAS Stained,Coloré PAS Pathologie
+Path Gram Stained,PATH-GRAM,H,Y,452,Path Gram Stained,Coloré Gram Pathologie
+Path IHC Sample,PATH-IHC,H,Y,453,Path IHC Sample,Échantillon IHC Pathologie
+Path ICC Sample,PATH-ICC,H,Y,454,Path ICC Sample,Échantillon ICC Pathologie
+Path ISH Sample,PATH-ISH,H,Y,455,Path ISH Sample,Échantillon ISH Pathologie
+Path Laser Microdissected,PATH-LMD,H,Y,456,Path Laser Microdissected,Microdisséqué Laser Pathologie
+Path Multiplex IHC,PATH-MIHC,H,Y,457,Path Multiplex IHC,IHC Multiplex Pathologie
+Path Immunofluorescent,PATH-IF,H,Y,458,Path Immunofluorescent,Immunofluorescent Pathologie
+Path RNAscope Sample,PATH-RNSC,H,Y,459,Path RNAscope Sample,Échantillon RNAscope Pathologie
+Path Positive Control,PATH-POS,O,Y,460,Path Positive Control,Témoin Positif Pathologie
+Path Negative Control,PATH-NEG,O,Y,461,Path Negative Control,Témoin Négatif Pathologie
+Path RT Storage,PATH-RTS,H,Y,462,Path RT Storage,Stockage TA Pathologie
+Path Refrigerated 4C,PATH-4C,H,Y,463,Path Refrigerated 4C,Réfrigéré 4C Pathologie
+Path Frozen -80C,PATH-80C,H,Y,464,Path Frozen -80C,Congelé -80C Pathologie
+Path LN2 Vapor Storage,PATH-LN2V,H,Y,465,Path LN2 Vapor Storage,Stockage Vapeur LN2 Pathologie
+Path Slide Box Storage,PATH-SBS,H,Y,466,Path Slide Box Storage,Stockage Boîte Lames Pathologie
+Path Archived Sample,PATH-ARCH,H,Y,467,Path Archived Sample,Échantillon Archivé Pathologie
+Path Disposal Sample,PATH-DISP,H,Y,468,Path Disposal Sample,Échantillon Élimination Pathologie

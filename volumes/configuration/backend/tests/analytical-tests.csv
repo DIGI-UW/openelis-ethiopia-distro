@@ -1,0 +1,124 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Analytical Sample Reception,Biochemistry,Analytical Processed Biological Sample|Analytical Medicine Sample|Analytical Pharmaceutical Sample|Analytical Client Sample|Analytical Researcher Sample,,Y,Y,1100,,Analytical Sample Reception,Réception Échantillon Analytique
+Analytical Medical Lab Sample Reception,Biochemistry,Analytical Medical Lab Sample,,Y,Y,1101,,Analytical Medical Lab Sample Reception,Réception Échantillon Labo Médical Analytique
+Analytical Clinical Site Sample Reception,Biochemistry,Analytical Clinical Site Sample,,Y,Y,1102,,Analytical Clinical Site Sample Reception,Réception Échantillon Site Clinique Analytique
+Analytical Medicine Reception,Biochemistry,Analytical Medicine Sample,,Y,Y,1103,,Analytical Medicine Reception,Réception Médicament Analytique
+Analytical Biological Sample Reception,Biochemistry,Analytical Processed Biological Sample,,Y,Y,1104,,Analytical Biological Sample Reception,Réception Échantillon Biologique Analytique
+Analytical Researcher Sample Reception,Biochemistry,Analytical Researcher Sample,,Y,Y,1105,,Analytical Researcher Sample Reception,Réception Échantillon Chercheur Analytique
+Analytical Client Sample Reception,Biochemistry,Analytical Client Sample,,Y,Y,1106,,Analytical Client Sample Reception,Réception Échantillon Client Analytique
+Analytical Outsourced Sample Reception,Biochemistry,Analytical Outsourced Sample,,Y,Y,1107,,Analytical Outsourced Sample Reception,Réception Échantillon Externalisé Analytique
+Analytical Pharmaceutical Analysis Reception,Biochemistry,Analytical Pharmaceutical Sample,,Y,Y,1108,,Analytical Pharmaceutical Analysis Reception,Réception Analyse Pharmaceutique Analytique
+Analytical Bioanalytical Test Reception,Biochemistry,Analytical Bioanalytical Sample,,Y,Y,1109,,Analytical Bioanalytical Test Reception,Réception Test Bioanalytique Analytique
+Analytical Sample Identifier Assignment,Biochemistry,Analytical Medicine Sample|Analytical Pharmaceutical Sample|Analytical Bioanalytical Sample,,Y,Y,1110,,Analytical Sample Identifier Assignment,Attribution Identifiant Échantillon Analytique
+Analytical Sample Identifier Retention,Biochemistry,Analytical Medicine Sample|Analytical Pharmaceutical Sample|Analytical Bioanalytical Sample,,Y,Y,1111,,Analytical Sample Identifier Retention,Rétention Identifiant Échantillon Analytique
+Analytical Sample Log Registration,Biochemistry,Analytical Medicine Sample|Analytical Pharmaceutical Sample|Analytical Bioanalytical Sample,,Y,Y,1112,,Analytical Sample Log Registration,Enregistrement Journal Échantillon Analytique
+Analytical Sample Type Registration,Biochemistry,Analytical API|Analytical Tablet|Analytical Capsule|Analytical Powder|Analytical Solution|Analytical Suspension|Analytical Cream|Analytical Ointment|Analytical Injection|Analytical Syrup|Analytical Emulsion,,Y,Y,1113,,Analytical Sample Type Registration,Enregistrement Type Échantillon Analytique
+Analytical API Registration,Biochemistry,Analytical API,,Y,Y,1114,,Analytical API Registration,Enregistrement API Analytique
+Analytical Tablet Registration,Biochemistry,Analytical Tablet,,Y,Y,1115,,Analytical Tablet Registration,Enregistrement Comprimé Analytique
+Analytical Capsule Registration,Biochemistry,Analytical Capsule,,Y,Y,1116,,Analytical Capsule Registration,Enregistrement Gélule Analytique
+Analytical Powder Registration,Biochemistry,Analytical Powder,,Y,Y,1117,,Analytical Powder Registration,Enregistrement Poudre Analytique
+Analytical Solution Registration,Biochemistry,Analytical Solution,,Y,Y,1118,,Analytical Solution Registration,Enregistrement Solution Analytique
+Analytical Test Request Registration,Biochemistry,Analytical Medicine Sample|Analytical Pharmaceutical Sample|Analytical Bioanalytical Sample,,Y,Y,1119,,Analytical Test Request Registration,Enregistrement Demande Test Analytique
+Analytical Assay Test Request,Biochemistry,Analytical Assay Sample,,Y,Y,1120,,Analytical Assay Test Request,Demande Test Essai Analytique
+Analytical Dissolution Test Request,Biochemistry,Analytical Dissolution Sample,,Y,Y,1121,,Analytical Dissolution Test Request,Demande Test Dissolution Analytique
+Analytical Disintegration Test Request,Biochemistry,Analytical Disintegration Sample,,Y,Y,1122,,Analytical Disintegration Test Request,Demande Test Désintégration Analytique
+Analytical Friability Test Request,Biochemistry,Analytical Friability Sample,,Y,Y,1123,,Analytical Friability Test Request,Demande Test Friabilité Analytique
+Analytical Hardness Test Request,Biochemistry,Analytical Hardness Sample,,Y,Y,1124,,Analytical Hardness Test Request,Demande Test Dureté Analytique
+Analytical Identity Test Request,Biochemistry,Analytical Identity Test Sample,,Y,Y,1125,,Analytical Identity Test Request,Demande Test Identité Analytique
+Analytical Storage Condition Registration,Biochemistry,Analytical Medicine Sample|Analytical Pharmaceutical Sample|Analytical Bioanalytical Sample,,Y,Y,1126,,Analytical Storage Condition Registration,Enregistrement Condition Stockage Analytique
+Analytical Room Temperature Condition,Biochemistry,Analytical Room Temperature Storage,,Y,Y,1127,°C,Analytical Room Temperature Condition,Condition Température Ambiante Analytique
+Analytical Refrigerated Condition,Biochemistry,Analytical Refrigerated Storage,,Y,Y,1128,°C,Analytical Refrigerated Condition,Condition Réfrigérée Analytique
+Analytical Frozen Condition,Biochemistry,Analytical Frozen Storage,,Y,Y,1129,°C,Analytical Frozen Condition,Condition Congelée Analytique
+Analytical Controlled Condition,Biochemistry,Analytical Controlled Storage,,Y,Y,1130,°C,Analytical Controlled Condition,Condition Contrôlée Analytique
+Analytical Test Assignment,Biochemistry,Analytical Medicine Sample|Analytical Pharmaceutical Sample|Analytical Bioanalytical Sample,,Y,Y,1131,,Analytical Test Assignment,Attribution Test Analytique
+Analytical Chemical Analyst Assignment,Biochemistry,Analytical Pharmaceutical Sample|Analytical Physicochemical Sample,,Y,Y,1132,,Analytical Chemical Analyst Assignment,Attribution Analyste Chimique Analytique
+Analytical Pharmacist Assignment,Biochemistry,Analytical Pharmaceutical Sample,,Y,Y,1133,,Analytical Pharmacist Assignment,Attribution Pharmacien Analytique
+Analytical Researcher Assignment,Biochemistry,Analytical R&D Sample|Analytical Bioanalytical Sample,,Y,Y,1134,,Analytical Researcher Assignment,Attribution Chercheur Analytique
+Analytical Methodology Selection,Biochemistry,Analytical Medicine Sample|Analytical Pharmaceutical Sample|Analytical Bioanalytical Sample,,Y,Y,1135,,Analytical Methodology Selection,Sélection Méthodologie Analytique
+Analytical HPLC Method Selection,Biochemistry,Analytical HPLC Sample,,Y,Y,1136,,Analytical HPLC Method Selection,Sélection Méthode HPLC Analytique
+Analytical UV-Vis Method Selection,Biochemistry,Analytical UV-Vis Sample,,Y,Y,1137,,Analytical UV-Vis Method Selection,Sélection Méthode UV-Vis Analytique
+Analytical LC-MS/MS Method Selection,Biochemistry,Analytical LC-MS/MS Sample,,Y,Y,1138,,Analytical LC-MS/MS Method Selection,Sélection Méthode LC-MS/MS Analytique
+Analytical Dissolution USP I Method,Biochemistry,Analytical Dissolution USP I Sample,,Y,Y,1139,,Analytical Dissolution USP I Method,Méthode Dissolution USP I Analytique
+Analytical Dissolution USP II Method,Biochemistry,Analytical Dissolution USP II Sample,,Y,Y,1140,,Analytical Dissolution USP II Method,Méthode Dissolution USP II Analytique
+Analytical Hardness Method Selection,Biochemistry,Analytical Hardness Sample,,Y,Y,1141,,Analytical Hardness Method Selection,Sélection Méthode Dureté Analytique
+Analytical Friability Method Selection,Biochemistry,Analytical Friability Sample,,Y,Y,1142,,Analytical Friability Method Selection,Sélection Méthode Friabilité Analytique
+Analytical Disintegration Method Selection,Biochemistry,Analytical Disintegration Sample,,Y,Y,1143,,Analytical Disintegration Method Selection,Sélection Méthode Désintégration Analytique
+Analytical Identity Test Method Selection,Biochemistry,Analytical Identity Test Sample,,Y,Y,1144,,Analytical Identity Test Method Selection,Sélection Méthode Test Identité Analytique
+Analytical Sample Preparation,Biochemistry,Analytical Prepared Sample,,Y,Y,1145,,Analytical Sample Preparation,Préparation Échantillon Analytique
+Analytical Reference Standard Preparation,Biochemistry,Analytical Reference Standard,,Y,Y,1146,,Analytical Reference Standard Preparation,Préparation Standard Référence Analytique
+Analytical Working Standard Preparation,Biochemistry,Analytical Working Standard,,Y,Y,1147,,Analytical Working Standard Preparation,Préparation Standard Travail Analytique
+Analytical Assay Test,Biochemistry,Analytical Assay Sample,54454-4,Y,Y,1148,%,Analytical Assay Test,Test Essai Analytique
+Analytical Content Uniformity Test,Biochemistry,Analytical Tablet|Analytical Capsule,,Y,Y,1149,%,Analytical Content Uniformity Test,Test Uniformité Teneur Analytique
+Analytical Dissolution Test,Biochemistry,Analytical Dissolution Sample,54453-6,Y,Y,1150,%,Analytical Dissolution Test,Test Dissolution Analytique
+Analytical Dissolution USP I Test,Biochemistry,Analytical Dissolution USP I Sample,,Y,Y,1151,%,Analytical Dissolution USP I Test,Test Dissolution USP I Analytique
+Analytical Dissolution USP II Test,Biochemistry,Analytical Dissolution USP II Sample,,Y,Y,1152,%,Analytical Dissolution USP II Test,Test Dissolution USP II Analytique
+Analytical Disintegration Test,Biochemistry,Analytical Disintegration Sample,54455-1,Y,Y,1153,minutes,Analytical Disintegration Test,Test Désintégration Analytique
+Analytical Friability Test,Biochemistry,Analytical Friability Sample,54456-9,Y,Y,1154,%,Analytical Friability Test,Test Friabilité Analytique
+Analytical Hardness Test,Biochemistry,Analytical Hardness Sample,54457-7,Y,Y,1155,N,Analytical Hardness Test,Test Dureté Analytique
+Analytical Identity Test,Biochemistry,Analytical Identity Test Sample,54458-5,Y,Y,1156,,Analytical Identity Test,Test Identité Analytique
+Analytical HPLC Analysis,Biochemistry,Analytical HPLC Sample,50575-5,Y,Y,1157,,Analytical HPLC Analysis,Analyse HPLC Analytique
+Analytical UV-Vis Spectroscopy,Biochemistry,Analytical UV-Vis Sample,25376-0,Y,Y,1158,,Analytical UV-Vis Spectroscopy,Spectroscopie UV-Vis Analytique
+Analytical LC-MS/MS Analysis,Biochemistry,Analytical LC-MS/MS Sample,85069-3,Y,Y,1159,,Analytical LC-MS/MS Analysis,Analyse LC-MS/MS Analytique
+Analytical Bioanalytical Test,Biochemistry,Analytical Bioanalytical Sample,,Y,Y,1160,,Analytical Bioanalytical Test,Test Bioanalytique Analytique
+Analytical Physicochemical Test,Biochemistry,Analytical Physicochemical Sample,,Y,Y,1161,,Analytical Physicochemical Test,Test Physicochimique Analytique
+Analytical R&D Test,Biochemistry,Analytical R&D Sample,,Y,Y,1162,,Analytical R&D Test,Test R&D Analytique
+Analytical pH Test,Biochemistry,Analytical Solution|Analytical Suspension,2746-4,Y,Y,1163,pH,Analytical pH Test,Test pH Analytique
+Analytical Viscosity Test,Biochemistry,Analytical Solution|Analytical Suspension|Analytical Cream|Analytical Ointment,,Y,Y,1164,cP,Analytical Viscosity Test,Test Viscosité Analytique
+Analytical Specific Gravity Test,Biochemistry,Analytical Solution|Analytical Suspension,,Y,Y,1165,g/mL,Analytical Specific Gravity Test,Test Densité Analytique
+Analytical Refractive Index Test,Biochemistry,Analytical Solution,,Y,Y,1166,,Analytical Refractive Index Test,Test Indice Réfraction Analytique
+Analytical Moisture Content Test,Biochemistry,Analytical Powder|Analytical Raw Material,,Y,Y,1167,%,Analytical Moisture Content Test,Test Teneur Humidité Analytique
+Analytical Loss on Drying Test,Biochemistry,Analytical Powder|Analytical Raw Material,,Y,Y,1168,%,Analytical Loss on Drying Test,Test Perte au Séchage Analytique
+Analytical Residue on Ignition Test,Biochemistry,Analytical Powder|Analytical Raw Material,,Y,Y,1169,%,Analytical Residue on Ignition Test,Test Résidu à Calcination Analytique
+Analytical Heavy Metals Test,Biochemistry,Analytical API|Analytical Raw Material,,Y,Y,1170,ppm,Analytical Heavy Metals Test,Test Métaux Lourds Analytique
+Analytical Microbial Limit Test,Microbiology,Analytical Medicine Sample|Analytical Pharmaceutical Sample,,Y,Y,1171,CFU/g,Analytical Microbial Limit Test,Test Limite Microbienne Analytique
+Analytical Sterility Test,Microbiology,Analytical Injection|Analytical Solution,,Y,Y,1172,,Analytical Sterility Test,Test Stérilité Analytique
+Analytical Endotoxin Test,Microbiology,Analytical Injection,,Y,Y,1173,EU/mL,Analytical Endotoxin Test,Test Endotoxine Analytique
+Analytical Particle Size Analysis,Biochemistry,Analytical Powder|Analytical Suspension,,Y,Y,1174,µm,Analytical Particle Size Analysis,Analyse Taille Particule Analytique
+Analytical Melting Point Test,Biochemistry,Analytical API|Analytical Raw Material,,Y,Y,1175,°C,Analytical Melting Point Test,Test Point Fusion Analytique
+Analytical Boiling Point Test,Biochemistry,Analytical Solution,,Y,Y,1176,°C,Analytical Boiling Point Test,Test Point Ébullition Analytique
+Analytical Water Content Test,Biochemistry,Analytical API|Analytical Raw Material,,Y,Y,1177,%,Analytical Water Content Test,Test Teneur Eau Analytique
+Analytical Related Substances Test,Biochemistry,Analytical API|Analytical Medicine Sample,,Y,Y,1178,%,Analytical Related Substances Test,Test Substances Apparentées Analytique
+Analytical Impurities Test,Biochemistry,Analytical API|Analytical Medicine Sample,,Y,Y,1179,%,Analytical Impurities Test,Test Impuretés Analytique
+Analytical Residual Solvents Test,Biochemistry,Analytical API|Analytical Medicine Sample,,Y,Y,1180,ppm,Analytical Residual Solvents Test,Test Solvants Résiduels Analytique
+Analytical Drug Release Profile,Biochemistry,Analytical Tablet|Analytical Capsule,,Y,Y,1181,%,Analytical Drug Release Profile,Profil Libération Médicament Analytique
+Analytical Stability Testing,Biochemistry,Analytical Stability Sample,,Y,Y,1182,,Analytical Stability Testing,Test Stabilité Analytique
+Analytical Accelerated Stability,Biochemistry,Analytical Stability Sample,,Y,Y,1183,,Analytical Accelerated Stability,Stabilité Accélérée Analytique
+Analytical Long-Term Stability,Biochemistry,Analytical Stability Sample,,Y,Y,1184,,Analytical Long-Term Stability,Stabilité Long Terme Analytique
+Analytical Photostability Test,Biochemistry,Analytical Stability Sample,,Y,Y,1185,,Analytical Photostability Test,Test Photostabilité Analytique
+Analytical Forced Degradation Study,Biochemistry,Analytical API|Analytical Medicine Sample,,Y,Y,1186,,Analytical Forced Degradation Study,Étude Dégradation Forcée Analytique
+Analytical Method Validation,Biochemistry,Analytical Quality Control Sample,,Y,Y,1187,,Analytical Method Validation,Validation Méthode Analytique
+Analytical Method Verification,Biochemistry,Analytical Quality Control Sample,,Y,Y,1188,,Analytical Method Verification,Vérification Méthode Analytique
+Analytical Linearity Test,Biochemistry,Analytical Quality Control Sample,,Y,Y,1189,,Analytical Linearity Test,Test Linéarité Analytique
+Analytical Precision Test,Biochemistry,Analytical Quality Control Sample,,Y,Y,1190,%RSD,Analytical Precision Test,Test Précision Analytique
+Analytical Accuracy Test,Biochemistry,Analytical Quality Control Sample,,Y,Y,1191,%,Analytical Accuracy Test,Test Exactitude Analytique
+Analytical Specificity Test,Biochemistry,Analytical Quality Control Sample,,Y,Y,1192,,Analytical Specificity Test,Test Spécificité Analytique
+Analytical Robustness Test,Biochemistry,Analytical Quality Control Sample,,Y,Y,1193,,Analytical Robustness Test,Test Robustesse Analytique
+Analytical LOD Determination,Biochemistry,Analytical Quality Control Sample,,Y,Y,1194,,Analytical LOD Determination,Détermination LOD Analytique
+Analytical LOQ Determination,Biochemistry,Analytical Quality Control Sample,,Y,Y,1195,,Analytical LOQ Determination,Détermination LOQ Analytique
+Analytical System Suitability Test,Biochemistry,Analytical Quality Control Sample,,Y,Y,1196,,Analytical System Suitability Test,Test Aptitude Système Analytique
+Analytical QC Sample Analysis,Biochemistry,Analytical Quality Control Sample,,Y,Y,1197,,Analytical QC Sample Analysis,Analyse Échantillon CQ Analytique
+Analytical Blank Analysis,Biochemistry,Analytical Quality Control Sample,,Y,Y,1198,,Analytical Blank Analysis,Analyse Blanc Analytique
+Analytical Standard Curve Preparation,Biochemistry,Analytical Reference Standard,,Y,Y,1199,,Analytical Standard Curve Preparation,Préparation Courbe Standard Analytique
+Analytical Calibration Verification,Biochemistry,Analytical Quality Control Sample,,Y,Y,1200,,Analytical Calibration Verification,Vérification Étalonnage Analytique
+Analytical Instrument Performance Check,Biochemistry,Analytical Quality Control Sample,,Y,Y,1201,,Analytical Instrument Performance Check,Vérification Performance Instrument Analytique
+Analytical Result Calculation,Biochemistry,Analytical Tested Sample,,Y,Y,1202,,Analytical Result Calculation,Calcul Résultat Analytique
+Analytical Data Review,Biochemistry,Analytical Tested Sample,,Y,Y,1203,,Analytical Data Review,Examen Données Analytique
+Analytical Result Verification,Biochemistry,Analytical Tested Sample,,Y,Y,1204,,Analytical Result Verification,Vérification Résultat Analytique
+Analytical Result Approval,Biochemistry,Analytical Tested Sample,,Y,Y,1205,,Analytical Result Approval,Approbation Résultat Analytique
+Analytical Result Report Compilation,Biochemistry,Analytical Result Reported Sample,,Y,Y,1206,,Analytical Result Report Compilation,Compilation Rapport Résultat Analytique
+Analytical Certificate of Analysis,Biochemistry,Analytical Result Reported Sample,,Y,Y,1207,,Analytical Certificate of Analysis,Certificat Analyse Analytique
+Analytical Result Submission,Biochemistry,Analytical Result Reported Sample,,Y,Y,1208,,Analytical Result Submission,Soumission Résultat Analytique
+Analytical Result to Requesting Unit,Biochemistry,Analytical Result Reported Sample,,Y,Y,1209,,Analytical Result to Requesting Unit,Résultat à Unité Demandeuse Analytique
+Analytical Result to Researcher,Biochemistry,Analytical Result Reported Sample,,Y,Y,1210,,Analytical Result to Researcher,Résultat à Chercheur Analytique
+Analytical Result to Client,Biochemistry,Analytical Result Reported Sample,,Y,Y,1211,,Analytical Result to Client,Résultat à Client Analytique
+Analytical Post-Test Sample Selection,Biochemistry,Analytical Tested Sample,,Y,Y,1212,,Analytical Post-Test Sample Selection,Sélection Échantillon Post-Test Analytique
+Analytical Biorepository Transfer,Biochemistry,Analytical Biorepository Sample,,Y,Y,1213,,Analytical Biorepository Transfer,Transfert Bioréférentiel Analytique
+Analytical Retention Sample Storage,Biochemistry,Analytical Retention Sample,,Y,Y,1214,,Analytical Retention Sample Storage,Stockage Échantillon Rétention Analytique
+Analytical Stability Duration Storage,Biochemistry,Analytical Stability Sample,,Y,Y,1215,,Analytical Stability Duration Storage,Stockage Durée Stabilité Analytique
+Analytical Legal Hold Storage,Biochemistry,Analytical Legal Hold Sample,,Y,Y,1216,,Analytical Legal Hold Storage,Stockage Conservation Légale Analytique
+Analytical Sample Disposal,Biochemistry,Analytical Tested Sample,,Y,Y,1217,,Analytical Sample Disposal,Élimination Échantillon Analytique
+Analytical Data Archiving,Biochemistry,Analytical Result Reported Sample,,Y,Y,1218,,Analytical Data Archiving,Archivage Données Analytique
+Analytical Metadata Archiving,Biochemistry,Analytical Result Reported Sample,,Y,Y,1219,,Analytical Metadata Archiving,Archivage Métadonnées Analytique
+Analytical Raw Data Storage,Biochemistry,Analytical Result Reported Sample,,Y,Y,1220,,Analytical Raw Data Storage,Stockage Données Brutes Analytique
+Analytical Chromatogram Archiving,Biochemistry,Analytical HPLC Sample|Analytical LC-MS/MS Sample,,Y,Y,1221,,Analytical Chromatogram Archiving,Archivage Chromatogramme Analytique
+Analytical Spectrum Archiving,Biochemistry,Analytical UV-Vis Sample,,Y,Y,1222,,Analytical Spectrum Archiving,Archivage Spectre Analytique

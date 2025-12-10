@@ -1,0 +1,112 @@
+testName,sampleType
+Field Sample Collection,Field Sample
+External Sample Reception,External Organization Sample
+MNTD Sample Registration,MNTD Whole Blood
+MNTD Sample Registration,MNTD Serum
+MNTD Sample Registration,MNTD Plasma
+MNTD Sample Registration,Cell Pellet
+MNTD Sample Registration,Dried Blood Spot
+MNTD Sample Registration,Skin Slit Smear
+MNTD Sample Registration,Biopsy Sample
+MNTD Sample Registration,Microbiopsy
+MNTD Sample Registration,Tissue Aspirate
+MNTD Sample Registration,DNAShield Sample
+MNTD Sample Registration,RNA Protect Sample
+MNTD Sample Registration,Cell Culture
+MNTD Sample Registration,Cultured Parasite
+MNTD Sample Registration,Tissue in Direct Saline
+MNTD Sample Registration,Colony Mosquito
+MNTD Sample Registration,Wild Mosquito
+MNTD Sample Registration,Mosquito Head and Thorax
+MNTD Sample Registration,Mosquito Abdomen
+MNTD Sample Registration,Sandfly
+MNTD Sample Registration,Tsetse Fly
+Project Association,Field Sample
+Project Association,External Organization Sample
+Sample Labeling,Field Sample
+Sample Labeling,MNTD Whole Blood
+Sample Labeling,MNTD Serum
+Sample Labeling,MNTD Plasma
+Sample Labeling,Dried Blood Spot
+Barcode Generation,Field Sample
+Barcode Generation,MNTD Whole Blood
+Barcode Generation,MNTD Serum
+Barcode Generation,MNTD Plasma
+Barcode Generation,Dried Blood Spot
+Reception Quality Assessment,MNTD Whole Blood
+Reception Quality Assessment,MNTD Serum
+Reception Quality Assessment,MNTD Plasma
+Reception Quality Assessment,Cell Pellet
+Reception Quality Assessment,Dried Blood Spot
+Reception Quality Assessment,Skin Slit Smear
+Reception Quality Assessment,Biopsy Sample
+Reception Quality Assessment,Microbiopsy
+Reception Quality Assessment,Tissue Aspirate
+Reception Quality Assessment,DNAShield Sample
+Reception Quality Assessment,RNA Protect Sample
+Reception Quality Assessment,Cell Culture
+Reception Quality Assessment,Cultured Parasite
+Reception Quality Assessment,Tissue in Direct Saline
+Reception Quality Assessment,Colony Mosquito
+Reception Quality Assessment,Wild Mosquito
+Reception Quality Assessment,Mosquito Head and Thorax
+Reception Quality Assessment,Mosquito Abdomen
+Reception Quality Assessment,Sandfly
+Reception Quality Assessment,Tsetse Fly
+Quality Pass Verification,Quality Checked MNTD Sample
+Quality Failure Handling,Failed Quality Sample
+Failed Sample Notification,Failed Quality Sample
+Temporary Storage Assignment,Quality Checked MNTD Sample
+Temporary Storage Assignment,MNTD Whole Blood
+Temporary Storage Assignment,MNTD Serum
+Temporary Storage Assignment,MNTD Plasma
+Temporary Storage Assignment,Dried Blood Spot
+Freezer Location Mapping,Quality Checked MNTD Sample
+Freezer Temperature Monitoring,Quality Checked MNTD Sample
+Reagent Quality Check,Control Sample
+Reagent Registration,Control Sample
+Reagent Storage,Control Sample
+Sample Preparation for Processing,Quality Checked MNTD Sample
+Sample Preparation for Processing,MNTD Whole Blood
+Sample Preparation for Processing,MNTD Serum
+Sample Preparation for Processing,MNTD Plasma
+Sample Preparation for Processing,Dried Blood Spot
+Missed Sample Registration,Field Sample
+Reagent and Instrument Selection,Quality Checked MNTD Sample
+Sample Aliquoting,MNTD Whole Blood
+Sample Aliquoting,MNTD Serum
+Sample Aliquoting,MNTD Plasma
+Sample Aliquoting,Quality Checked MNTD Sample
+DBS Punching,Dried Blood Spot
+Plate Format Aliquoting,Aliquot Sample
+Microcentrifuge Tube Aliquoting,Aliquot Sample
+96-Well Plate Setup,96-Well Plate Sample
+9x9 Cryobox Setup,9x9 Cryobox Sample
+10x10 Cryobox Setup,10x10 Cryobox Sample
+Bulk Sample Import,96-Well Plate Sample
+Bulk Sample Import,9x9 Cryobox Sample
+Bulk Sample Import,10x10 Cryobox Sample
+Parent-Child Relationship Mapping,Aliquot Sample
+Parent-Child Relationship Mapping,DBS Punch
+Parent-Child Relationship Mapping,Plate Aliquot
+Control Sample Addition,Control Sample
+Laboratory Processing,Processed MNTD Sample
+Processing Quality Control,Processed MNTD Sample
+Quality Check Pass,Processed MNTD Sample
+Quality Check Fail,Failed Quality Sample
+Sample Re-extraction,Re-extraction Sample
+Sample Re-run,Failed Quality Sample
+Volume Tracking,Aliquot Sample
+Volume Tracking,MNTD Whole Blood
+Volume Tracking,MNTD Serum
+Volume Tracking,MNTD Plasma
+DBS Spot Tracking,Dried Blood Spot
+DBS Spot Tracking,DBS Punch
+Remaining Volume Recording,Aliquot Sample
+Remaining Volume Recording,MNTD Whole Blood
+Remaining Volume Recording,MNTD Serum
+Remaining Volume Recording,MNTD Plasma
+Remaining DBS Spots Recording,Dried Blood Spot
+Remaining DBS Spots Recording,DBS Punch
+Biorepository Transfer,MNTD Biorepository Sample
+Permanent Storage Assignment,MNTD Biorepository Sample

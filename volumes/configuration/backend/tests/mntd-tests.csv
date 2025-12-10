@@ -1,0 +1,42 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Field Sample Collection,MNTD,Field Sample,,Y,Y,400,,Field Sample Collection,Collecte d'Échantillon de Terrain
+External Sample Reception,MNTD,External Organization Sample,,Y,Y,401,,External Sample Reception,Réception d'Échantillon Externe
+MNTD Sample Registration,MNTD,MNTD Whole Blood|MNTD Serum|MNTD Plasma|Cell Pellet|Dried Blood Spot|Skin Slit Smear|Biopsy Sample|Microbiopsy|Tissue Aspirate|DNAShield Sample|RNA Protect Sample|Cell Culture|Cultured Parasite|Tissue in Direct Saline|Colony Mosquito|Wild Mosquito|Mosquito Head and Thorax|Mosquito Abdomen|Sandfly|Tsetse Fly,,Y,Y,402,,MNTD Sample Registration,Enregistrement d'Échantillon MNTD
+Project Association,MNTD,Field Sample|External Organization Sample,,Y,Y,403,,Project Association,Association de Projet
+Sample Labeling,MNTD,Field Sample|MNTD Whole Blood|MNTD Serum|MNTD Plasma|Dried Blood Spot,,Y,Y,404,,Sample Labeling,Étiquetage d'Échantillon
+Barcode Generation,MNTD,Field Sample|MNTD Whole Blood|MNTD Serum|MNTD Plasma|Dried Blood Spot,,Y,Y,405,,Barcode Generation,Génération de Code-Barres
+Reception Quality Assessment,MNTD,MNTD Whole Blood|MNTD Serum|MNTD Plasma|Cell Pellet|Dried Blood Spot|Skin Slit Smear|Biopsy Sample|Microbiopsy|Tissue Aspirate|DNAShield Sample|RNA Protect Sample|Cell Culture|Cultured Parasite|Tissue in Direct Saline|Colony Mosquito|Wild Mosquito|Mosquito Head and Thorax|Mosquito Abdomen|Sandfly|Tsetse Fly,,Y,Y,406,,Reception Quality Assessment,Évaluation de Qualité à la Réception
+Quality Pass Verification,MNTD,Quality Checked MNTD Sample,,Y,Y,407,,Quality Pass Verification,Vérification de Passage de Qualité
+Quality Failure Handling,MNTD,Failed Quality Sample,,Y,Y,408,,Quality Failure Handling,Gestion d'Échec de Qualité
+Failed Sample Notification,MNTD,Failed Quality Sample,,Y,Y,409,,Failed Sample Notification,Notification d'Échantillon Échoué
+Temporary Storage Assignment,MNTD,Quality Checked MNTD Sample|MNTD Whole Blood|MNTD Serum|MNTD Plasma|Dried Blood Spot,,Y,Y,410,,Temporary Storage Assignment,Attribution de Stockage Temporaire
+Freezer Location Mapping,MNTD,Quality Checked MNTD Sample,,Y,Y,411,,Freezer Location Mapping,Cartographie d'Emplacement de Congélateur
+Freezer Temperature Monitoring,MNTD,Quality Checked MNTD Sample,,Y,Y,412,°C,Freezer Temperature Monitoring,Surveillance de Température de Congélateur
+Reagent Quality Check,MNTD,Control Sample,,Y,Y,413,,Reagent Quality Check,Vérification de Qualité de Réactif
+Reagent Registration,MNTD,Control Sample,,Y,Y,414,,Reagent Registration,Enregistrement de Réactif
+Reagent Storage,MNTD,Control Sample,,Y,Y,415,,Reagent Storage,Stockage de Réactif
+Sample Preparation for Processing,MNTD,Quality Checked MNTD Sample|MNTD Whole Blood|MNTD Serum|MNTD Plasma|Dried Blood Spot,,Y,Y,416,,Sample Preparation for Processing,Préparation d'Échantillon pour Traitement
+Missed Sample Registration,MNTD,Field Sample,,Y,Y,417,,Missed Sample Registration,Enregistrement d'Échantillon Manqué
+Reagent and Instrument Selection,MNTD,Quality Checked MNTD Sample,,Y,Y,418,,Reagent and Instrument Selection,Sélection de Réactif et Instrument
+Sample Aliquoting,MNTD,MNTD Whole Blood|MNTD Serum|MNTD Plasma|Quality Checked MNTD Sample,,Y,Y,419,µL,Sample Aliquoting,Aliquotage d'Échantillon
+DBS Punching,MNTD,Dried Blood Spot,,Y,Y,420,,DBS Punching,Poinçonnage DBS
+Plate Format Aliquoting,MNTD,Aliquot Sample,,Y,Y,421,,Plate Format Aliquoting,Aliquotage Format Plaque
+Microcentrifuge Tube Aliquoting,MNTD,Aliquot Sample,,Y,Y,422,µL,Microcentrifuge Tube Aliquoting,Aliquotage Tube Microcentrifuge
+96-Well Plate Setup,MNTD,96-Well Plate Sample,,Y,Y,423,,96-Well Plate Setup,Configuration Plaque 96 Puits
+9x9 Cryobox Setup,MNTD,9x9 Cryobox Sample,,Y,Y,424,,9x9 Cryobox Setup,Configuration Cryoboîte 9x9
+10x10 Cryobox Setup,MNTD,10x10 Cryobox Sample,,Y,Y,425,,10x10 Cryobox Setup,Configuration Cryoboîte 10x10
+Bulk Sample Import,MNTD,96-Well Plate Sample|9x9 Cryobox Sample|10x10 Cryobox Sample,,Y,Y,426,,Bulk Sample Import,Importation en Vrac d'Échantillon
+Parent-Child Relationship Mapping,MNTD,Aliquot Sample|DBS Punch|Plate Aliquot,,Y,Y,427,,Parent-Child Relationship Mapping,Cartographie de Relation Parent-Enfant
+Control Sample Addition,MNTD,Control Sample,,Y,Y,428,,Control Sample Addition,Ajout d'Échantillon Témoin
+Laboratory Processing,MNTD,Processed MNTD Sample,,Y,Y,429,,Laboratory Processing,Traitement de Laboratoire
+Processing Quality Control,MNTD,Processed MNTD Sample,,Y,Y,430,,Processing Quality Control,Contrôle Qualité de Traitement
+Quality Check Pass,MNTD,Processed MNTD Sample,,Y,Y,431,,Quality Check Pass,Passage de Contrôle Qualité
+Quality Check Fail,MNTD,Failed Quality Sample,,Y,Y,432,,Quality Check Fail,Échec de Contrôle Qualité
+Sample Re-extraction,MNTD,Re-extraction Sample,,Y,Y,433,,Sample Re-extraction,Ré-extraction d'Échantillon
+Sample Re-run,MNTD,Failed Quality Sample,,Y,Y,434,,Sample Re-run,Ré-exécution d'Échantillon
+Volume Tracking,MNTD,Aliquot Sample|MNTD Whole Blood|MNTD Serum|MNTD Plasma,,Y,Y,435,µL,Volume Tracking,Suivi de Volume
+DBS Spot Tracking,MNTD,Dried Blood Spot|DBS Punch,,Y,Y,436,spots,DBS Spot Tracking,Suivi de Tache DBS
+Remaining Volume Recording,MNTD,Aliquot Sample|MNTD Whole Blood|MNTD Serum|MNTD Plasma,,Y,Y,437,µL,Remaining Volume Recording,Enregistrement de Volume Restant
+Remaining DBS Spots Recording,MNTD,Dried Blood Spot|DBS Punch,,Y,Y,438,spots,Remaining DBS Spots Recording,Enregistrement de Taches DBS Restantes
+Biorepository Transfer,MNTD,MNTD Biorepository Sample,,Y,Y,439,,Biorepository Transfer,Transfert au Bioréférentiel
+Permanent Storage Assignment,MNTD,MNTD Biorepository Sample,,Y,Y,440,,Permanent Storage Assignment,Attribution de Stockage Permanent

@@ -1,0 +1,153 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Pharm Sample Accession,Biochemistry,Pharm API,,,Y,Y,1500,,Pharm Sample Accession,Accession Échantillon Pharmaceutique
+Pharm Sample ID Assignment,Biochemistry,Pharm API,,,Y,Y,1501,,Pharm Sample ID Assignment,Attribution ID Échantillon Pharmaceutique
+Pharm Chemical Name Registration,Biochemistry,Pharm API,,,Y,Y,1502,,Pharm Chemical Name Registration,Enregistrement Nom Chimique Pharmaceutique
+Pharm IUPAC Name Registration,Biochemistry,Pharm API,,,Y,Y,1503,,Pharm IUPAC Name Registration,Enregistrement Nom IUPAC Pharmaceutique
+Pharm Grade Registration,Biochemistry,Pharm API,,,Y,Y,1504,,Pharm Grade Registration,Enregistrement Grade Pharmaceutique
+Pharm Lot Batch Registration,Biochemistry,Pharm API,,,Y,Y,1505,,Pharm Lot Batch Registration,Enregistrement Lot Pharmaceutique
+Pharm Expiry Date Registration,Biochemistry,Pharm API,,,Y,Y,1506,,Pharm Expiry Date Registration,Enregistrement Date Péremption Pharmaceutique
+Pharm Storage Condition Registration,Biochemistry,Pharm API,,,Y,Y,1507,,Pharm Storage Condition Registration,Enregistrement Condition Stockage Pharmaceutique
+Pharm Owner Registration,Biochemistry,Pharm API,,,Y,Y,1508,,Pharm Owner Registration,Enregistrement Propriétaire Pharmaceutique
+Pharm Chain of Custody Log,Biochemistry,Pharm API,,,Y,Y,1509,,Pharm Chain of Custody Log,Journal Chaîne Traçabilité Pharmaceutique
+Pharm Clinical Trial Info Registration,Biochemistry,Pharm API,,,Y,Y,1510,,Pharm Clinical Trial Info Registration,Enregistrement Info Essai Clinique Pharmaceutique
+Pharm Label Accuracy Check,Biochemistry,Pharm API,,,Y,Y,1511,,Pharm Label Accuracy Check,Vérification Exactitude Étiquette Pharmaceutique
+Pharm Container Integrity Check,Biochemistry,Pharm API,,,Y,Y,1512,,Pharm Container Integrity Check,Vérification Intégrité Contenant Pharmaceutique
+Pharm Quantity Volume Check,Biochemistry,Pharm API,,,Y,Y,1513,,Pharm Quantity Volume Check,Vérification Quantité Volume Pharmaceutique
+Pharm Physical Appearance Check,Biochemistry,Pharm Tablet,,,Y,Y,1514,,Pharm Physical Appearance Check,Vérification Apparence Physique Pharmaceutique
+Pharm Expiry Validity Check,Biochemistry,Pharm API,,,Y,Y,1515,,Pharm Expiry Validity Check,Vérification Validité Péremption Pharmaceutique
+Pharm Storage Compliance Check,Biochemistry,Pharm API,,,Y,Y,1516,,Pharm Storage Compliance Check,Vérification Conformité Stockage Pharmaceutique
+Pharm Biological Sample Temperature Check,Biochemistry,Pharm Human Blood,,,Y,Y,1517,,Pharm Biological Sample Temperature Check,Vérification Température Échantillon Biologique Pharmaceutique
+Pharm Biological Sample Volume Check,Biochemistry,Pharm Human Blood,,,Y,Y,1518,,Pharm Biological Sample Volume Check,Vérification Volume Échantillon Biologique Pharmaceutique
+Pharm Biological Sample Hemolysis Check,Biochemistry,Pharm Human Blood,,,Y,Y,1519,,Pharm Biological Sample Hemolysis Check,Vérification Hémolyse Échantillon Biologique Pharmaceutique
+Pharm Biological Sample Clotting Check,Biochemistry,Pharm Human Blood,,,Y,Y,1520,,Pharm Biological Sample Clotting Check,Vérification Coagulation Échantillon Biologique Pharmaceutique
+Pharm Micro Sample Swab Check,Microbiology,Pharm Surface Swab,,,Y,Y,1521,,Pharm Micro Sample Swab Check,Vérification Écouvillon Échantillon Micro Pharmaceutique
+Pharm Micro Sample Transport Check,Microbiology,Pharm Surface Swab,,,Y,Y,1522,,Pharm Micro Sample Transport Check,Vérification Transport Échantillon Micro Pharmaceutique
+Pharm Micro Sample Growth Check,Microbiology,Pharm Microbial Culture,,,Y,Y,1523,,Pharm Micro Sample Growth Check,Vérification Croissance Échantillon Micro Pharmaceutique
+Pharm Water Sample Container Check,Microbiology,Pharm Purified Water,,,Y,Y,1524,,Pharm Water Sample Container Check,Vérification Contenant Échantillon Eau Pharmaceutique
+Pharm Water Sample Sterility Check,Microbiology,Pharm Purified Water,,,Y,Y,1525,,Pharm Water Sample Sterility Check,Vérification Stérilité Échantillon Eau Pharmaceutique
+Pharm Environmental Sample Swab Check,Microbiology,Pharm Environment Swab,,,Y,Y,1526,,Pharm Environmental Sample Swab Check,Vérification Écouvillon Échantillon Environnemental Pharmaceutique
+Pharm Sample Weighing,Biochemistry,Pharm Weighed Sample,,,Y,Y,1527,,Pharm Sample Weighing,Pesée Échantillon Pharmaceutique
+Pharm Sample Grinding,Biochemistry,Pharm Ground Sample,,,Y,Y,1528,,Pharm Sample Grinding,Broyage Échantillon Pharmaceutique
+Pharm Sample Homogenization,Biochemistry,Pharm Homogenized Sample,,,Y,Y,1529,,Pharm Sample Homogenization,Homogénéisation Échantillon Pharmaceutique
+Pharm Sample Extraction,Biochemistry,Pharm Dissolved Sample,,,Y,Y,1530,,Pharm Sample Extraction,Extraction Échantillon Pharmaceutique
+Pharm Sample Dissolution,Biochemistry,Pharm Dissolved Sample,,,Y,Y,1531,,Pharm Sample Dissolution,Dissolution Échantillon Pharmaceutique
+Pharm Calibration Solution Prep,Biochemistry,Pharm Calibration Solution,,,Y,Y,1532,,Pharm Calibration Solution Prep,Préparation Solution Étalonnage Pharmaceutique
+Pharm Biological Centrifugation,Biochemistry,Pharm Centrifuged Sample,,,Y,Y,1533,,Pharm Biological Centrifugation,Centrifugation Biologique Pharmaceutique
+Pharm Plasma Separation,Biochemistry,Pharm Plasma Separated,,,Y,Y,1534,,Pharm Plasma Separation,Séparation Plasma Pharmaceutique
+Pharm Serum Separation,Biochemistry,Pharm Serum Separated,,,Y,Y,1535,,Pharm Serum Separation,Séparation Sérum Pharmaceutique
+Pharm Protein Precipitation,Biochemistry,Pharm Aliquot,,,Y,Y,1536,,Pharm Protein Precipitation,Précipitation Protéine Pharmaceutique
+Pharm Tissue Homogenization,Biochemistry,Pharm Tissue Homogenate,,,Y,Y,1537,,Pharm Tissue Homogenization,Homogénéisation Tissu Pharmaceutique
+Pharm Micro Streak Culture,Microbiology,Pharm Streaked Culture,,,Y,Y,1538,,Pharm Micro Streak Culture,Culture Striée Micro Pharmaceutique
+Pharm Sample Filtration,Biochemistry,Pharm Filtered Sample,,,Y,Y,1539,,Pharm Sample Filtration,Filtration Échantillon Pharmaceutique
+Pharm Micro Enrichment Culture,Microbiology,Pharm Enriched Culture,,,Y,Y,1540,,Pharm Micro Enrichment Culture,Culture Enrichie Micro Pharmaceutique
+Pharm TLC Identification,Biochemistry,Pharm TLC Sample,54458-5,Y,Y,1541,,Pharm TLC Identification,Identification CCM Pharmaceutique
+Pharm UV Vis Identification,Biochemistry,Pharm API,,,Y,Y,1542,,Pharm UV Vis Identification,Identification UV-Vis Pharmaceutique
+Pharm FTIR Identification,Biochemistry,Pharm API,,,Y,Y,1543,,Pharm FTIR Identification,Identification FTIR Pharmaceutique
+Pharm Melting Point Determination,Biochemistry,Pharm API,,,Y,Y,1544,,Pharm Melting Point Determination,Détermination Point Fusion Pharmaceutique
+Pharm HPLC Potency Assay,Biochemistry,Pharm HPLC Sample,54454-4,Y,Y,1545,mg,Pharm HPLC Potency Assay,Dosage Puissance HPLC Pharmaceutique
+Pharm Titration Potency Assay,Biochemistry,Pharm API,,,Y,Y,1546,mg,Pharm Titration Potency Assay,Dosage Puissance Titrage Pharmaceutique
+Pharm UV Vis Potency Assay,Biochemistry,Pharm API,54454-4,Y,Y,1547,mg,Pharm UV Vis Potency Assay,Dosage Puissance UV-Vis Pharmaceutique
+Pharm HPLC Impurity Profile,Biochemistry,Pharm HPLC Sample,,,Y,Y,1548,%,Pharm HPLC Impurity Profile,Profil Impureté HPLC Pharmaceutique
+Pharm GC Impurity Profile,Biochemistry,Pharm GC Sample,,,Y,Y,1549,%,Pharm GC Impurity Profile,Profil Impureté CG Pharmaceutique
+Pharm LCMS Impurity Profile,Biochemistry,Pharm LCMS Sample,,,Y,Y,1550,%,Pharm LCMS Impurity Profile,Profil Impureté LCMS Pharmaceutique
+Pharm Related Substances Test,Biochemistry,Pharm HPLC Sample,,,Y,Y,1551,%,Pharm Related Substances Test,Test Substances Apparentées Pharmaceutique
+Pharm Residual Solvent Analysis,Biochemistry,Pharm GC Sample,,,Y,Y,1552,ppm,Pharm Residual Solvent Analysis,Analyse Solvant Résiduel Pharmaceutique
+Pharm Dissolution Test,Biochemistry,Pharm Tablet,54453-6,Y,Y,1553,%,Pharm Dissolution Test,Test Dissolution Pharmaceutique
+Pharm Disintegration Test,Biochemistry,Pharm Tablet,54455-1,Y,Y,1554,minutes,Pharm Disintegration Test,Test Désintégration Pharmaceutique
+Pharm Friability Test,Biochemistry,Pharm Tablet,54456-9,Y,Y,1555,%,Pharm Friability Test,Test Friabilité Pharmaceutique
+Pharm Hardness Test,Biochemistry,Pharm Tablet,54457-7,Y,Y,1556,N,Pharm Hardness Test,Test Dureté Pharmaceutique
+Pharm Thickness Test,Biochemistry,Pharm Tablet,,,Y,Y,1557,mm,Pharm Thickness Test,Test Épaisseur Pharmaceutique
+Pharm Uniformity of Mass Test,Biochemistry,Pharm Tablet,,,Y,Y,1558,mg,Pharm Uniformity of Mass Test,Test Uniformité Masse Pharmaceutique
+Pharm Content Uniformity Test,Biochemistry,Pharm Tablet,,,Y,Y,1559,%,Pharm Content Uniformity Test,Test Uniformité Teneur Pharmaceutique
+Pharm Viscosity Test,Biochemistry,Pharm Cream,,,Y,Y,1560,cP,Pharm Viscosity Test,Test Viscosité Pharmaceutique
+Pharm pH Test,Biochemistry,Pharm Solution,,,Y,Y,1561,,Pharm pH Test,Test pH Pharmaceutique
+Pharm Osmolality Test,Biochemistry,Pharm Injection,,,Y,Y,1562,mOsm/kg,Pharm Osmolality Test,Test Osmolalité Pharmaceutique
+Pharm Particulate Matter Test,Biochemistry,Pharm Injection,,,Y,Y,1563,,Pharm Particulate Matter Test,Test Particules Pharmaceutique
+Pharm Stability Accelerated Test,Biochemistry,Pharm Stability Sample,,,Y,Y,1564,,Pharm Stability Accelerated Test,Test Stabilité Accélérée Pharmaceutique
+Pharm Stability Long Term Test,Biochemistry,Pharm Stability Sample,,,Y,Y,1565,,Pharm Stability Long Term Test,Test Stabilité Long Terme Pharmaceutique
+Pharm Stability Intermediate Test,Biochemistry,Pharm Stability Sample,,,Y,Y,1566,,Pharm Stability Intermediate Test,Test Stabilité Intermédiaire Pharmaceutique
+Pharm Photostability Test,Biochemistry,Pharm Stability Sample,,,Y,Y,1567,,Pharm Photostability Test,Test Photostabilité Pharmaceutique
+Pharm Clinical Chemistry Test,Biochemistry,Pharm Human Blood,,,Y,Y,1568,,Pharm Clinical Chemistry Test,Test Chimie Clinique Pharmaceutique
+Pharm Hematology Test,Biochemistry,Pharm Human Blood,,,Y,Y,1569,,Pharm Hematology Test,Test Hématologie Pharmaceutique
+Pharm Coagulation Test,Biochemistry,Pharm Human Plasma,,,Y,Y,1570,,Pharm Coagulation Test,Test Coagulation Pharmaceutique
+Pharm ELISA Biomarker Analysis,Biochemistry,Pharm Human Blood,85421-6,Y,Y,1571,ng/mL,Pharm ELISA Biomarker Analysis,Analyse Biomarqueur ELISA Pharmaceutique
+Pharm HPLC Pharmacokinetics,Biochemistry,Pharm HPLC Sample,,,Y,Y,1572,ng/mL,Pharm HPLC Pharmacokinetics,Pharmacocinétique HPLC Pharmaceutique
+Pharm LCMS Pharmacokinetics,Biochemistry,Pharm LCMS Sample,,,Y,Y,1573,ng/mL,Pharm LCMS Pharmacokinetics,Pharmacocinétique LCMS Pharmaceutique
+Pharm PCR Detection,Biochemistry,Pharm Human Blood,21415-5,Y,Y,1574,,Pharm PCR Detection,Détection PCR Pharmaceutique
+Pharm qPCR Quantification,Biochemistry,Pharm Human Blood,,,Y,Y,1575,copies/mL,Pharm qPCR Quantification,Quantification qPCR Pharmaceutique
+Pharm Western Blot Analysis,Biochemistry,Pharm Human Blood,,,Y,Y,1576,,Pharm Western Blot Analysis,Analyse Western Blot Pharmaceutique
+Pharm Micro TAMC Test,Microbiology,Pharm Tablet,,,Y,Y,1577,CFU/g,Pharm Micro TAMC Test,Test TAMC Micro Pharmaceutique
+Pharm Micro TYMC Test,Microbiology,Pharm Tablet,,,Y,Y,1578,CFU/g,Pharm Micro TYMC Test,Test TYMC Micro Pharmaceutique
+Pharm Micro LAL Endotoxin Test,Microbiology,Pharm Injection,,,Y,Y,1579,EU/mL,Pharm Micro LAL Endotoxin Test,Test Endotoxine LAL Micro Pharmaceutique
+Pharm Micro Sterility Test,Microbiology,Pharm Injection,,,Y,Y,1580,,Pharm Micro Sterility Test,Test Stérilité Micro Pharmaceutique
+Pharm Water TOC Test,Microbiology,Pharm Purified Water,,,Y,Y,1581,ppb,Pharm Water TOC Test,Test COT Eau Pharmaceutique
+Pharm Water Conductivity Test,Microbiology,Pharm Purified Water,,,Y,Y,1582,µS/cm,Pharm Water Conductivity Test,Test Conductivité Eau Pharmaceutique
+Pharm Water pH Test,Microbiology,Pharm Purified Water,,,Y,Y,1583,,Pharm Water pH Test,Test pH Eau Pharmaceutique
+Pharm Water Microbial Test,Microbiology,Pharm Purified Water,,,Y,Y,1584,CFU/mL,Pharm Water Microbial Test,Test Microbien Eau Pharmaceutique
+Pharm Surface Microbial Test,Microbiology,Pharm Surface Swab,,,Y,Y,1585,CFU/cm²,Pharm Surface Microbial Test,Test Microbien Surface Pharmaceutique
+Pharm Equipment Microbial Test,Microbiology,Pharm Equipment Swab,,,Y,Y,1586,CFU,Pharm Equipment Microbial Test,Test Microbien Équipement Pharmaceutique
+Pharm Air Microbial Test,Microbiology,Pharm Environment Swab,,,Y,Y,1587,CFU/m³,Pharm Air Microbial Test,Test Microbien Air Pharmaceutique
+Pharm Antimicrobial Efficacy Test,Microbiology,Pharm Tablet,,,Y,Y,1588,,Pharm Antimicrobial Efficacy Test,Test Efficacité Antimicrobien Pharmaceutique
+Pharm Antimicrobial Challenge Test,Microbiology,Pharm Cream,,,Y,Y,1589,,Pharm Antimicrobial Challenge Test,Test Défi Antimicrobien Pharmaceutique
+Pharm Herbal Phytochemical Screen,Biochemistry,Pharm Plant Root,,,Y,Y,1590,,Pharm Herbal Phytochemical Screen,Criblage Phytochimique Herbe Pharmaceutique
+Pharm Herbal Extraction Yield,Biochemistry,Pharm Plant Root,,,Y,Y,1591,%,Pharm Herbal Extraction Yield,Rendement Extraction Herbe Pharmaceutique
+Pharm Herbal HPLC Fingerprint,Biochemistry,Pharm HPLC Sample,,,Y,Y,1592,,Pharm Herbal HPLC Fingerprint,Empreinte HPLC Herbe Pharmaceutique
+Pharm Herbal Heavy Metal Test,Biochemistry,Pharm Plant Root,,,Y,Y,1593,ppm,Pharm Herbal Heavy Metal Test,Test Métal Lourd Herbe Pharmaceutique
+Pharm Herbal Pesticide Residue Test,Biochemistry,Pharm Plant Root,,,Y,Y,1594,ppm,Pharm Herbal Pesticide Residue Test,Test Résidu Pesticide Herbe Pharmaceutique
+Pharm Herbal Microbial Load Test,Microbiology,Pharm Plant Root,,,Y,Y,1595,CFU/g,Pharm Herbal Microbial Load Test,Test Charge Microbienne Herbe Pharmaceutique
+Pharm Herbal Marker Compound Assay,Biochemistry,Pharm HPLC Sample,,,Y,Y,1596,%,Pharm Herbal Marker Compound Assay,Dosage Composé Marqueur Herbe Pharmaceutique
+Pharm Positive Control Analysis,Biochemistry,Pharm Positive Control,,,Y,Y,1597,,Pharm Positive Control Analysis,Analyse Témoin Positif Pharmaceutique
+Pharm Negative Control Analysis,Biochemistry,Pharm Negative Control,,,Y,Y,1598,,Pharm Negative Control Analysis,Analyse Témoin Négatif Pharmaceutique
+Pharm Internal Standard Addition,Biochemistry,Pharm Internal Standard,,,Y,Y,1599,,Pharm Internal Standard Addition,Addition Standard Interne Pharmaceutique
+Pharm Triplicate Analysis,Biochemistry,Pharm Aliquot,,,Y,Y,1600,,Pharm Triplicate Analysis,Analyse en Triple Pharmaceutique
+Pharm Method Validation Linearity,Biochemistry,Pharm Quality Control Sample,,,Y,Y,1601,,Pharm Method Validation Linearity,Validation Méthode Linéarité Pharmaceutique
+Pharm Method Validation Precision,Biochemistry,Pharm Quality Control Sample,,,Y,Y,1602,,Pharm Method Validation Precision,Validation Méthode Précision Pharmaceutique
+Pharm Method Validation Accuracy,Biochemistry,Pharm Quality Control Sample,,,Y,Y,1603,,Pharm Method Validation Accuracy,Validation Méthode Exactitude Pharmaceutique
+Pharm Method Validation Specificity,Biochemistry,Pharm Quality Control Sample,,,Y,Y,1604,,Pharm Method Validation Specificity,Validation Méthode Spécificité Pharmaceutique
+Pharm Method Validation LOD,Biochemistry,Pharm Quality Control Sample,,,Y,Y,1605,,Pharm Method Validation LOD,Validation Méthode LD Pharmaceutique
+Pharm Method Validation LOQ,Biochemistry,Pharm Quality Control Sample,,,Y,Y,1606,,Pharm Method Validation LOQ,Validation Méthode LQ Pharmaceutique
+Pharm OOS Investigation,Biochemistry,Pharm OOS Sample,,,Y,Y,1607,,Pharm OOS Investigation,Investigation HDS Pharmaceutique
+Pharm CAPA Initiation,Biochemistry,Pharm OOS Sample,,,Y,Y,1608,,Pharm CAPA Initiation,Initiation CAPA Pharmaceutique
+Pharm CAPA Execution,Biochemistry,Pharm OOS Sample,,,Y,Y,1609,,Pharm CAPA Execution,Exécution CAPA Pharmaceutique
+Pharm CAPA Verification,Biochemistry,Pharm OOS Sample,,,Y,Y,1610,,Pharm CAPA Verification,Vérification CAPA Pharmaceutique
+Pharm Data Capture ALCOA Check,Biochemistry,Pharm API,,,Y,Y,1611,,Pharm Data Capture ALCOA Check,Vérification ALCOA Capture Données Pharmaceutique
+Pharm Data Processing,Biochemistry,Pharm API,,,Y,Y,1612,,Pharm Data Processing,Traitement Données Pharmaceutique
+Pharm Data Interpretation,Biochemistry,Pharm API,,,Y,Y,1613,,Pharm Data Interpretation,Interprétation Données Pharmaceutique
+Pharm Data Review,Biochemistry,Pharm API,,,Y,Y,1614,,Pharm Data Review,Revue Données Pharmaceutique
+Pharm Data Approval,Biochemistry,Pharm API,,,Y,Y,1615,,Pharm Data Approval,Approbation Données Pharmaceutique
+Pharm OOS Flag,Biochemistry,Pharm OOS Sample,,,Y,Y,1616,,Pharm OOS Flag,Signalement HDS Pharmaceutique
+Pharm Aliquot Creation,Biochemistry,Pharm Aliquot,,,Y,Y,1617,,Pharm Aliquot Creation,Création Aliquote Pharmaceutique
+Pharm Parent Child Mapping,Biochemistry,Pharm Aliquot,,,Y,Y,1618,,Pharm Parent Child Mapping,Cartographie Parent-Enfant Pharmaceutique
+Pharm USI Generation,Biochemistry,Pharm Aliquot,,,Y,Y,1619,,Pharm USI Generation,Génération USI Pharmaceutique
+Pharm Barcode Generation,Biochemistry,Pharm Aliquot,,,Y,Y,1620,,Pharm Barcode Generation,Génération Code-Barres Pharmaceutique
+Pharm QR Code Generation,Biochemistry,Pharm Aliquot,,,Y,Y,1621,,Pharm QR Code Generation,Génération Code QR Pharmaceutique
+Pharm Storage Room Assignment,Biochemistry,Pharm RT Storage,,,Y,Y,1622,,Pharm Storage Room Assignment,Attribution Salle Stockage Pharmaceutique
+Pharm Storage Freezer Assignment,Biochemistry,Pharm Refrigerated 2-8C,,,Y,Y,1623,,Pharm Storage Freezer Assignment,Attribution Congélateur Stockage Pharmaceutique
+Pharm Storage Rack Assignment,Biochemistry,Pharm Refrigerated 2-8C,,,Y,Y,1624,,Pharm Storage Rack Assignment,Attribution Rack Stockage Pharmaceutique
+Pharm Storage Box Assignment,Biochemistry,Pharm Refrigerated 2-8C,,,Y,Y,1625,,Pharm Storage Box Assignment,Attribution Boîte Stockage Pharmaceutique
+Pharm Storage Position Assignment,Biochemistry,Pharm Refrigerated 2-8C,,,Y,Y,1626,,Pharm Storage Position Assignment,Attribution Position Stockage Pharmaceutique
+Pharm Temperature Monitoring,Biochemistry,Pharm Refrigerated 2-8C,,,Y,Y,1627,°C,Pharm Temperature Monitoring,Surveillance Température Pharmaceutique
+Pharm Humidity Monitoring,Biochemistry,Pharm RT Storage,,,Y,Y,1628,%,Pharm Humidity Monitoring,Surveillance Humidité Pharmaceutique
+Pharm Alarm System Check,Biochemistry,Pharm Frozen -20C,,,Y,Y,1629,,Pharm Alarm System Check,Vérification Système Alarme Pharmaceutique
+Pharm Backup System Check,Biochemistry,Pharm Frozen -80C,,,Y,Y,1630,,Pharm Backup System Check,Vérification Système Secours Pharmaceutique
+Pharm Contingency Plan Execution,Biochemistry,Pharm Frozen -80C,,,Y,Y,1631,,Pharm Contingency Plan Execution,Exécution Plan Contingence Pharmaceutique
+Pharm Sample Retrieval Request,Biochemistry,Pharm Retrieved Sample,,,Y,Y,1632,,Pharm Sample Retrieval Request,Demande Récupération Échantillon Pharmaceutique
+Pharm Chain of Custody Update,Biochemistry,Pharm Retrieved Sample,,,Y,Y,1633,,Pharm Chain of Custody Update,Mise à Jour Chaîne Traçabilité Pharmaceutique
+Pharm External Shipping Prep,Biochemistry,Pharm External Ship,,,Y,Y,1634,,Pharm External Shipping Prep,Préparation Envoi Externe Pharmaceutique
+Pharm IATA Compliance Check,Biochemistry,Pharm External Ship,,,Y,Y,1635,,Pharm IATA Compliance Check,Vérification Conformité IATA Pharmaceutique
+Pharm GMP Compliance Check,Biochemistry,Pharm External Ship,,,Y,Y,1636,,Pharm GMP Compliance Check,Vérification Conformité BPF Pharmaceutique
+Pharm MTA Documentation,Biochemistry,Pharm External Ship,,,Y,Y,1637,,Pharm MTA Documentation,Documentation MTA Pharmaceutique
+Pharm TAT Monitoring,Biochemistry,Pharm API,,,Y,Y,1638,hours,Pharm TAT Monitoring,Surveillance TAT Pharmaceutique
+Pharm QC Pass Rate Monitoring,Biochemistry,Pharm QC Pass,,,Y,Y,1639,%,Pharm QC Pass Rate Monitoring,Surveillance Taux Réussite QC Pharmaceutique
+Pharm Assay Success Rate Monitoring,Biochemistry,Pharm API,,,Y,Y,1640,%,Pharm Assay Success Rate Monitoring,Surveillance Taux Réussite Dosage Pharmaceutique
+Pharm Monthly Report Generation,Biochemistry,Pharm API,,,Y,Y,1641,,Pharm Monthly Report Generation,Génération Rapport Mensuel Pharmaceutique
+Pharm Disposal Criteria Check,Biochemistry,Pharm Disposal Sample,,,Y,Y,1642,,Pharm Disposal Criteria Check,Vérification Critères Élimination Pharmaceutique
+Pharm Incineration Disposal,Biochemistry,Pharm Disposal Sample,,,Y,Y,1643,,Pharm Incineration Disposal,Élimination Incinération Pharmaceutique
+Pharm Chemical Treatment Disposal,Biochemistry,Pharm Disposal Sample,,,Y,Y,1644,,Pharm Chemical Treatment Disposal,Élimination Traitement Chimique Pharmaceutique
+Pharm Autoclave Disposal,Biochemistry,Pharm Disposal Sample,,,Y,Y,1645,,Pharm Autoclave Disposal,Élimination Autoclave Pharmaceutique
+Pharm Landfill Disposal,Biochemistry,Pharm Disposal Sample,,,Y,Y,1646,,Pharm Landfill Disposal,Élimination Décharge Pharmaceutique
+Pharm Data Archiving,Biochemistry,Pharm Archived Sample,,,Y,Y,1647,,Pharm Data Archiving,Archivage Données Pharmaceutique
+Pharm Sample Archiving,Biochemistry,Pharm Archived Sample,,,Y,Y,1648,,Pharm Sample Archiving,Archivage Échantillon Pharmaceutique
+Pharm Retention Sample Storage,Biochemistry,Pharm Retention Sample,,,Y,Y,1649,,Pharm Retention Sample Storage,Stockage Échantillon Rétention Pharmaceutique
+Pharm GMP Data Retention,Biochemistry,Pharm Archived Sample,,,Y,Y,1650,,Pharm GMP Data Retention,Rétention Données BPF Pharmaceutique
+Pharm GxP Data Retention,Biochemistry,Pharm Archived Sample,,,Y,Y,1651,,Pharm GxP Data Retention,Rétention Données BxP Pharmaceutique

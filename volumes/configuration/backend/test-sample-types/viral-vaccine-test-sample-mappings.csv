@@ -1,0 +1,215 @@
+testName,sampleType
+VV Sample Arrival,VV Pre-labeled Sample
+VV Sample Arrival,VV Arrival Labeled Sample
+VV Sample Labeling,VV Arrival Labeled Sample
+VV Sample Registration,VV Viral Sample
+VV Sample Registration,VV Bacterial Sample
+VV Sample ID Assignment,VV Viral Sample
+VV Sample ID Assignment,VV Bacterial Sample
+VV Sample Source Registration,VV Viral Sample
+VV Sample Source Registration,VV Bacterial Sample
+VV Sample Type Registration,VV Viral Sample
+VV Sample Type Registration,VV Bacterial Sample
+VV Date Time Registration,VV Viral Sample
+VV Date Time Registration,VV Bacterial Sample
+VV Test Type Assignment,VV Viral Sample
+VV Test Type Assignment,VV Bacterial Sample
+VV Viral Stream Assignment,VV Viral Sample
+VV Bacterial Stream Assignment,VV Bacterial Sample
+VV Media Selection,VV Culture Media
+VV Reagent Selection,VV Reagent
+VV Equipment Selection,VV Equipment Sample
+VV Materials Used Log,VV Culture Media
+VV Materials Used Log,VV Reagent
+VV Materials Used Log,VV Equipment Sample
+VV Autoclaving Sterilization,VV Autoclaved Media
+VV Filtration Sterilization,VV Filtered Media
+VV Sterilization Parameters Log,VV Autoclaved Media
+VV Sterilization Parameters Log,VV Filtered Media
+VV Host Cell Culture Setup,VV Host Cell Line
+VV Cell Line Tracking,VV Host Cell Line
+VV Cell Growth Condition Log,VV Growing Cell Culture
+VV Cell Viability Validation,VV Cell Viability QC
+VV Sterility Validation,VV Sterility QC
+VV QC Results Log,VV QC Pass
+VV QC Results Log,VV QC Fail
+VV Virus Inoculation,VV Virus Inoculum
+VV Virus Culture Incubation,VV Virus Culture
+VV Virus Strain Recording,VV Virus Strain
+VV Culture Conditions Log,VV Virus Culture
+VV Dark Room Imaging,VV Dark Room Imaging Sample
+VV Fluorescence Analysis,VV Fluorescence Sample
+VV Image Data Storage,VV Image Data
+VV Image Analysis,VV Image Data
+VV Viral Product Formulation,VV Formulated Viral Product
+VV Formulation Details Documentation,VV Formulated Viral Product
+VV Culture Feeding,VV Fed Culture
+VV Feeding Schedule Log,VV Fed Culture
+VV Feeding Reagents Log,VV Fed Culture
+VV Final Product Packaging,VV Packaged Product
+VV Batch ID Tracking,VV Batch Product
+VV Packaging Specs Log,VV Packaged Product
+VV Virus Isolation,VV Isolated Virus
+VV Culture Batch Linkage,VV Isolated Virus
+VV Culture Batch Linkage,VV Virus Culture
+VV Titer Measurement,VV Titer Sample
+VV Viral Load Quantification,VV Titer Sample
+VV Titer Values Recording,VV Titer Sample
+VV Genome Sequencing,VV Genome Sequencing Sample
+VV Viral Genome Analysis,VV Genome Sequencing Sample
+VV Sequence Data Storage,VV Genome Sequencing Sample
+VV Seed Virus Production,VV Seed Virus
+VV Strain Selection,VV Seed Virus
+VV Strain Selection,VV Virus Strain
+VV Selection Criteria Documentation,VV Seed Virus
+VV Preclinical Trial Initiation,VV Preclinical Trial Sample
+VV Animal Testing Tracking,VV Animal Test Sample
+VV Preclinical Results Recording,VV Preclinical Trial Sample
+VV Preclinical Results Recording,VV Animal Test Sample
+VV Clinical Trial Initiation,VV Clinical Trial Sample
+VV Phase I Trial Tracking,VV Phase I Trial Sample
+VV Phase II Trial Tracking,VV Phase II Trial Sample
+VV Phase III Trial Tracking,VV Phase III Trial Sample
+VV Clinical Trial Outcomes Linkage,VV Clinical Trial Sample
+VV Clinical Trial Outcomes Linkage,VV Phase I Trial Sample
+VV Clinical Trial Outcomes Linkage,VV Phase II Trial Sample
+VV Clinical Trial Outcomes Linkage,VV Phase III Trial Sample
+VV External Trial Reference,VV Clinical Trial Sample
+VV External Trial Reference,VV Preclinical Trial Sample
+VV Bacterial Sample Arrival,VV Bacterial Sample
+VV Bacterial Sample Registration,VV Bacterial Sample
+VV Bacterial Workflow Assignment,VV Bacterial Sample
+VV Bacterial Culture Processing,VV Bacterial Culture Sample
+VV Sample Staining,VV Stained Sample
+VV Sample Staining,VV Gram Stained Sample
+VV Gram Staining,VV Gram Stained Sample
+VV Bacterial Culture Procedure Log,VV Bacterial Culture Sample
+VV Staining Reagents Log,VV Stained Sample
+VV Staining Reagents Log,VV Gram Stained Sample
+VV Microscopy Examination,VV Microscopy Sample
+VV Microscopy Examination,VV Gram Stained Sample
+VV Biochemical Tests,VV Biochemical Test Sample
+VV Bacteria Identification,VV Identified Bacteria
+VV Species Recording,VV Bacterial Species
+VV Strain Recording,VV Bacterial Strain
+VV DNA Extraction,VV DNA Extract
+VV DNA Extraction,VV Bacterial Sample
+VV Genomic DNA Preparation,VV Genomic DNA
+VV Genome Identification,VV Sequenced Genome
+VV Bacterial Genome Sequencing,VV Sequenced Genome
+VV Bacterial Genome Sequencing,VV Genomic DNA
+VV Genomic Data Storage,VV Sequenced Genome
+VV Gene Development,VV Target Gene
+VV Target Gene Analysis,VV Target Gene
+VV Gene Target Documentation,VV Target Gene
+VV Gene Sequencing,VV Gene Sequence
+VV Gene Sequencing,VV Target Gene
+VV Gene Sequence Recording,VV Gene Sequence
+VV Detection Kit Development,VV Detection Kit
+VV Resistance Kit Development,VV Resistance Kit
+VV Product Development,VV Product Kit
+VV Product Development,VV Detection Kit
+VV Product Development,VV Resistance Kit
+VV Product Type Tracking,VV Product Kit
+VV Product Type Tracking,VV Detection Kit
+VV Product Type Tracking,VV Resistance Kit
+VV Product Specs Documentation,VV Product Kit
+VV Product Specs Documentation,VV Detection Kit
+VV Product Specs Documentation,VV Resistance Kit
+VV Bioinformatics Analysis,VV Bioinformatics Sample
+VV Advanced Genomic Analysis,VV Bioinformatics Sample
+VV Advanced Genomic Analysis,VV Sequenced Genome
+VV External Bioinformatics Report Link,VV External Report Sample
+VV RT Storage Assignment,VV RT Storage Sample
+VV Refrigerated Storage 2-8C,VV Refrigerated Sample 2-8C
+VV Frozen Storage -20C,VV Frozen Sample -20C
+VV Frozen Storage -80C,VV Frozen Sample -80C
+VV LN2 Storage Assignment,VV LN2 Storage Sample
+VV Temperature Monitoring,VV Refrigerated Sample 2-8C
+VV Temperature Monitoring,VV Frozen Sample -20C
+VV Temperature Monitoring,VV Frozen Sample -80C
+VV Temperature Monitoring,VV LN2 Storage Sample
+VV Sample Archiving,VV Archived Sample
+VV Data Archiving,VV Archived Sample
+VV Sample Disposal,VV Disposal Sample
+VV Autoclave Disposal,VV Disposal Sample
+VV Incineration Disposal,VV Disposal Sample
+VV Batch QC Review,VV Batch Product
+VV Product Release,VV Packaged Product
+VV Product Release,VV Batch Product
+VV Traceability Documentation,VV Batch Product
+VV Traceability Documentation,VV Packaged Product
+VV Chain of Custody Log,VV Viral Sample
+VV Chain of Custody Log,VV Bacterial Sample
+VV Chain of Custody Log,VV Virus Culture
+VV Chain of Custody Log,VV Bacterial Culture Sample
+VV Metadata Review,VV Viral Sample
+VV Metadata Review,VV Bacterial Sample
+VV Data Integrity Check,VV Viral Sample
+VV Data Integrity Check,VV Bacterial Sample
+VV Host Cell Culture Setup,VV Growing Cell Culture
+VV Cell Line Tracking,VV Growing Cell Culture
+VV Virus Inoculation,VV Virus Culture
+VV Virus Culture Incubation,VV Fed Culture
+VV Viral Product Formulation,VV Batch Product
+VV Final Product Packaging,VV Batch Product
+VV Virus Isolation,VV Virus Culture
+VV Titer Measurement,VV Isolated Virus
+VV Viral Load Quantification,VV Isolated Virus
+VV Genome Sequencing,VV Isolated Virus
+VV Viral Genome Analysis,VV Isolated Virus
+VV Seed Virus Production,VV Isolated Virus
+VV Preclinical Trial Initiation,VV Seed Virus
+VV Clinical Trial Initiation,VV Seed Virus
+VV Bacterial Culture Processing,VV Bacterial Sample
+VV Sample Staining,VV Bacterial Culture Sample
+VV Gram Staining,VV Bacterial Culture Sample
+VV Microscopy Examination,VV Stained Sample
+VV Biochemical Tests,VV Bacterial Culture Sample
+VV Bacteria Identification,VV Bacterial Culture Sample
+VV Bacteria Identification,VV Microscopy Sample
+VV Bacteria Identification,VV Biochemical Test Sample
+VV Species Recording,VV Identified Bacteria
+VV Strain Recording,VV Identified Bacteria
+VV DNA Extraction,VV Identified Bacteria
+VV Genomic DNA Preparation,VV DNA Extract
+VV Genome Identification,VV Genomic DNA
+VV Bacterial Genome Sequencing,VV DNA Extract
+VV Gene Development,VV Sequenced Genome
+VV Target Gene Analysis,VV Sequenced Genome
+VV Gene Sequencing,VV Genomic DNA
+VV Detection Kit Development,VV Gene Sequence
+VV Resistance Kit Development,VV Gene Sequence
+VV Product Development,VV Gene Sequence
+VV Bioinformatics Analysis,VV Genomic DNA
+VV Bioinformatics Analysis,VV Gene Sequence
+VV RT Storage Assignment,VV Viral Sample
+VV RT Storage Assignment,VV Bacterial Sample
+VV RT Storage Assignment,VV Culture Media
+VV Refrigerated Storage 2-8C,VV Viral Sample
+VV Refrigerated Storage 2-8C,VV Bacterial Sample
+VV Refrigerated Storage 2-8C,VV Virus Culture
+VV Refrigerated Storage 2-8C,VV Bacterial Culture Sample
+VV Frozen Storage -20C,VV Viral Sample
+VV Frozen Storage -20C,VV Bacterial Sample
+VV Frozen Storage -20C,VV DNA Extract
+VV Frozen Storage -20C,VV Genomic DNA
+VV Frozen Storage -80C,VV Viral Sample
+VV Frozen Storage -80C,VV Bacterial Sample
+VV Frozen Storage -80C,VV DNA Extract
+VV Frozen Storage -80C,VV Genomic DNA
+VV Frozen Storage -80C,VV Seed Virus
+VV LN2 Storage Assignment,VV Host Cell Line
+VV LN2 Storage Assignment,VV Virus Culture
+VV LN2 Storage Assignment,VV Bacterial Culture Sample
+VV Sample Archiving,VV Viral Sample
+VV Sample Archiving,VV Bacterial Sample
+VV Sample Archiving,VV Virus Strain
+VV Sample Archiving,VV Bacterial Strain
+VV Data Archiving,VV Image Data
+VV Data Archiving,VV Sequenced Genome
+VV Data Archiving,VV Gene Sequence
+VV Sample Disposal,VV Viral Sample
+VV Sample Disposal,VV Bacterial Sample
+VV Sample Disposal,VV Virus Culture
+VV Sample Disposal,VV Bacterial Culture Sample

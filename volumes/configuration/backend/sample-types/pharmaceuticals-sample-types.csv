@@ -1,0 +1,69 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+Pharm API,PHARM-API,O,Y,480,Pharm API,API Pharmaceutique
+Pharm Excipient,PHARM-EXC,O,Y,481,Pharm Excipient,Excipient Pharmaceutique
+Pharm Bulk Powder,PHARM-BPW,O,Y,482,Pharm Bulk Powder,Poudre en Vrac Pharmaceutique
+Pharm Intermediate,PHARM-INT,O,Y,483,Pharm Intermediate,Intermédiaire Pharmaceutique
+Pharm Placebo,PHARM-PLC,O,Y,484,Pharm Placebo,Placebo Pharmaceutique
+Pharm Reference Standard,PHARM-REF,O,Y,485,Pharm Reference Standard,Standard Référence Pharmaceutique
+Pharm Impurity Standard,PHARM-IMP,O,Y,486,Pharm Impurity Standard,Standard Impureté Pharmaceutique
+Pharm Tablet,PHARM-TAB,O,Y,487,Pharm Tablet,Comprimé Pharmaceutique
+Pharm Capsule,PHARM-CAP,O,Y,488,Pharm Capsule,Gélule Pharmaceutique
+Pharm Injection,PHARM-INJ,O,Y,489,Pharm Injection,Injection Pharmaceutique
+Pharm Cream,PHARM-CRM,O,Y,490,Pharm Cream,Crème Pharmaceutique
+Pharm Patch,PHARM-PTH,O,Y,491,Pharm Patch,Patch Pharmaceutique
+Pharm Plant Root,PHARM-ROOT,O,Y,492,Pharm Plant Root,Racine Plante Pharmaceutique
+Pharm Plant Leaf,PHARM-LEAF,O,Y,493,Pharm Plant Leaf,Feuille Plante Pharmaceutique
+Pharm Plant Stem,PHARM-STEM,O,Y,494,Pharm Plant Stem,Tige Plante Pharmaceutique
+Pharm Plant Flower,PHARM-FLWR,O,Y,495,Pharm Plant Flower,Fleur Plante Pharmaceutique
+Pharm Human Blood,PHARM-HBLD,H,Y,496,Pharm Human Blood,Sang Humain Pharmaceutique
+Pharm Human Plasma,PHARM-HPLS,H,Y,497,Pharm Human Plasma,Plasma Humain Pharmaceutique
+Pharm Human Urine,PHARM-HUR,H,Y,498,Pharm Human Urine,Urine Humaine Pharmaceutique
+Pharm Human Saliva,PHARM-HSAL,H,Y,499,Pharm Human Saliva,Salive Humaine Pharmaceutique
+Pharm Human CSF,PHARM-HCSF,H,Y,500,Pharm Human CSF,LCR Humain Pharmaceutique
+Pharm Animal Tissue,PHARM-ATIS,O,Y,501,Pharm Animal Tissue,Tissu Animal Pharmaceutique
+Pharm Animal Organ,PHARM-AORG,O,Y,502,Pharm Animal Organ,Organe Animal Pharmaceutique
+Pharm Animal Feces,PHARM-AFEC,O,Y,503,Pharm Animal Feces,Fèces Animales Pharmaceutique
+Pharm Cell Culture,PHARM-CCUL,O,Y,504,Pharm Cell Culture,Culture Cellulaire Pharmaceutique
+Pharm Microbial Culture,PHARM-MCUL,O,Y,505,Pharm Microbial Culture,Culture Microbienne Pharmaceutique
+Pharm Purified Water,PHARM-PW,O,Y,506,Pharm Purified Water,Eau Purifiée Pharmaceutique
+Pharm WFI,PHARM-WFI,O,Y,507,Pharm Water for Injection,Eau pour Injection Pharmaceutique
+Pharm Surface Swab,PHARM-SSWB,O,Y,508,Pharm Surface Swab,Écouvillon Surface Pharmaceutique
+Pharm Equipment Swab,PHARM-ESWB,O,Y,509,Pharm Equipment Swab,Écouvillon Équipement Pharmaceutique
+Pharm Environment Swab,PHARM-ENVS,O,Y,510,Pharm Environment Swab,Écouvillon Environnement Pharmaceutique
+Pharm QC Pass,PHARM-QCP,O,Y,511,Pharm QC Pass,QC Passé Pharmaceutique
+Pharm QC Fail,PHARM-QCF,O,Y,512,Pharm QC Fail,QC Échoué Pharmaceutique
+Pharm Weighed Sample,PHARM-WGH,O,Y,513,Pharm Weighed Sample,Échantillon Pesé Pharmaceutique
+Pharm Ground Sample,PHARM-GRD,O,Y,514,Pharm Ground Sample,Échantillon Broyé Pharmaceutique
+Pharm Homogenized Sample,PHARM-HMG,O,Y,515,Pharm Homogenized Sample,Échantillon Homogénéisé Pharmaceutique
+Pharm Dissolved Sample,PHARM-DIS,O,Y,516,Pharm Dissolved Sample,Échantillon Dissous Pharmaceutique
+Pharm Calibration Solution,PHARM-CAL,O,Y,517,Pharm Calibration Solution,Solution Étalonnage Pharmaceutique
+Pharm Centrifuged Sample,PHARM-CENT,H,Y,518,Pharm Centrifuged Sample,Échantillon Centrifugé Pharmaceutique
+Pharm Plasma Separated,PHARM-PSEP,H,Y,519,Pharm Plasma Separated,Plasma Séparé Pharmaceutique
+Pharm Serum Separated,PHARM-SSEP,H,Y,520,Pharm Serum Separated,Sérum Séparé Pharmaceutique
+Pharm Aliquot,PHARM-ALQ,O,Y,521,Pharm Aliquot,Aliquote Pharmaceutique
+Pharm Tissue Homogenate,PHARM-THOM,O,Y,522,Pharm Tissue Homogenate,Homogénat Tissu Pharmaceutique
+Pharm Streaked Culture,PHARM-STRC,O,Y,523,Pharm Streaked Culture,Culture Striée Pharmaceutique
+Pharm Filtered Sample,PHARM-FILT,O,Y,524,Pharm Filtered Sample,Échantillon Filtré Pharmaceutique
+Pharm Enriched Culture,PHARM-ENRC,O,Y,525,Pharm Enriched Culture,Culture Enrichie Pharmaceutique
+Pharm TLC Sample,PHARM-TLC,O,Y,526,Pharm TLC Sample,Échantillon CCM Pharmaceutique
+Pharm HPLC Sample,PHARM-HPLC,O,Y,527,Pharm HPLC Sample,Échantillon HPLC Pharmaceutique
+Pharm GC Sample,PHARM-GC,O,Y,528,Pharm GC Sample,Échantillon CG Pharmaceutique
+Pharm LCMS Sample,PHARM-LCMS,O,Y,529,Pharm LCMS Sample,Échantillon LCMS Pharmaceutique
+Pharm Stability Sample,PHARM-STAB,O,Y,530,Pharm Stability Sample,Échantillon Stabilité Pharmaceutique
+Pharm OOS Sample,PHARM-OOS,O,Y,531,Pharm OOS Sample,Échantillon HDS Pharmaceutique
+Pharm Positive Control,PHARM-POS,O,Y,532,Pharm Positive Control,Témoin Positif Pharmaceutique
+Pharm Negative Control,PHARM-NEG,O,Y,533,Pharm Negative Control,Témoin Négatif Pharmaceutique
+Pharm Internal Standard,PHARM-IS,O,Y,534,Pharm Internal Standard,Standard Interne Pharmaceutique
+Pharm Cryovial,PHARM-CRYO,O,Y,535,Pharm Cryovial,Cryovial Pharmaceutique
+Pharm Snap Frozen,PHARM-SNAP,O,Y,536,Pharm Snap Frozen,Congelé Flash Pharmaceutique
+Pharm RT Storage,PHARM-RTS,O,Y,537,Pharm RT Storage,Stockage TA Pharmaceutique
+Pharm Refrigerated 2-8C,PHARM-2-8C,O,Y,538,Pharm Refrigerated 2-8C,Réfrigéré 2-8C Pharmaceutique
+Pharm Frozen -20C,PHARM-20C,O,Y,539,Pharm Frozen -20C,Congelé -20C Pharmaceutique
+Pharm Frozen -80C,PHARM-80C,O,Y,540,Pharm Frozen -80C,Congelé -80C Pharmaceutique
+Pharm LN2 Storage,PHARM-LN2,O,Y,541,Pharm LN2 Storage,Stockage LN2 Pharmaceutique
+Pharm Glycerol Stock,PHARM-GLYC,O,Y,542,Pharm Glycerol Stock,Stock Glycérol Pharmaceutique
+Pharm Retrieved Sample,PHARM-RETR,O,Y,543,Pharm Retrieved Sample,Échantillon Récupéré Pharmaceutique
+Pharm External Ship,PHARM-SHIP,O,Y,544,Pharm External Ship,Envoi Externe Pharmaceutique
+Pharm Disposal Sample,PHARM-DISP,O,Y,545,Pharm Disposal Sample,Échantillon Élimination Pharmaceutique
+Pharm Archived Sample,PHARM-ARCH,O,Y,546,Pharm Archived Sample,Échantillon Archivé Pharmaceutique
+Pharm Retention Sample,PHARM-RET,O,Y,547,Pharm Retention Sample,Échantillon Rétention Pharmaceutique

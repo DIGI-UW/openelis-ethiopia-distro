@@ -1,0 +1,249 @@
+testName,sampleType
+TM Sample Arrival,TM Arrival Sample
+TM Plant Material Receipt,TM Plant Material
+TM Traditional Source Receipt,TM Traditional Source
+TM Sample Registration,TM Registered Sample
+TM Sample Registration,TM Plant Material
+TM Sample Registration,TM Traditional Source
+TM Unique ID Assignment,TM Unique ID Sample
+TM Sample Labeling,TM Unique ID Sample
+TM Origin Recording,TM Origin Recorded Sample
+TM Species Recording,TM Species Sample
+TM Collector Recording,TM Collector Sample
+TM Date Time Recording,TM Registered Sample
+TM Metadata Entry,TM Registered Sample
+TM Metadata Entry,TM Origin Recorded Sample
+TM Metadata Entry,TM Species Sample
+TM Metadata Entry,TM Collector Sample
+TM Botanical Verification,TM Botanical Verification
+TM Expert Identification,TM Expert Identified
+TM Authentication Method Log,TM Botanical Verification
+TM Authentication Method Log,TM Expert Identified
+TM Authentication Result Log,TM Authentication Pass
+TM Authentication Result Log,TM Authentication Fail
+TM Authentication Pass Recording,TM Authentication Pass
+TM Authentication Fail Recording,TM Authentication Fail
+TM Refrigerated Storage Assignment,TM Refrigerated Storage
+TM Drying Process,TM Dried Sample
+TM Preservation Process,TM Preserved Sample
+TM Storage Option Selection,TM Refrigerated Storage
+TM Storage Option Selection,TM Dried Sample
+TM Storage Option Selection,TM Preserved Sample
+TM Herbarium Specimen Prep,TM Herbarium Specimen
+TM Specimen Mounting,TM Mounted Specimen
+TM Specimen Labeling,TM Labeled Specimen
+TM Specimen Cataloging,TM Cataloged Specimen
+TM Herbarium Placement,TM Cataloged Specimen
+TM Grinding Process,TM Ground Sample
+TM Chopping Process,TM Chopped Sample
+TM Powdering Process,TM Powdered Sample
+TM Fresh Processing,TM Fresh Processed Sample
+TM Drying Required Check,TM Drying Sample
+TM Physical Processing Log,TM Ground Sample
+TM Physical Processing Log,TM Chopped Sample
+TM Physical Processing Log,TM Powdered Sample
+TM Physical Processing Log,TM Fresh Processed Sample
+TM Ethanol Extraction,TM Ethanol Extract
+TM Methanol Extraction,TM Methanol Extract
+TM Water Extraction,TM Water Extract
+TM Solvent Selection,TM Ethanol Extract
+TM Solvent Selection,TM Methanol Extract
+TM Solvent Selection,TM Water Extract
+TM Target Compound Documentation,TM Ethanol Extract
+TM Target Compound Documentation,TM Methanol Extract
+TM Target Compound Documentation,TM Water Extract
+TM Maceration Extraction,TM Maceration Extract
+TM Soxhlet Extraction,TM Soxhlet Extract
+TM Ultrasonic Extraction,TM Ultrasonic Extract
+TM Distillation Extraction,TM Distillation Extract
+TM Extraction Method Recording,TM Maceration Extract
+TM Extraction Method Recording,TM Soxhlet Extract
+TM Extraction Method Recording,TM Ultrasonic Extract
+TM Extraction Method Recording,TM Distillation Extract
+TM Filtration Process,TM Filtered Extract
+TM Debris Removal,TM Debris Removed Extract
+TM Impurity Removal,TM Filtered Extract
+TM Concentration Process,TM Concentrated Extract
+TM Evaporation Process,TM Evaporated Extract
+TM Volume Reduction,TM Concentrated Extract
+TM Extract Enrichment,TM Enriched Extract
+TM Fractionation Process,TM Fractionated Sample
+TM Compound Separation,TM Fraction Sample
+TM Fraction Method Recording,TM Fraction Sample
+TM Fraction Collection,TM Fraction Sample
+TM Compound Identification,TM Identified Compound
+TM Active Constituent Detection,TM Active Constituent
+TM Compound Database Link,TM Identified Compound
+TM Compound Isolation,TM Isolated Compound
+TM Purification Process,TM Purified Sample
+TM Impurity Removal Advanced,TM Purified Sample
+TM Purity Level Log,TM Purified Sample
+TM Compound Characterization,TM Characterized Compound
+TM Structure Determination,TM Characterized Compound
+TM Properties Determination,TM Characterized Compound
+TM NMR Spectroscopy,TM NMR Sample
+TM Mass Spectrometry,TM MS Sample
+TM IR Spectroscopy,TM IR Sample
+TM Spectral Data Storage,TM Spectral Data Sample
+TM Spectral Data Storage,TM NMR Sample
+TM Spectral Data Storage,TM MS Sample
+TM Spectral Data Storage,TM IR Sample
+TM Production Readiness Assessment,TM Production Ready Extract
+TM Direct to Production Decision,TM Production Ready Extract
+TM Preliminary Phytochemical Screen,TM Phytochemical Screen Sample
+TM Alkaloid Test,TM Alkaloid Test Sample
+TM Flavonoid Test,TM Flavonoid Test Sample
+TM Tannin Test,TM Tannin Test Sample
+TM Saponin Test,TM Saponin Test Sample
+TM Terpenoid Test,TM Terpenoid Test Sample
+TM Phytochemical Test Results,TM Phytochemical Screen Sample
+TM Phytochemical Test Results,TM Alkaloid Test Sample
+TM Phytochemical Test Results,TM Flavonoid Test Sample
+TM Phytochemical Test Results,TM Tannin Test Sample
+TM Phytochemical Test Results,TM Saponin Test Sample
+TM Phytochemical Test Results,TM Terpenoid Test Sample
+TM Safety Study,TM Safety Test Sample
+TM Toxicity Study,TM Toxicity Test Sample
+TM In Vitro Testing,TM In Vitro Test Sample
+TM Animal Model Testing,TM Animal Model Test
+TM External Trial Data Link,TM Safety Test Sample
+TM External Trial Data Link,TM Toxicity Test Sample
+TM External Trial Data Link,TM In Vitro Test Sample
+TM External Trial Data Link,TM Animal Model Test
+TM Efficacy Test,TM Efficacy Test Sample
+TM Biological Activity Assay,TM Activity Assay Sample
+TM Efficacy Outcome Documentation,TM Efficacy Test Sample
+TM Protocol Documentation,TM Efficacy Test Sample
+TM Protocol Documentation,TM Activity Assay Sample
+TM Capsule Formulation,TM Capsule Formulation
+TM Tincture Formulation,TM Tincture Formulation
+TM Ointment Formulation,TM Ointment Formulation
+TM Tea Formulation,TM Tea Formulation
+TM Tablet Formulation,TM Tablet Formulation
+TM Syrup Formulation,TM Syrup Formulation
+TM Cream Formulation,TM Cream Formulation
+TM Oil Formulation,TM Oil Formulation
+TM Formulation Type Selection,TM Capsule Formulation
+TM Formulation Type Selection,TM Tincture Formulation
+TM Formulation Type Selection,TM Ointment Formulation
+TM Formulation Type Selection,TM Tea Formulation
+TM Formulation Type Selection,TM Tablet Formulation
+TM Formulation Type Selection,TM Syrup Formulation
+TM Formulation Type Selection,TM Cream Formulation
+TM Formulation Type Selection,TM Oil Formulation
+TM Product Development Documentation,TM Capsule Formulation
+TM Product Development Documentation,TM Tincture Formulation
+TM Product Development Documentation,TM Ointment Formulation
+TM Product Development Documentation,TM Tea Formulation
+TM Product Development Documentation,TM Tablet Formulation
+TM Product Development Documentation,TM Syrup Formulation
+TM Product Development Documentation,TM Cream Formulation
+TM Product Development Documentation,TM Oil Formulation
+TM QC Testing,TM QC Pass Sample
+TM QC Testing,TM QC Fail Sample
+TM QC Pass Recording,TM QC Pass Sample
+TM QC Fail Recording,TM QC Fail Sample
+TM RT Storage Assignment,TM RT Storage Sample
+TM Cold Storage Assignment,TM Cold Storage Sample
+TM Temperature Monitoring,TM Cold Storage Sample
+TM Temperature Monitoring,TM Refrigerated Storage
+TM Sample Archiving,TM Archived Sample
+TM Data Archiving,TM Archived Sample
+TM Sample Disposal,TM Disposal Sample
+TM Chain of Custody Log,TM Registered Sample
+TM Chain of Custody Log,TM Unique ID Sample
+TM Traceability Documentation,TM Registered Sample
+TM Traceability Documentation,TM Unique ID Sample
+TM Grinding Process,TM Plant Material
+TM Grinding Process,TM Dried Sample
+TM Chopping Process,TM Plant Material
+TM Powdering Process,TM Ground Sample
+TM Ethanol Extraction,TM Ground Sample
+TM Ethanol Extraction,TM Chopped Sample
+TM Ethanol Extraction,TM Powdered Sample
+TM Methanol Extraction,TM Ground Sample
+TM Methanol Extraction,TM Chopped Sample
+TM Methanol Extraction,TM Powdered Sample
+TM Water Extraction,TM Ground Sample
+TM Water Extraction,TM Chopped Sample
+TM Water Extraction,TM Powdered Sample
+TM Filtration Process,TM Ethanol Extract
+TM Filtration Process,TM Methanol Extract
+TM Filtration Process,TM Water Extract
+TM Filtration Process,TM Maceration Extract
+TM Filtration Process,TM Soxhlet Extract
+TM Filtration Process,TM Ultrasonic Extract
+TM Filtration Process,TM Distillation Extract
+TM Debris Removal,TM Ethanol Extract
+TM Debris Removal,TM Methanol Extract
+TM Debris Removal,TM Water Extract
+TM Concentration Process,TM Filtered Extract
+TM Concentration Process,TM Debris Removed Extract
+TM Evaporation Process,TM Filtered Extract
+TM Volume Reduction,TM Filtered Extract
+TM Extract Enrichment,TM Concentrated Extract
+TM Fractionation Process,TM Concentrated Extract
+TM Fractionation Process,TM Enriched Extract
+TM Compound Identification,TM Fraction Sample
+TM Active Constituent Detection,TM Fraction Sample
+TM Compound Isolation,TM Identified Compound
+TM Compound Isolation,TM Active Constituent
+TM Purification Process,TM Isolated Compound
+TM Compound Characterization,TM Purified Sample
+TM NMR Spectroscopy,TM Characterized Compound
+TM NMR Spectroscopy,TM Purified Sample
+TM Mass Spectrometry,TM Characterized Compound
+TM Mass Spectrometry,TM Purified Sample
+TM IR Spectroscopy,TM Characterized Compound
+TM IR Spectroscopy,TM Purified Sample
+TM Production Readiness Assessment,TM Concentrated Extract
+TM Production Readiness Assessment,TM Enriched Extract
+TM Direct to Production Decision,TM Concentrated Extract
+TM Preliminary Phytochemical Screen,TM Ethanol Extract
+TM Preliminary Phytochemical Screen,TM Methanol Extract
+TM Preliminary Phytochemical Screen,TM Water Extract
+TM Preliminary Phytochemical Screen,TM Concentrated Extract
+TM Alkaloid Test,TM Concentrated Extract
+TM Alkaloid Test,TM Enriched Extract
+TM Flavonoid Test,TM Concentrated Extract
+TM Flavonoid Test,TM Enriched Extract
+TM Tannin Test,TM Concentrated Extract
+TM Saponin Test,TM Concentrated Extract
+TM Terpenoid Test,TM Concentrated Extract
+TM Safety Study,TM Concentrated Extract
+TM Safety Study,TM Purified Sample
+TM Toxicity Study,TM Concentrated Extract
+TM Toxicity Study,TM Purified Sample
+TM In Vitro Testing,TM Concentrated Extract
+TM In Vitro Testing,TM Purified Sample
+TM Animal Model Testing,TM Concentrated Extract
+TM Animal Model Testing,TM Purified Sample
+TM Efficacy Test,TM Concentrated Extract
+TM Efficacy Test,TM Purified Sample
+TM Biological Activity Assay,TM Concentrated Extract
+TM Biological Activity Assay,TM Purified Sample
+TM Capsule Formulation,TM Production Ready Extract
+TM Capsule Formulation,TM Concentrated Extract
+TM Tincture Formulation,TM Production Ready Extract
+TM Tincture Formulation,TM Concentrated Extract
+TM Ointment Formulation,TM Production Ready Extract
+TM Tea Formulation,TM Dried Sample
+TM Tea Formulation,TM Powdered Sample
+TM Tablet Formulation,TM Production Ready Extract
+TM Tablet Formulation,TM Concentrated Extract
+TM Syrup Formulation,TM Production Ready Extract
+TM Cream Formulation,TM Production Ready Extract
+TM Oil Formulation,TM Production Ready Extract
+TM RT Storage Assignment,TM Plant Material
+TM RT Storage Assignment,TM Dried Sample
+TM RT Storage Assignment,TM Powdered Sample
+TM Cold Storage Assignment,TM Plant Material
+TM Cold Storage Assignment,TM Ethanol Extract
+TM Cold Storage Assignment,TM Methanol Extract
+TM Cold Storage Assignment,TM Concentrated Extract
+TM Sample Archiving,TM Plant Material
+TM Sample Archiving,TM Herbarium Specimen
+TM Sample Archiving,TM Cataloged Specimen
+TM Data Archiving,TM Spectral Data Sample
+TM Sample Disposal,TM Plant Material
+TM Sample Disposal,TM Extract Debris

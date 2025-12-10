@@ -1,0 +1,52 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+TB Sputum,TB-SPT,H,Y,200,TB Sputum,Expectoration TB
+TB Body Fluid,TB-BF,H,Y,201,TB Body Fluid,Liquide Corporel TB
+TB Swab,TB-SWB,H,Y,202,TB Swab,Écouvillon TB
+TB Tissue,TB-TIS,H,Y,203,TB Tissue,Tissu TB
+Other TB Sample,TB-OTH,H,Y,204,Other TB Sample,Autre Échantillon TB
+TB Quality Checked Sample,TB-QC,H,Y,205,TB Quality Checked Sample,Échantillon TB Contrôlé Qualité
+TB Failed QC Sample,TB-FAIL,H,Y,206,TB Failed QC Sample,Échantillon TB QC Échoué
+TB Temporary Storage Sample,TB-TEMP,H,Y,207,TB Temporary Storage Sample,Échantillon Stockage Temporaire TB
+TB Long-Term Storage Sample,TB-LT,H,Y,208,TB Long-Term Storage Sample,Échantillon Stockage Long Terme TB
+TB Shipment Sample,TB-SHIP,H,Y,209,TB Shipment Sample,Échantillon Envoi TB
+TB Processed Sample,TB-PROC,H,Y,210,TB Processed Sample,Échantillon TB Traité
+TB Culture Media,TB-MED,O,Y,211,TB Culture Media,Milieu de Culture TB
+TB Inoculated LJ Medium,TB-LJ,O,Y,212,TB Inoculated LJ Medium,Milieu LJ Inoculé TB
+TB Inoculated MGIT Medium,TB-MGIT,O,Y,213,TB Inoculated MGIT Medium,Milieu MGIT Inoculé TB
+TB Culture Week 1,TB-W1,O,Y,214,TB Culture Week 1,Culture TB Semaine 1
+TB Culture Week 2,TB-W2,O,Y,215,TB Culture Week 2,Culture TB Semaine 2
+TB Culture Week 3,TB-W3,O,Y,216,TB Culture Week 3,Culture TB Semaine 3
+TB Culture Week 4,TB-W4,O,Y,217,TB Culture Week 4,Culture TB Semaine 4
+TB Culture Week 5,TB-W5,O,Y,218,TB Culture Week 5,Culture TB Semaine 5
+TB Culture Week 6,TB-W6,O,Y,219,TB Culture Week 6,Culture TB Semaine 6
+TB Culture Week 7,TB-W7,O,Y,220,TB Culture Week 7,Culture TB Semaine 7
+TB Culture Week 8,TB-W8,O,Y,221,TB Culture Week 8,Culture TB Semaine 8
+TB Culture Positive,TB-POS,O,Y,222,TB Culture Positive,Culture TB Positive
+TB Culture Negative,TB-NEG,O,Y,223,TB Culture Negative,Culture TB Négative
+TB NTM,TB-NTM,O,Y,224,TB Non-Tuberculous Mycobacteria,Mycobactéries Non Tuberculeuses TB
+TB Contaminated Culture,TB-CONT,O,Y,225,TB Contaminated Culture,Culture TB Contaminée
+TB Smear Sample,TB-SM,H,Y,226,TB Smear Sample,Échantillon Frottis TB
+TB AFB Smear,TB-AFB,H,Y,227,TB AFB Smear,Frottis AFB TB
+TB ZN Stained Sample,TB-ZN,H,Y,228,TB ZN Stained Sample,Échantillon Coloré ZN TB
+TB Concentrated Sample,TB-CONC,H,Y,229,TB Concentrated Sample,Échantillon Concentré TB
+TB Fluorescence Stained Sample,TB-FLUOR,H,Y,230,TB Fluorescence Stained Sample,Échantillon Coloré Fluorescence TB
+TB GeneXpert Sample,TB-GX,H,Y,231,TB GeneXpert Sample,Échantillon GeneXpert TB
+TB MTB Isolate,TB-MTB,O,Y,232,TB MTB Isolate,Isolat MTB TB
+TB DST 1st Line Sample,TB-DST1,O,Y,233,TB DST 1st Line Sample,Échantillon DST 1ère Ligne TB
+TB DST 2nd Line Sample,TB-DST2,O,Y,234,TB DST 2nd Line Sample,Échantillon DST 2ème Ligne TB
+TB Phenotypic DST Sample,TB-PHENO,O,Y,235,TB Phenotypic DST Sample,Échantillon DST Phénotypique TB
+TB Molecular DST Sample,TB-MOL,O,Y,236,TB Molecular DST Sample,Échantillon DST Moléculaire TB
+TB INH Tested,TB-INH,O,Y,237,TB INH Tested,TB Testé INH
+TB RMP Tested,TB-RMP,O,Y,238,TB RMP Tested,TB Testé RMP
+TB STM Tested,TB-STM,O,Y,239,TB STM Tested,TB Testé STM
+TB EMB Tested,TB-EMB,O,Y,240,TB EMB Tested,TB Testé EMB
+TB PZA Tested,TB-PZA,O,Y,241,TB PZA Tested,TB Testé PZA
+TB FLQ Tested,TB-FLQ,O,Y,242,TB FLQ Tested,TB Testé FLQ
+TB KAN Tested,TB-KAN,O,Y,243,TB KAN Tested,TB Testé KAN
+TB AMK Tested,TB-AMK,O,Y,244,TB AMK Tested,TB Testé AMK
+TB CAP Tested,TB-CAP,O,Y,245,TB CAP Tested,TB Testé CAP
+TB VIO Tested,TB-VIO,O,Y,246,TB VIO Tested,TB Testé VIO
+TB Stored Isolate,TB-STOR,O,Y,247,TB Stored Isolate,Isolat TB Stocké
+TB BHI/BA Culture,TB-BHI,O,Y,248,TB BHI/BA Culture,Culture TB BHI/BA
+TB Rapid Test Sample,TB-RAPID,H,Y,249,TB Rapid Test Sample,Échantillon Test Rapide TB
+TB Colony Isolate,TB-COL,O,Y,250,TB Colony Isolate,Isolat Colonie TB

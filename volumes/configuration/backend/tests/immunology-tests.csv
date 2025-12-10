@@ -1,0 +1,14 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Sample Reception,Immunology,Bulk Project Sample,,Y,Y,100,,Sample Reception,Réception d'Échantillon
+Volume Determination,Immunology,Bulk Project Sample|Isolated Cells,,Y,Y,101,mL,Volume Determination,Détermination du Volume
+Cell Count,Immunology,Bulk Project Sample|Isolated Cells,6690-2,Y,Y,102,cells/mL,Cell Count,Comptage Cellulaire
+Cell Isolation,Immunology,Bulk Project Sample,,Y,Y,103,,Cell Isolation,Isolation Cellulaire
+Supplementary Pre-Extraction Assay,Immunology,Isolated Cells,,Y,Y,104,,Supplementary Pre-Extraction Assay,Essai Supplémentaire Pré-Extraction
+Child Sample Creation,Immunology,Isolated Cells,,Y,Y,105,,Child Sample Creation,Création d'Échantillon Enfant
+Sample Transfer,Immunology,Isolated Cells|Processed Immunology Sample,,Y,Y,106,,Sample Transfer,Transfert d'Échantillon
+Sample Incubation,Immunology,Fresh Immunology Sample|Frozen Immunology Sample,,Y,Y,107,minutes,Sample Incubation,Incubation d'Échantillon
+ELISA,Immunology,Incubated Sample|Fresh Immunology Sample|Processed Immunology Sample,85421-6,Y,Y,108,OD,Enzyme-Linked Immunosorbent Assay,Dosage Immuno-Enzymatique
+Flow Cytometry,Immunology,Incubated Sample|Fresh Immunology Sample|Processed Immunology Sample|PBMC,30395-8,Y,Y,109,% positive,Flow Cytometry,Cytométrie en Flux
+Post-Analysis Storage,Immunology,Processed Immunology Sample,,Y,Y,110,,Post-Analysis Storage,Stockage Post-Analyse
+Result Compilation,Immunology,Processed Immunology Sample,,Y,Y,111,,Result Compilation,Compilation des Résultats
+Biorepository Transfer,Immunology,Bulk Project Sample|Isolated Cells|Processed Immunology Sample,,Y,Y,112,,Biorepository Transfer,Transfert au Bioréférentiel

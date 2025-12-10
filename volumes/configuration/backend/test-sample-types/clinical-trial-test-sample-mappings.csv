@@ -1,0 +1,293 @@
+testName,sampleType
+CT Patient Information Registration,CT Patient Sample
+CT Patient Information Registration,CT Participant Sample
+CT Lab Order Entry,CT Patient Sample
+CT Lab Order Entry,CT Participant Sample
+CT Sample Collection,CT Blood Sample
+CT Sample Collection,CT Urine Sample
+CT Sample Collection,CT Stool Sample
+CT Sample Labeling,CT Blood Sample
+CT Sample Labeling,CT Serum Sample
+CT Sample Labeling,CT Plasma Sample
+CT Sample Labeling,CT Urine Sample
+CT Sample Labeling,CT Stool Sample
+CT Screening Sample Processing,CT Screening Sample
+CT Participant Enrollment,CT Enrolled Participant Sample
+CT Scheduled Sample Collection,CT Enrolled Participant Sample
+CT Sample Tracking Initiation,CT Blood Sample
+CT Sample Tracking Initiation,CT Urine Sample
+CT Sample Tracking Initiation,CT Stool Sample
+CT Sample Quality Assessment,CT Blood Sample
+CT Sample Quality Assessment,CT Serum Sample
+CT Sample Quality Assessment,CT Plasma Sample
+CT Sample Quality Assessment,CT Urine Sample
+CT Sample Quality Assessment,CT Stool Sample
+CT Labeling Check,CT Blood Sample
+CT Labeling Check,CT Urine Sample
+CT Labeling Check,CT Stool Sample
+CT Container Check,CT Sample in Vacutainer
+CT Container Check,CT Sample in Cryovial
+CT Container Check,CT Sample in Urine Cup
+CT Container Check,CT Sample in Stool Jar
+CT Test Request Verification,CT Blood Sample
+CT Test Request Verification,CT Urine Sample
+CT Test Request Verification,CT Stool Sample
+CT Storage Temperature Check,CT Room Temperature Storage
+CT Storage Temperature Check,CT Refrigerated Storage
+CT Storage Temperature Check,CT Frozen Storage
+CT Primary Packaging Check,CT Sample in Vacutainer
+CT Primary Packaging Check,CT Sample in Cryovial
+CT Primary Packaging Check,CT Sample in Urine Cup
+CT Primary Packaging Check,CT Sample in Stool Jar
+CT Primary Packaging Check,CT Sample in Swab Tube
+CT Seal Closure Status,CT Sample in Vacutainer
+CT Seal Closure Status,CT Sample in Cryovial
+CT Barcode Unique ID Check,CT Blood Sample
+CT Barcode Unique ID Check,CT Urine Sample
+CT Barcode Unique ID Check,CT Stool Sample
+CT Absorbent Material Check,CT Sample in Biohazard Bag
+CT Secondary Packaging Check,CT Sample in Biohazard Bag
+CT Integrity Check,CT Sample in Biohazard Bag
+CT Watertight Compliance Check,CT Sample in Biohazard Bag
+CT Primary Container Count,CT Sample in Biohazard Bag
+CT Tertiary Packaging Check,CT Sample in Transport Box
+CT Transport Box Type Check,CT Sample in Transport Box
+CT Labeling Status Check,CT Sample in Transport Box
+CT Temperature Logger Check,CT Sample in Transport Box
+CT Courier Details Check,CT Sample in Transport Box
+CT Arrival Condition Check,CT Sample in Transport Box
+CT IATA PI650 Compliance,CT Sample in Transport Box
+CT Transportation Status Check,CT Sample in Transport Box
+CT Chemistry Sample QC,CT Serum Sample
+CT Chemistry Sample QC,CT Plasma Sample
+CT Chemistry Delay Check,CT Serum Sample
+CT Chemistry Delay Check,CT Plasma Sample
+CT Chemistry Leak Check,CT Serum Sample
+CT Chemistry Leak Check,CT Plasma Sample
+CT Chemistry Volume Check,CT Serum Sample
+CT Chemistry Volume Check,CT Plasma Sample
+CT Hemolysis Check,CT Serum Sample
+CT Lipemic Check,CT Serum Sample
+CT Lipemic Check,CT Plasma Sample
+CT Icteric Check,CT Serum Sample
+CT Icteric Check,CT Plasma Sample
+CT Hematology Sample QC,CT Blood Sample
+CT Hematology Sample QC,CT EDTA Sample
+CT Anticoagulant Type Check,CT EDTA Sample
+CT Anticoagulant Type Check,CT Citrate Sample
+CT Anticoagulant Type Check,CT Heparin Sample
+CT Anticoagulant Type Check,CT Fluoride Sample
+CT Hematology Delay Check,CT Blood Sample
+CT Hematology Delay Check,CT EDTA Sample
+CT Clotting Check,CT Blood Sample
+CT Clotting Check,CT EDTA Sample
+CT Plasma Clarity Check,CT Plasma Sample
+CT Stool Sample QC,CT Stool Sample
+CT Stool Delay Check,CT Stool Sample
+CT Stool Volume Check,CT Stool Sample
+CT Stool Urine Contamination Check,CT Stool Sample
+CT Urine Sample QC,CT Urine Sample
+CT Urine Delay Check,CT Urine Sample
+CT Urine Volume Check,CT Urine Sample
+CT Urine Stool Contamination Check,CT Urine Sample
+CT Microbiology Visible Contamination Check,CT Blood Sample
+CT Microbiology Visible Contamination Check,CT Urine Sample
+CT Microbiology Visible Contamination Check,CT Stool Sample
+CT Sample Acceptance,CT Accepted Sample
+CT Sample Rejection,CT Rejected Sample
+CT Corrective Action Recollection,CT Rejected Sample
+CT Lab Order Sample Match,CT Accepted Sample
+CT Test Allocation Hematology,CT Blood Sample
+CT Test Allocation Chemistry,CT Serum Sample
+CT Test Allocation Chemistry,CT Plasma Sample
+CT Test Allocation Parasitology,CT Stool Sample
+CT Test Allocation Parasitology,CT Blood Sample
+CT Test Allocation Urinalysis,CT Urine Sample
+CT Storage Room Assignment,CT Room Temperature Storage
+CT Storage Room Assignment,CT Refrigerated Storage
+CT Storage Room Assignment,CT Frozen Storage
+CT Refrigerator Freezer Assignment,CT Refrigerated Storage
+CT Refrigerator Freezer Assignment,CT Frozen Storage
+CT Drawer Rack Assignment,CT Refrigerated Storage
+CT Drawer Rack Assignment,CT Frozen Storage
+CT Cryo-Box Labeling,CT Aliquot 1
+CT Cryo-Box Labeling,CT Aliquot 2
+CT Cryo-Box Mapping,CT Aliquot 1
+CT Cryo-Box Mapping,CT Aliquot 2
+CT Environmental Monitoring,CT Room Temperature Storage
+CT Environmental Monitoring,CT Refrigerated Storage
+CT Environmental Monitoring,CT Frozen Storage
+CT Room Temperature Monitoring,CT Room Temperature Storage
+CT Freezer Temperature Monitoring,CT Frozen Storage
+CT Data Logger Integration,CT Refrigerated Storage
+CT Data Logger Integration,CT Frozen Storage
+CT Chemistry Serum Separation,CT Processed Serum
+CT Chemistry Plasma Separation,CT Processed Plasma
+CT Centrifugation,CT Centrifuged Sample
+CT Hematology Thin Smear,CT Thin Smear
+CT Wright Staining,CT Wright Stained Smear
+CT Parasitology Thin Smear,CT Thin Smear
+CT Parasitology Thick Smear,CT Thick Smear
+CT Giemsa Staining,CT Giemsa Stained Smear
+CT Microbiology Smear,CT Gram Stained Smear
+CT Microbiology Smear,CT AFB Stained Smear
+CT Gram Staining,CT Gram Stained Smear
+CT AFB Staining,CT AFB Stained Smear
+CT Indian Ink Staining,CT Indian Ink Stained
+CT KOH Preparation,CT KOH Preparation
+CT Urine Sedimentation,CT Urine Sediment
+CT Urine Centrifugation,CT Urine Sediment
+CT Urine Wet Smear,CT Urine Wet Smear
+CT Stool Wet Smear,CT Stool Wet Smear
+CT Stool Concentration,CT Stool Concentrate
+CT Stool Sedimentation,CT Stool Concentrate
+CT Stool Floatation,CT Stool Concentrate
+CT Bioequivalence Storage,CT Bioequivalence Sample
+CT Bioequivalence Transfer,CT Bioequivalence Sample
+CT Sample Aliquoting,CT Aliquot 1
+CT Sample Aliquoting,CT Aliquot 2
+CT Aliquot Labeling,CT Aliquot 1
+CT Aliquot Labeling,CT Aliquot 2
+CT Parent-Child Traceability,CT Aliquot 1
+CT Parent-Child Traceability,CT Aliquot 2
+CT Vial Aliquoting,CT Sample in Vial
+CT Tube Aliquoting,CT Sample in Tube
+CT Plate Aliquoting,CT Sample in Plate
+CT Electronic Test Ordering,CT Accepted Sample
+CT Work List Generation,CT Accepted Sample
+CT Instrument Interfacing,CT Accepted Sample
+CT Auto Result Upload,CT Accepted Sample
+CT Reference Range Check,CT Accepted Sample
+CT Abnormal Result Flagging,CT Accepted Sample
+CT Screening Eligibility Flag,CT Screening Sample
+CT CBC Test,CT Blood Sample
+CT Differential Count,CT Blood Sample
+CT LFT Test,CT Serum Sample
+CT LFT Test,CT Plasma Sample
+CT KFT Test,CT Serum Sample
+CT KFT Test,CT Plasma Sample
+CT Lipid Profile,CT Serum Sample
+CT Lipid Profile,CT Plasma Sample
+CT FBS Test,CT Serum Sample
+CT FBS Test,CT Plasma Sample
+CT Chemistry Spectrophotometry,CT Serum Sample
+CT Chemistry Spectrophotometry,CT Plasma Sample
+CT ISE Analysis,CT Serum Sample
+CT ISE Analysis,CT Plasma Sample
+CT Colorimetry,CT Serum Sample
+CT Colorimetry,CT Plasma Sample
+CT Potentiometry,CT Serum Sample
+CT Potentiometry,CT Plasma Sample
+CT Enzymatic Reaction,CT Serum Sample
+CT Enzymatic Reaction,CT Plasma Sample
+CT Electrochemical Analysis,CT Serum Sample
+CT Electrochemical Analysis,CT Plasma Sample
+CT ELISA Test,CT Serum Sample
+CT ELISA Test,CT Plasma Sample
+CT CLIA Test,CT Serum Sample
+CT CLIA Test,CT Plasma Sample
+CT RIA Test,CT Serum Sample
+CT RIA Test,CT Plasma Sample
+CT HIV RDT,CT Blood Sample
+CT HIV RDT,CT Serum Sample
+CT HBsAg Test,CT Serum Sample
+CT HCV Test,CT Serum Sample
+CT Microbiology Microscopy,CT Gram Stained Smear
+CT Microbiology Microscopy,CT AFB Stained Smear
+CT Biochemical Reaction,CT Blood Sample
+CT Antigen Antibody Testing,CT Serum Sample
+CT Flow Cytometry,CT Blood Sample
+CT Photometry,CT Blood Sample
+CT Electrical Impedance,CT Blood Sample
+CT Light Scatter,CT Blood Sample
+CT Coagulation Test,CT Citrate Sample
+CT Clot Formation,CT Citrate Sample
+CT Parasitology Microscopy,CT Thin Smear
+CT Parasitology Microscopy,CT Thick Smear
+CT Parasitology Microscopy,CT Stool Wet Smear
+CT Parasitology RDT,CT Blood Sample
+CT Urinalysis Dipstick,CT Urine Sample
+CT Urinalysis Microscopy,CT Urine Sediment
+CT Urine Physical Examination,CT Urine Sample
+CT Urine Chemical Examination,CT Urine Sample
+CT Stool Ova Test,CT Stool Sample
+CT Stool Parasite Test,CT Stool Sample
+CT Stool Occult Blood,CT Stool Sample
+CT ECG Test,CT Patient Sample
+CT Pregnancy Test,CT Urine Sample
+CT Dual Level QC Normal,CT Control Sample Normal
+CT Dual Level QC Pathologic,CT Control Sample Pathologic
+CT Daily QC,CT Control Sample Normal
+CT Daily QC,CT Control Sample Pathologic
+CT Monthly Calibration,CT Control Sample Normal
+CT LJ Chart Monitoring,CT Control Sample Normal
+CT LJ Chart Monitoring,CT Control Sample Pathologic
+CT Method Comparison,CT Control Sample Normal
+CT Method Verification,CT Control Sample Normal
+CT Quarterly EQA,CT Control Sample Normal
+CT Positive Control Test,CT Positive Control
+CT Negative Control Test,CT Negative Control
+CT QC Pass,CT Quality Checked Sample
+CT QC Fail,CT Failed QC Sample
+CT Deviation Capture,CT Failed QC Sample
+CT Root Cause Analysis,CT Failed QC Sample
+CT Random Error Rerun,CT Failed QC Sample
+CT Recalibration,CT Failed QC Sample
+CT Maintenance,CT Failed QC Sample
+CT Bioanalytical Transfer,CT Bioequivalence Sample
+CT Post-Test Storage,CT Accepted Sample
+CT Post-Test Disposal,CT Sample for Disposal
+CT Manual Result Entry,CT Accepted Sample
+CT Machine Result Entry,CT Accepted Sample
+CT Result Validation,CT Accepted Sample
+CT Reference Level Modification,CT Accepted Sample
+CT Result Approval,CT Accepted Sample
+CT Result Printing,CT Accepted Sample
+CT Result Storage,CT Accepted Sample
+CT Result Approval by Department,CT Accepted Sample
+CT Sample Utilization Report,CT Accepted Sample
+CT Sample Depletion Report,CT Sample for Disposal
+CT Turnaround Time Report,CT Accepted Sample
+CT Equipment Usage Report,CT Accepted Sample
+CT QC Performance Monitoring,CT Control Sample Normal
+CT QC Performance Monitoring,CT Control Sample Pathologic
+CT Assay Success Rate Monitoring,CT Accepted Sample
+CT Instrument Log Monitoring,CT Accepted Sample
+CT Virtual QC Monitoring,CT Control Sample Normal
+CT Virtual QC Monitoring,CT Control Sample Pathologic
+CT Assay Completion Monitoring,CT Accepted Sample
+CT Instrument Usage Monitoring,CT Accepted Sample
+CT TAT Monitoring,CT Accepted Sample
+CT Sample Acceptance Rate,CT Accepted Sample
+CT Sample Acceptance Rate,CT Rejected Sample
+CT Dashboard Summary,CT Accepted Sample
+CT Periodic Summary,CT Accepted Sample
+CT Result Review Restriction,CT Accepted Sample
+CT Corrective Action Monitoring,CT Failed QC Sample
+CT External Reporting,CT Accepted Sample
+CT Temperature Record Report,CT Refrigerated Storage
+CT Temperature Record Report,CT Frozen Storage
+CT Temperature Excursion Report,CT Refrigerated Storage
+CT Temperature Excursion Report,CT Frozen Storage
+CT Accreditation Support,CT Accepted Sample
+CT Sample Disposal for Expiry,CT Sample for Disposal
+CT Sample Disposal for Exhaustion,CT Sample for Disposal
+CT Sample Disposal for Failed QC,CT Sample for Disposal
+CT Sample Disposal for Safety,CT Sample for Disposal
+CT Disposal Documentation,CT Sample for Disposal
+CT Biological Waste Disposal Guideline,CT Sample for Disposal
+CT Licensed Disposal Party,CT Sample for Disposal
+CT Accredited Disposal Facility,CT Sample for Disposal
+CT Blood Sample Incineration,CT Sample for Disposal
+CT Stool Sample Incineration,CT Sample for Disposal
+CT Urine Chemical Treatment,CT Sample for Disposal
+CT Analyzer Waste Chemical Treatment,CT Sample for Disposal
+CT Permanent Data Archiving,CT Archived Sample
+CT Metadata Archiving,CT Archived Sample
+CT Analysis Results Archiving,CT Archived Sample
+CT Long-Term Retention Policy,CT Archived Sample
+CT Biobanking Retention,CT Biobanking Sample
+CT Regulatory Compliance Retention,CT Archived Sample
+CT BE Sample 2-Year Retention,CT Bioequivalence Sample
+CT Biobanking Transfer,CT Biobanking Sample
+CT Biobanking Record Keeping,CT Biobanking Sample

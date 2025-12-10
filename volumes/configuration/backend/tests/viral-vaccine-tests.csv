@@ -1,0 +1,108 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+VV Sample Arrival,Microbiology,VV Pre-labeled Sample,,,Y,Y,1700,,VV Sample Arrival,Arrivée Échantillon VV
+VV Sample Labeling,Microbiology,VV Arrival Labeled Sample,,,Y,Y,1701,,VV Sample Labeling,Étiquetage Échantillon VV
+VV Sample Registration,Microbiology,VV Viral Sample,,,Y,Y,1702,,VV Sample Registration,Enregistrement Échantillon VV
+VV Sample ID Assignment,Microbiology,VV Viral Sample,,,Y,Y,1703,,VV Sample ID Assignment,Attribution ID Échantillon VV
+VV Sample Source Registration,Microbiology,VV Viral Sample,,,Y,Y,1704,,VV Sample Source Registration,Enregistrement Source Échantillon VV
+VV Sample Type Registration,Microbiology,VV Viral Sample,,,Y,Y,1705,,VV Sample Type Registration,Enregistrement Type Échantillon VV
+VV Date Time Registration,Microbiology,VV Viral Sample,,,Y,Y,1706,,VV Date Time Registration,Enregistrement Date Heure VV
+VV Test Type Assignment,Microbiology,VV Viral Sample,,,Y,Y,1707,,VV Test Type Assignment,Attribution Type Test VV
+VV Viral Stream Assignment,Microbiology,VV Viral Sample,,,Y,Y,1708,,VV Viral Stream Assignment,Attribution Flux Viral VV
+VV Bacterial Stream Assignment,Microbiology,VV Bacterial Sample,,,Y,Y,1709,,VV Bacterial Stream Assignment,Attribution Flux Bactérien VV
+VV Media Selection,Microbiology,VV Culture Media,,,Y,Y,1710,,VV Media Selection,Sélection Milieu VV
+VV Reagent Selection,Microbiology,VV Reagent,,,Y,Y,1711,,VV Reagent Selection,Sélection Réactif VV
+VV Equipment Selection,Microbiology,VV Equipment Sample,,,Y,Y,1712,,VV Equipment Selection,Sélection Équipement VV
+VV Materials Used Log,Microbiology,VV Culture Media,,,Y,Y,1713,,VV Materials Used Log,Journal Matériaux Utilisés VV
+VV Autoclaving Sterilization,Microbiology,VV Autoclaved Media,,,Y,Y,1714,,VV Autoclaving Sterilization,Stérilisation Autoclavage VV
+VV Filtration Sterilization,Microbiology,VV Filtered Media,,,Y,Y,1715,,VV Filtration Sterilization,Stérilisation Filtration VV
+VV Sterilization Parameters Log,Microbiology,VV Autoclaved Media,,,Y,Y,1716,,VV Sterilization Parameters Log,Journal Paramètres Stérilisation VV
+VV Host Cell Culture Setup,Microbiology,VV Host Cell Line,,,Y,Y,1717,,VV Host Cell Culture Setup,Configuration Culture Cellules Hôtes VV
+VV Cell Line Tracking,Microbiology,VV Host Cell Line,,,Y,Y,1718,,VV Cell Line Tracking,Suivi Lignée Cellulaire VV
+VV Cell Growth Condition Log,Microbiology,VV Growing Cell Culture,,,Y,Y,1719,,VV Cell Growth Condition Log,Journal Conditions Croissance Cellulaire VV
+VV Cell Viability Validation,Microbiology,VV Cell Viability QC,,,Y,Y,1720,%,VV Cell Viability Validation,Validation Viabilité Cellulaire VV
+VV Sterility Validation,Microbiology,VV Sterility QC,,,Y,Y,1721,,VV Sterility Validation,Validation Stérilité VV
+VV QC Results Log,Microbiology,VV QC Pass,,,Y,Y,1722,,VV QC Results Log,Journal Résultats QC VV
+VV Virus Inoculation,Microbiology,VV Virus Inoculum,,,Y,Y,1723,,VV Virus Inoculation,Inoculation Virale VV
+VV Virus Culture Incubation,Microbiology,VV Virus Culture,,,Y,Y,1724,,VV Virus Culture Incubation,Incubation Culture Virale VV
+VV Virus Strain Recording,Microbiology,VV Virus Strain,,,Y,Y,1725,,VV Virus Strain Recording,Enregistrement Souche Virale VV
+VV Culture Conditions Log,Microbiology,VV Virus Culture,,,Y,Y,1726,,VV Culture Conditions Log,Journal Conditions Culture VV
+VV Dark Room Imaging,Microbiology,VV Dark Room Imaging Sample,,,Y,Y,1727,,VV Dark Room Imaging,Imagerie Chambre Noire VV
+VV Fluorescence Analysis,Microbiology,VV Fluorescence Sample,,,Y,Y,1728,,VV Fluorescence Analysis,Analyse Fluorescence VV
+VV Image Data Storage,Microbiology,VV Image Data,,,Y,Y,1729,,VV Image Data Storage,Stockage Données Image VV
+VV Image Analysis,Microbiology,VV Image Data,,,Y,Y,1730,,VV Image Analysis,Analyse Image VV
+VV Viral Product Formulation,Microbiology,VV Formulated Viral Product,,,Y,Y,1731,,VV Viral Product Formulation,Formulation Produit Viral VV
+VV Formulation Details Documentation,Microbiology,VV Formulated Viral Product,,,Y,Y,1732,,VV Formulation Details Documentation,Documentation Détails Formulation VV
+VV Culture Feeding,Microbiology,VV Fed Culture,,,Y,Y,1733,,VV Culture Feeding,Alimentation Culture VV
+VV Feeding Schedule Log,Microbiology,VV Fed Culture,,,Y,Y,1734,,VV Feeding Schedule Log,Journal Programme Alimentation VV
+VV Feeding Reagents Log,Microbiology,VV Fed Culture,,,Y,Y,1735,,VV Feeding Reagents Log,Journal Réactifs Alimentation VV
+VV Final Product Packaging,Microbiology,VV Packaged Product,,,Y,Y,1736,,VV Final Product Packaging,Emballage Produit Final VV
+VV Batch ID Tracking,Microbiology,VV Batch Product,,,Y,Y,1737,,VV Batch ID Tracking,Suivi ID Lot VV
+VV Packaging Specs Log,Microbiology,VV Packaged Product,,,Y,Y,1738,,VV Packaging Specs Log,Journal Spécifications Emballage VV
+VV Virus Isolation,Microbiology,VV Isolated Virus,,,Y,Y,1739,,VV Virus Isolation,Isolement Viral VV
+VV Culture Batch Linkage,Microbiology,VV Isolated Virus,,,Y,Y,1740,,VV Culture Batch Linkage,Liaison Lot Culture VV
+VV Titer Measurement,Microbiology,VV Titer Sample,79383-5,Y,Y,1741,TCID50/mL,VV Titer Measurement,Mesure Titrage VV
+VV Viral Load Quantification,Microbiology,VV Titer Sample,29539-4,Y,Y,1742,copies/mL,VV Viral Load Quantification,Quantification Charge Virale VV
+VV Titer Values Recording,Microbiology,VV Titer Sample,,,Y,Y,1743,,VV Titer Values Recording,Enregistrement Valeurs Titrage VV
+VV Genome Sequencing,Molecular Biology,VV Genome Sequencing Sample,81304-8,Y,Y,1744,,VV Genome Sequencing,Séquençage Génome VV
+VV Viral Genome Analysis,Molecular Biology,VV Genome Sequencing Sample,,,Y,Y,1745,,VV Viral Genome Analysis,Analyse Génome Viral VV
+VV Sequence Data Storage,Molecular Biology,VV Genome Sequencing Sample,,,Y,Y,1746,,VV Sequence Data Storage,Stockage Données Séquence VV
+VV Seed Virus Production,Microbiology,VV Seed Virus,,,Y,Y,1747,,VV Seed Virus Production,Production Virus Semence VV
+VV Strain Selection,Microbiology,VV Seed Virus,,,Y,Y,1748,,VV Strain Selection,Sélection Souche VV
+VV Selection Criteria Documentation,Microbiology,VV Seed Virus,,,Y,Y,1749,,VV Selection Criteria Documentation,Documentation Critères Sélection VV
+VV Preclinical Trial Initiation,Microbiology,VV Preclinical Trial Sample,,,Y,Y,1750,,VV Preclinical Trial Initiation,Initiation Essai Préclinique VV
+VV Animal Testing Tracking,Microbiology,VV Animal Test Sample,,,Y,Y,1751,,VV Animal Testing Tracking,Suivi Test Animal VV
+VV Preclinical Results Recording,Microbiology,VV Preclinical Trial Sample,,,Y,Y,1752,,VV Preclinical Results Recording,Enregistrement Résultats Préclinique VV
+VV Clinical Trial Initiation,Microbiology,VV Clinical Trial Sample,,,Y,Y,1753,,VV Clinical Trial Initiation,Initiation Essai Clinique VV
+VV Phase I Trial Tracking,Microbiology,VV Phase I Trial Sample,,,Y,Y,1754,,VV Phase I Trial Tracking,Suivi Essai Phase I VV
+VV Phase II Trial Tracking,Microbiology,VV Phase II Trial Sample,,,Y,Y,1755,,VV Phase II Trial Tracking,Suivi Essai Phase II VV
+VV Phase III Trial Tracking,Microbiology,VV Phase III Trial Sample,,,Y,Y,1756,,VV Phase III Trial Tracking,Suivi Essai Phase III VV
+VV Clinical Trial Outcomes Linkage,Microbiology,VV Clinical Trial Sample,,,Y,Y,1757,,VV Clinical Trial Outcomes Linkage,Liaison Résultats Essai Clinique VV
+VV External Trial Reference,Microbiology,VV Clinical Trial Sample,,,Y,Y,1758,,VV External Trial Reference,Référence Essai Externe VV
+VV Bacterial Sample Arrival,Microbiology,VV Bacterial Sample,,,Y,Y,1759,,VV Bacterial Sample Arrival,Arrivée Échantillon Bactérien VV
+VV Bacterial Sample Registration,Microbiology,VV Bacterial Sample,,,Y,Y,1760,,VV Bacterial Sample Registration,Enregistrement Échantillon Bactérien VV
+VV Bacterial Workflow Assignment,Microbiology,VV Bacterial Sample,,,Y,Y,1761,,VV Bacterial Workflow Assignment,Attribution Flux Travail Bactérien VV
+VV Bacterial Culture Processing,Microbiology,VV Bacterial Culture Sample,,,Y,Y,1762,,VV Bacterial Culture Processing,Traitement Culture Bactérienne VV
+VV Sample Staining,Microbiology,VV Stained Sample,,,Y,Y,1763,,VV Sample Staining,Coloration Échantillon VV
+VV Gram Staining,Microbiology,VV Gram Stained Sample,664-3,Y,Y,1764,,VV Gram Staining,Coloration Gram VV
+VV Bacterial Culture Procedure Log,Microbiology,VV Bacterial Culture Sample,,,Y,Y,1765,,VV Bacterial Culture Procedure Log,Journal Procédure Culture Bactérienne VV
+VV Staining Reagents Log,Microbiology,VV Stained Sample,,,Y,Y,1766,,VV Staining Reagents Log,Journal Réactifs Coloration VV
+VV Microscopy Examination,Microbiology,VV Microscopy Sample,,,Y,Y,1767,,VV Microscopy Examination,Examen Microscopie VV
+VV Biochemical Tests,Microbiology,VV Biochemical Test Sample,,,Y,Y,1768,,VV Biochemical Tests,Tests Biochimiques VV
+VV Bacteria Identification,Microbiology,VV Identified Bacteria,634-6,Y,Y,1769,,VV Bacteria Identification,Identification Bactérie VV
+VV Species Recording,Microbiology,VV Bacterial Species,,,Y,Y,1770,,VV Species Recording,Enregistrement Espèce VV
+VV Strain Recording,Microbiology,VV Bacterial Strain,,,Y,Y,1771,,VV Strain Recording,Enregistrement Souche VV
+VV DNA Extraction,Molecular Biology,VV DNA Extract,,,Y,Y,1772,,VV DNA Extraction,Extraction ADN VV
+VV Genomic DNA Preparation,Molecular Biology,VV Genomic DNA,,,Y,Y,1773,,VV Genomic DNA Preparation,Préparation ADN Génomique VV
+VV Genome Identification,Molecular Biology,VV Sequenced Genome,,,Y,Y,1774,,VV Genome Identification,Identification Génome VV
+VV Bacterial Genome Sequencing,Molecular Biology,VV Sequenced Genome,81304-8,Y,Y,1775,,VV Bacterial Genome Sequencing,Séquençage Génome Bactérien VV
+VV Genomic Data Storage,Molecular Biology,VV Sequenced Genome,,,Y,Y,1776,,VV Genomic Data Storage,Stockage Données Génomiques VV
+VV Gene Development,Molecular Biology,VV Target Gene,,,Y,Y,1777,,VV Gene Development,Développement Génique VV
+VV Target Gene Analysis,Molecular Biology,VV Target Gene,,,Y,Y,1778,,VV Target Gene Analysis,Analyse Gène Cible VV
+VV Gene Target Documentation,Molecular Biology,VV Target Gene,,,Y,Y,1779,,VV Gene Target Documentation,Documentation Cible Génique VV
+VV Gene Sequencing,Molecular Biology,VV Gene Sequence,,,Y,Y,1780,,VV Gene Sequencing,Séquençage Génique VV
+VV Gene Sequence Recording,Molecular Biology,VV Gene Sequence,,,Y,Y,1781,,VV Gene Sequence Recording,Enregistrement Séquence Génique VV
+VV Detection Kit Development,Microbiology,VV Detection Kit,,,Y,Y,1782,,VV Detection Kit Development,Développement Kit Détection VV
+VV Resistance Kit Development,Microbiology,VV Resistance Kit,,,Y,Y,1783,,VV Resistance Kit Development,Développement Kit Résistance VV
+VV Product Development,Microbiology,VV Product Kit,,,Y,Y,1784,,VV Product Development,Développement Produit VV
+VV Product Type Tracking,Microbiology,VV Product Kit,,,Y,Y,1785,,VV Product Type Tracking,Suivi Type Produit VV
+VV Product Specs Documentation,Microbiology,VV Product Kit,,,Y,Y,1786,,VV Product Specs Documentation,Documentation Spécifications Produit VV
+VV Bioinformatics Analysis,Molecular Biology,VV Bioinformatics Sample,,,Y,Y,1787,,VV Bioinformatics Analysis,Analyse Bioinformatique VV
+VV Advanced Genomic Analysis,Molecular Biology,VV Bioinformatics Sample,,,Y,Y,1788,,VV Advanced Genomic Analysis,Analyse Génomique Avancée VV
+VV External Bioinformatics Report Link,Molecular Biology,VV External Report Sample,,,Y,Y,1789,,VV External Bioinformatics Report Link,Lien Rapport Bioinformatique Externe VV
+VV RT Storage Assignment,Microbiology,VV RT Storage Sample,,,Y,Y,1790,,VV RT Storage Assignment,Attribution Stockage TA VV
+VV Refrigerated Storage 2-8C,Microbiology,VV Refrigerated Sample 2-8C,,,Y,Y,1791,,VV Refrigerated Storage 2-8C,Stockage Réfrigéré 2-8C VV
+VV Frozen Storage -20C,Microbiology,VV Frozen Sample -20C,,,Y,Y,1792,,VV Frozen Storage -20C,Stockage Congelé -20C VV
+VV Frozen Storage -80C,Microbiology,VV Frozen Sample -80C,,,Y,Y,1793,,VV Frozen Storage -80C,Stockage Congelé -80C VV
+VV LN2 Storage Assignment,Microbiology,VV LN2 Storage Sample,,,Y,Y,1794,,VV LN2 Storage Assignment,Attribution Stockage LN2 VV
+VV Temperature Monitoring,Microbiology,VV Refrigerated Sample 2-8C,,,Y,Y,1795,°C,VV Temperature Monitoring,Surveillance Température VV
+VV Sample Archiving,Microbiology,VV Archived Sample,,,Y,Y,1796,,VV Sample Archiving,Archivage Échantillon VV
+VV Data Archiving,Microbiology,VV Archived Sample,,,Y,Y,1797,,VV Data Archiving,Archivage Données VV
+VV Sample Disposal,Microbiology,VV Disposal Sample,,,Y,Y,1798,,VV Sample Disposal,Élimination Échantillon VV
+VV Autoclave Disposal,Microbiology,VV Disposal Sample,,,Y,Y,1799,,VV Autoclave Disposal,Élimination Autoclave VV
+VV Incineration Disposal,Microbiology,VV Disposal Sample,,,Y,Y,1800,,VV Incineration Disposal,Élimination Incinération VV
+VV Batch QC Review,Microbiology,VV Batch Product,,,Y,Y,1801,,VV Batch QC Review,Revue QC Lot VV
+VV Product Release,Microbiology,VV Packaged Product,,,Y,Y,1802,,VV Product Release,Libération Produit VV
+VV Traceability Documentation,Microbiology,VV Batch Product,,,Y,Y,1803,,VV Traceability Documentation,Documentation Traçabilité VV
+VV Chain of Custody Log,Microbiology,VV Viral Sample,,,Y,Y,1804,,VV Chain of Custody Log,Journal Chaîne Traçabilité VV
+VV Metadata Review,Microbiology,VV Viral Sample,,,Y,Y,1805,,VV Metadata Review,Revue Métadonnées VV
+VV Data Integrity Check,Microbiology,VV Viral Sample,,,Y,Y,1806,,VV Data Integrity Check,Vérification Intégrité Données VV

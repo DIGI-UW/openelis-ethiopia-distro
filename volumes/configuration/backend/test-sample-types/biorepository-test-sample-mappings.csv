@@ -1,0 +1,123 @@
+testName,sampleType
+Sample Intake Verification,Archive Sample
+Sample Intake Verification,Biological Archive
+Sample Intake Verification,Non-Biological Archive
+Sample Intake Verification,External Collaborator Sample
+Documentation Completeness Check,Archive Sample
+Documentation Completeness Check,Biological Archive
+Documentation Completeness Check,Non-Biological Archive
+Sample Identifier Verification,Archive Sample
+Sample Identifier Verification,Biological Archive
+Sample Identifier Verification,Non-Biological Archive
+Ethical Approval Confirmation,Archive Sample
+Ethical Approval Confirmation,Biological Archive
+Ethical Approval Confirmation,External Collaborator Sample
+Material Transfer Agreement Check,External Collaborator Sample
+Biosafety Classification Verification,Archive Sample
+Biosafety Classification Verification,Biological Archive
+Packaging Integrity Check,Archive Sample
+Packaging Integrity Check,Biological Archive
+Packaging Integrity Check,Non-Biological Archive
+Biorepository Registration,Archive Sample
+Biorepository Registration,Biological Archive
+Biorepository Registration,Non-Biological Archive
+Barcode Generation and Validation,Archive Sample
+Barcode Generation and Validation,Biological Archive
+Barcode Generation and Validation,Non-Biological Archive
+Parent-Child Relationship Mapping,Aliquot Sample
+Parent-Child Relationship Mapping,Derived Sample
+Storage Environment Assignment,Archive Sample
+Storage Environment Assignment,Biological Archive
+Storage Environment Assignment,Non-Biological Archive
+Freezer Location Mapping,Archive Sample
+Freezer Location Mapping,Cryovial Sample
+Freezer Location Mapping,Serum Archive
+Freezer Location Mapping,DNA Archive
+Freezer Location Mapping,Bacterial Isolate Archive
+Freezer Location Mapping,Tissue Archive
+Cryostorage Placement,Cryovial Sample
+Cryostorage Placement,Tissue Archive
+Cryostorage Placement,Bacterial Isolate Archive
+Ambient Storage Placement,Chemical Archive
+Ambient Storage Placement,Non-Biological Archive
+Ambient Storage Placement,Tablet Archive
+Ambient Storage Placement,Paraffin Block
+Ambient Storage Placement,Slide Archive
+Box Barcode Scanning,Archive Sample
+Box Barcode Scanning,Biological Archive
+Box Barcode Scanning,Non-Biological Archive
+Storage Position Verification,Archive Sample
+Storage Position Verification,Biological Archive
+Storage Position Verification,Non-Biological Archive
+Dual Verification Check,Archive Sample
+Dual Verification Check,Biological Archive
+Temperature Monitoring,Archive Sample
+Temperature Monitoring,Biological Archive
+Equipment Calibration Check,Archive Sample
+Equipment Calibration Check,Biological Archive
+Maintenance Event Recording,Archive Sample
+Maintenance Event Recording,Biological Archive
+Retention Policy Enforcement,Archive Sample
+Retention Policy Enforcement,Biological Archive
+Retention Policy Enforcement,Non-Biological Archive
+Retention Alert Notification,Archive Sample
+Retention Alert Notification,Biological Archive
+Retention Alert Notification,Non-Biological Archive
+Sample Disposal Authorization,Sample for Disposal
+Sample Destruction,Sample for Disposal
+Disposal Documentation,Sample for Disposal
+Sample Retrieval Request,Archive Sample
+Sample Retrieval Request,Biological Archive
+Sample Retrieval Request,Non-Biological Archive
+Retrieval Authorization Check,Archive Sample
+Retrieval Authorization Check,Biological Archive
+Retrieval Authorization Check,Non-Biological Archive
+Retrieval Work Order Generation,Retrieved Sample
+Sample Checkout,Checked Out Sample
+Custody Status Update,Checked Out Sample
+Custody Status Update,Sample In Analysis
+Custody Status Update,Returned Sample
+Chain of Custody Transfer,Checked Out Sample
+Sample Return Check-In,Returned Sample
+QC Random Selection,Archive Sample
+QC Random Selection,Biological Archive
+QC Random Selection,Non-Biological Archive
+QC Layout Generation,Archive Sample
+QC Layout Generation,Biological Archive
+QC Layout Generation,Non-Biological Archive
+QC Physical Verification,QC Verified Sample
+QC Label Integrity Check,QC Verified Sample
+QC Discrepancy Logging,Archive Sample
+QC Discrepancy Logging,Biological Archive
+QC Discrepancy Logging,Non-Biological Archive
+CAPA Ticket Generation,Archive Sample
+CAPA Ticket Generation,Biological Archive
+CAPA Ticket Generation,Non-Biological Archive
+Corrective Action Tracking,Archive Sample
+Corrective Action Tracking,Biological Archive
+Corrective Action Tracking,Non-Biological Archive
+QC Audit Report Generation,Archive Sample
+QC Audit Report Generation,Biological Archive
+QC Audit Report Generation,Non-Biological Archive
+Predictive QC Scheduling,Archive Sample
+Predictive QC Scheduling,Biological Archive
+Freezer Capacity Reporting,Archive Sample
+Freezer Capacity Reporting,Biological Archive
+Sample Aging Analysis,Archive Sample
+Sample Aging Analysis,Biological Archive
+Sample Aging Analysis,Non-Biological Archive
+Compliance Metrics Reporting,Archive Sample
+Compliance Metrics Reporting,Biological Archive
+Compliance Metrics Reporting,Non-Biological Archive
+Audit Trail Export,Archive Sample
+Audit Trail Export,Biological Archive
+Audit Trail Export,Non-Biological Archive
+Data Backup Verification,Archive Sample
+Data Backup Verification,Biological Archive
+Data Backup Verification,Non-Biological Archive
+Backup Integrity Check,Archive Sample
+Backup Integrity Check,Biological Archive
+Backup Integrity Check,Non-Biological Archive
+Disaster Recovery Test,Archive Sample
+Disaster Recovery Test,Biological Archive
+Disaster Recovery Test,Non-Biological Archive

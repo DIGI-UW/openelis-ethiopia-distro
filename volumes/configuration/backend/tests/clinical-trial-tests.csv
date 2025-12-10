@@ -1,0 +1,210 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+CT Patient Information Registration,Hematology,CT Patient Sample|CT Participant Sample,,Y,Y,800,,CT Patient Information Registration,Enregistrement Information Patient Essai Clinique
+CT Lab Order Entry,Hematology,CT Patient Sample|CT Participant Sample,,Y,Y,801,,CT Lab Order Entry,Saisie Bon de Commande Labo Essai Clinique
+CT Sample Collection,Hematology,CT Blood Sample|CT Urine Sample|CT Stool Sample,,Y,Y,802,,CT Sample Collection,Collecte d'Échantillon Essai Clinique
+CT Sample Labeling,Hematology,CT Blood Sample|CT Serum Sample|CT Plasma Sample|CT Urine Sample|CT Stool Sample,,Y,Y,803,,CT Sample Labeling,Étiquetage d'Échantillon Essai Clinique
+CT Screening Sample Processing,Hematology,CT Screening Sample,,Y,Y,804,,CT Screening Sample Processing,Traitement Échantillon Dépistage Essai Clinique
+CT Participant Enrollment,Hematology,CT Enrolled Participant Sample,,Y,Y,805,,CT Participant Enrollment,Inscription Participant Essai Clinique
+CT Scheduled Sample Collection,Hematology,CT Enrolled Participant Sample,,Y,Y,806,,CT Scheduled Sample Collection,Collecte Échantillon Planifiée Essai Clinique
+CT Sample Tracking Initiation,Hematology,CT Blood Sample|CT Urine Sample|CT Stool Sample,,Y,Y,807,,CT Sample Tracking Initiation,Initiation Suivi Échantillon Essai Clinique
+CT Sample Quality Assessment,Hematology,CT Blood Sample|CT Serum Sample|CT Plasma Sample|CT Urine Sample|CT Stool Sample,,Y,Y,808,,CT Sample Quality Assessment,Évaluation Qualité Échantillon Essai Clinique
+CT Labeling Check,Hematology,CT Blood Sample|CT Urine Sample|CT Stool Sample,,Y,Y,809,,CT Labeling Check,Vérification Étiquetage Essai Clinique
+CT Container Check,Hematology,CT Sample in Vacutainer|CT Sample in Cryovial|CT Sample in Urine Cup|CT Sample in Stool Jar,,Y,Y,810,,CT Container Check,Vérification Contenant Essai Clinique
+CT Test Request Verification,Hematology,CT Blood Sample|CT Urine Sample|CT Stool Sample,,Y,Y,811,,CT Test Request Verification,Vérification Demande Test Essai Clinique
+CT Storage Temperature Check,Hematology,CT Room Temperature Storage|CT Refrigerated Storage|CT Frozen Storage,,Y,Y,812,°C,CT Storage Temperature Check,Vérification Température Stockage Essai Clinique
+CT Primary Packaging Check,Hematology,CT Sample in Vacutainer|CT Sample in Cryovial|CT Sample in Urine Cup|CT Sample in Stool Jar|CT Sample in Swab Tube,,Y,Y,813,,CT Primary Packaging Check,Vérification Emballage Primaire Essai Clinique
+CT Seal Closure Status,Hematology,CT Sample in Vacutainer|CT Sample in Cryovial,,Y,Y,814,,CT Seal Closure Status,Statut Fermeture Sceau Essai Clinique
+CT Barcode Unique ID Check,Hematology,CT Blood Sample|CT Urine Sample|CT Stool Sample,,Y,Y,815,,CT Barcode Unique ID Check,Vérification ID Unique Code-Barres Essai Clinique
+CT Absorbent Material Check,Hematology,CT Sample in Biohazard Bag,,Y,Y,816,,CT Absorbent Material Check,Vérification Matériau Absorbant Essai Clinique
+CT Secondary Packaging Check,Hematology,CT Sample in Biohazard Bag,,Y,Y,817,,CT Secondary Packaging Check,Vérification Emballage Secondaire Essai Clinique
+CT Integrity Check,Hematology,CT Sample in Biohazard Bag,,Y,Y,818,,CT Integrity Check,Vérification Intégrité Essai Clinique
+CT Watertight Compliance Check,Hematology,CT Sample in Biohazard Bag,,Y,Y,819,,CT Watertight Compliance Check,Vérification Conformité Étanche Essai Clinique
+CT Primary Container Count,Hematology,CT Sample in Biohazard Bag,,Y,Y,820,,CT Primary Container Count,Comptage Contenant Primaire Essai Clinique
+CT Tertiary Packaging Check,Hematology,CT Sample in Transport Box,,Y,Y,821,,CT Tertiary Packaging Check,Vérification Emballage Tertiaire Essai Clinique
+CT Transport Box Type Check,Hematology,CT Sample in Transport Box,,Y,Y,822,,CT Transport Box Type Check,Vérification Type Boîte Transport Essai Clinique
+CT Labeling Status Check,Hematology,CT Sample in Transport Box,,Y,Y,823,,CT Labeling Status Check,Vérification Statut Étiquetage Essai Clinique
+CT Temperature Logger Check,Hematology,CT Sample in Transport Box,,Y,Y,824,,CT Temperature Logger Check,Vérification Enregistreur Température Essai Clinique
+CT Courier Details Check,Hematology,CT Sample in Transport Box,,Y,Y,825,,CT Courier Details Check,Vérification Détails Coursier Essai Clinique
+CT Arrival Condition Check,Hematology,CT Sample in Transport Box,,Y,Y,826,,CT Arrival Condition Check,Vérification État Arrivée Essai Clinique
+CT IATA PI650 Compliance,Hematology,CT Sample in Transport Box,,Y,Y,827,,CT IATA PI650 Compliance,Conformité IATA PI650 Essai Clinique
+CT Transportation Status Check,Hematology,CT Sample in Transport Box,,Y,Y,828,,CT Transportation Status Check,Vérification Statut Transport Essai Clinique
+CT Chemistry Sample QC,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,829,,CT Chemistry Sample QC,CQ Échantillon Chimie Essai Clinique
+CT Chemistry Delay Check,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,830,hours,CT Chemistry Delay Check,Vérification Retard Chimie Essai Clinique
+CT Chemistry Leak Check,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,831,,CT Chemistry Leak Check,Vérification Fuite Chimie Essai Clinique
+CT Chemistry Volume Check,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,832,mL,CT Chemistry Volume Check,Vérification Volume Chimie Essai Clinique
+CT Hemolysis Check,Biochemistry,CT Serum Sample,,Y,Y,833,,CT Hemolysis Check,Vérification Hémolyse Essai Clinique
+CT Lipemic Check,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,834,,CT Lipemic Check,Vérification Lipémique Essai Clinique
+CT Icteric Check,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,835,,CT Icteric Check,Vérification Ictérique Essai Clinique
+CT Hematology Sample QC,Hematology,CT Blood Sample|CT EDTA Sample,,Y,Y,836,,CT Hematology Sample QC,CQ Échantillon Hématologie Essai Clinique
+CT Anticoagulant Type Check,Hematology,CT EDTA Sample|CT Citrate Sample|CT Heparin Sample|CT Fluoride Sample,,Y,Y,837,,CT Anticoagulant Type Check,Vérification Type Anticoagulant Essai Clinique
+CT Hematology Delay Check,Hematology,CT Blood Sample|CT EDTA Sample,,Y,Y,838,hours,CT Hematology Delay Check,Vérification Retard Hématologie Essai Clinique
+CT Clotting Check,Hematology,CT Blood Sample|CT EDTA Sample,,Y,Y,839,,CT Clotting Check,Vérification Coagulation Essai Clinique
+CT Plasma Clarity Check,Hematology,CT Plasma Sample,,Y,Y,840,,CT Plasma Clarity Check,Vérification Clarté Plasma Essai Clinique
+CT Stool Sample QC,Parasitology,CT Stool Sample,,Y,Y,841,,CT Stool Sample QC,CQ Échantillon Selles Essai Clinique
+CT Stool Delay Check,Parasitology,CT Stool Sample,,Y,Y,842,minutes,CT Stool Delay Check,Vérification Retard Selles Essai Clinique
+CT Stool Volume Check,Parasitology,CT Stool Sample,,Y,Y,843,,CT Stool Volume Check,Vérification Volume Selles Essai Clinique
+CT Stool Urine Contamination Check,Parasitology,CT Stool Sample,,Y,Y,844,,CT Stool Urine Contamination Check,Vérification Contamination Urine Selles Essai Clinique
+CT Urine Sample QC,Urinalysis,CT Urine Sample,,Y,Y,845,,CT Urine Sample QC,CQ Échantillon Urine Essai Clinique
+CT Urine Delay Check,Urinalysis,CT Urine Sample,,Y,Y,846,minutes,CT Urine Delay Check,Vérification Retard Urine Essai Clinique
+CT Urine Volume Check,Urinalysis,CT Urine Sample,,Y,Y,847,mL,CT Urine Volume Check,Vérification Volume Urine Essai Clinique
+CT Urine Stool Contamination Check,Urinalysis,CT Urine Sample,,Y,Y,848,,CT Urine Stool Contamination Check,Vérification Contamination Selles Urine Essai Clinique
+CT Microbiology Visible Contamination Check,Microbiology,CT Blood Sample|CT Urine Sample|CT Stool Sample,,Y,Y,849,,CT Microbiology Visible Contamination Check,Vérification Contamination Visible Microbiologie Essai Clinique
+CT Sample Acceptance,Hematology,CT Accepted Sample,,Y,Y,850,,CT Sample Acceptance,Acceptation Échantillon Essai Clinique
+CT Sample Rejection,Hematology,CT Rejected Sample,,Y,Y,851,,CT Sample Rejection,Rejet Échantillon Essai Clinique
+CT Corrective Action Recollection,Hematology,CT Rejected Sample,,Y,Y,852,,CT Corrective Action Recollection,Action Corrective Recollecte Essai Clinique
+CT Lab Order Sample Match,Hematology,CT Accepted Sample,,Y,Y,853,,CT Lab Order Sample Match,Correspondance Bon Commande Échantillon Essai Clinique
+CT Test Allocation Hematology,Hematology,CT Blood Sample,,Y,Y,854,,CT Test Allocation Hematology,Attribution Test Hématologie Essai Clinique
+CT Test Allocation Chemistry,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,855,,CT Test Allocation Chemistry,Attribution Test Chimie Essai Clinique
+CT Test Allocation Parasitology,Parasitology,CT Stool Sample|CT Blood Sample,,Y,Y,856,,CT Test Allocation Parasitology,Attribution Test Parasitologie Essai Clinique
+CT Test Allocation Urinalysis,Urinalysis,CT Urine Sample,,Y,Y,857,,CT Test Allocation Urinalysis,Attribution Test Analyse Urine Essai Clinique
+CT Storage Room Assignment,Hematology,CT Room Temperature Storage|CT Refrigerated Storage|CT Frozen Storage,,Y,Y,858,,CT Storage Room Assignment,Attribution Salle Stockage Essai Clinique
+CT Refrigerator Freezer Assignment,Hematology,CT Refrigerated Storage|CT Frozen Storage,,Y,Y,859,,CT Refrigerator Freezer Assignment,Attribution Réfrigérateur Congélateur Essai Clinique
+CT Drawer Rack Assignment,Hematology,CT Refrigerated Storage|CT Frozen Storage,,Y,Y,860,,CT Drawer Rack Assignment,Attribution Tiroir Étagère Essai Clinique
+CT Cryo-Box Labeling,Hematology,CT Aliquot 1|CT Aliquot 2,,Y,Y,861,,CT Cryo-Box Labeling,Étiquetage Cryo-Boîte Essai Clinique
+CT Cryo-Box Mapping,Hematology,CT Aliquot 1|CT Aliquot 2,,Y,Y,862,,CT Cryo-Box Mapping,Cartographie Cryo-Boîte Essai Clinique
+CT Environmental Monitoring,Hematology,CT Room Temperature Storage|CT Refrigerated Storage|CT Frozen Storage,,Y,Y,863,°C,CT Environmental Monitoring,Surveillance Environnementale Essai Clinique
+CT Room Temperature Monitoring,Hematology,CT Room Temperature Storage,,Y,Y,864,°C,CT Room Temperature Monitoring,Surveillance Température Ambiante Essai Clinique
+CT Freezer Temperature Monitoring,Hematology,CT Frozen Storage,,Y,Y,865,°C,CT Freezer Temperature Monitoring,Surveillance Température Congélateur Essai Clinique
+CT Data Logger Integration,Hematology,CT Refrigerated Storage|CT Frozen Storage,,Y,Y,866,,CT Data Logger Integration,Intégration Enregistreur Données Essai Clinique
+CT Chemistry Serum Separation,Biochemistry,CT Processed Serum,,Y,Y,867,,CT Chemistry Serum Separation,Séparation Sérum Chimie Essai Clinique
+CT Chemistry Plasma Separation,Biochemistry,CT Processed Plasma,,Y,Y,868,,CT Chemistry Plasma Separation,Séparation Plasma Chimie Essai Clinique
+CT Centrifugation,Biochemistry,CT Centrifuged Sample,,Y,Y,869,RPM,CT Centrifugation,Centrifugation Essai Clinique
+CT Hematology Thin Smear,Hematology,CT Thin Smear,,Y,Y,870,,CT Hematology Thin Smear,Frottis Mince Hématologie Essai Clinique
+CT Wright Staining,Hematology,CT Wright Stained Smear,664-3,Y,Y,871,,CT Wright Staining,Coloration Wright Essai Clinique
+CT Parasitology Thin Smear,Parasitology,CT Thin Smear,,Y,Y,872,,CT Parasitology Thin Smear,Frottis Mince Parasitologie Essai Clinique
+CT Parasitology Thick Smear,Parasitology,CT Thick Smear,,Y,Y,873,,CT Parasitology Thick Smear,Frottis Épais Parasitologie Essai Clinique
+CT Giemsa Staining,Parasitology,CT Giemsa Stained Smear,664-3,Y,Y,874,,CT Giemsa Staining,Coloration Giemsa Essai Clinique
+CT Microbiology Smear,Microbiology,CT Gram Stained Smear|CT AFB Stained Smear,,Y,Y,875,,CT Microbiology Smear,Frottis Microbiologie Essai Clinique
+CT Gram Staining,Microbiology,CT Gram Stained Smear,664-3,Y,Y,876,,CT Gram Staining,Coloration Gram Essai Clinique
+CT AFB Staining,Microbiology,CT AFB Stained Smear,664-3,Y,Y,877,,CT AFB Staining,Coloration AFB Essai Clinique
+CT Indian Ink Staining,Microbiology,CT Indian Ink Stained,,Y,Y,878,,CT Indian Ink Staining,Coloration Encre de Chine Essai Clinique
+CT KOH Preparation,Microbiology,CT KOH Preparation,,Y,Y,879,,CT KOH Preparation,Préparation KOH Essai Clinique
+CT Urine Sedimentation,Urinalysis,CT Urine Sediment,,Y,Y,880,,CT Urine Sedimentation,Sédimentation Urine Essai Clinique
+CT Urine Centrifugation,Urinalysis,CT Urine Sediment,,Y,Y,881,RPM,CT Urine Centrifugation,Centrifugation Urine Essai Clinique
+CT Urine Wet Smear,Urinalysis,CT Urine Wet Smear,,Y,Y,882,,CT Urine Wet Smear,Frottis Humide Urine Essai Clinique
+CT Stool Wet Smear,Parasitology,CT Stool Wet Smear,,Y,Y,883,,CT Stool Wet Smear,Frottis Humide Selles Essai Clinique
+CT Stool Concentration,Parasitology,CT Stool Concentrate,,Y,Y,884,,CT Stool Concentration,Concentration Selles Essai Clinique
+CT Stool Sedimentation,Parasitology,CT Stool Concentrate,,Y,Y,885,,CT Stool Sedimentation,Sédimentation Selles Essai Clinique
+CT Stool Floatation,Parasitology,CT Stool Concentrate,,Y,Y,886,,CT Stool Floatation,Flottation Selles Essai Clinique
+CT Bioequivalence Storage,Biochemistry,CT Bioequivalence Sample,,Y,Y,887,,CT Bioequivalence Storage,Stockage Bioéquivalence Essai Clinique
+CT Bioequivalence Transfer,Biochemistry,CT Bioequivalence Sample,,Y,Y,888,,CT Bioequivalence Transfer,Transfert Bioéquivalence Essai Clinique
+CT Sample Aliquoting,Hematology,CT Aliquot 1|CT Aliquot 2,,Y,Y,889,,CT Sample Aliquoting,Aliquotage Échantillon Essai Clinique
+CT Aliquot Labeling,Hematology,CT Aliquot 1|CT Aliquot 2,,Y,Y,890,,CT Aliquot Labeling,Étiquetage Aliquote Essai Clinique
+CT Parent-Child Traceability,Hematology,CT Aliquot 1|CT Aliquot 2,,Y,Y,891,,CT Parent-Child Traceability,Traçabilité Parent-Enfant Essai Clinique
+CT Vial Aliquoting,Hematology,CT Sample in Vial,,Y,Y,892,µL,CT Vial Aliquoting,Aliquotage Flacon Essai Clinique
+CT Tube Aliquoting,Hematology,CT Sample in Tube,,Y,Y,893,µL,CT Tube Aliquoting,Aliquotage Tube Essai Clinique
+CT Plate Aliquoting,Hematology,CT Sample in Plate,,Y,Y,894,µL,CT Plate Aliquoting,Aliquotage Plaque Essai Clinique
+CT Electronic Test Ordering,Hematology,CT Accepted Sample,,Y,Y,895,,CT Electronic Test Ordering,Commande Test Électronique Essai Clinique
+CT Work List Generation,Hematology,CT Accepted Sample,,Y,Y,896,,CT Work List Generation,Génération Liste Travail Essai Clinique
+CT Instrument Interfacing,Hematology,CT Accepted Sample,,Y,Y,897,,CT Instrument Interfacing,Interface Instrument Essai Clinique
+CT Auto Result Upload,Hematology,CT Accepted Sample,,Y,Y,898,,CT Auto Result Upload,Téléchargement Résultat Auto Essai Clinique
+CT Reference Range Check,Hematology,CT Accepted Sample,,Y,Y,899,,CT Reference Range Check,Vérification Gamme Référence Essai Clinique
+CT Abnormal Result Flagging,Hematology,CT Accepted Sample,,Y,Y,900,,CT Abnormal Result Flagging,Signalement Résultat Anormal Essai Clinique
+CT Screening Eligibility Flag,Hematology,CT Screening Sample,,Y,Y,901,,CT Screening Eligibility Flag,Indicateur Éligibilité Dépistage Essai Clinique
+CT CBC Test,Hematology,CT Blood Sample,58410-2,Y,Y,902,,Complete Blood Count,Numération Formule Sanguine
+CT Differential Count,Hematology,CT Blood Sample,24318-8,Y,Y,903,,Differential Count,Comptage Différentiel
+CT LFT Test,Biochemistry,CT Serum Sample|CT Plasma Sample,24325-3,Y,Y,904,,Liver Function Test,Test Fonction Hépatique
+CT KFT Test,Biochemistry,CT Serum Sample|CT Plasma Sample,24362-6,Y,Y,905,,Kidney Function Test,Test Fonction Rénale
+CT Lipid Profile,Biochemistry,CT Serum Sample|CT Plasma Sample,24331-1,Y,Y,906,,Lipid Profile,Profil Lipidique
+CT FBS Test,Biochemistry,CT Serum Sample|CT Plasma Sample,1558-6,Y,Y,907,mg/dL,Fasting Blood Sugar,Glycémie à Jeun
+CT Chemistry Spectrophotometry,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,908,,CT Chemistry Spectrophotometry,Spectrophotométrie Chimie Essai Clinique
+CT ISE Analysis,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,909,,CT ISE Analysis,Analyse ISE Essai Clinique
+CT Colorimetry,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,910,,CT Colorimetry,Colorimétrie Essai Clinique
+CT Potentiometry,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,911,,CT Potentiometry,Potentiométrie Essai Clinique
+CT Enzymatic Reaction,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,912,,CT Enzymatic Reaction,Réaction Enzymatique Essai Clinique
+CT Electrochemical Analysis,Biochemistry,CT Serum Sample|CT Plasma Sample,,Y,Y,913,,CT Electrochemical Analysis,Analyse Électrochimique Essai Clinique
+CT ELISA Test,Serology,CT Serum Sample|CT Plasma Sample,85421-6,Y,Y,914,,CT ELISA Test,Test ELISA Essai Clinique
+CT CLIA Test,Serology,CT Serum Sample|CT Plasma Sample,,Y,Y,915,,CT CLIA Test,Test CLIA Essai Clinique
+CT RIA Test,Serology,CT Serum Sample|CT Plasma Sample,,Y,Y,916,,CT RIA Test,Test RIA Essai Clinique
+CT HIV RDT,Serology,CT Blood Sample|CT Serum Sample,68961-2,Y,Y,917,,CT HIV RDT,TDR VIH Essai Clinique
+CT HBsAg Test,Serology,CT Serum Sample,5195-3,Y,Y,918,,CT HBsAg Test,Test HBsAg Essai Clinique
+CT HCV Test,Serology,CT Serum Sample,16128-1,Y,Y,919,,CT HCV Test,Test HCV Essai Clinique
+CT Microbiology Microscopy,Microbiology,CT Gram Stained Smear|CT AFB Stained Smear,,Y,Y,920,,CT Microbiology Microscopy,Microscopie Microbiologie Essai Clinique
+CT Biochemical Reaction,Microbiology,CT Blood Sample,,Y,Y,921,,CT Biochemical Reaction,Réaction Biochimique Essai Clinique
+CT Antigen Antibody Testing,Microbiology,CT Serum Sample,,Y,Y,922,,CT Antigen Antibody Testing,Test Antigène Anticorps Essai Clinique
+CT Flow Cytometry,Hematology,CT Blood Sample,30395-8,Y,Y,923,,CT Flow Cytometry,Cytométrie en Flux Essai Clinique
+CT Photometry,Hematology,CT Blood Sample,,Y,Y,924,,CT Photometry,Photométrie Essai Clinique
+CT Electrical Impedance,Hematology,CT Blood Sample,,Y,Y,925,,CT Electrical Impedance,Impédance Électrique Essai Clinique
+CT Light Scatter,Hematology,CT Blood Sample,,Y,Y,926,,CT Light Scatter,Diffusion Lumière Essai Clinique
+CT Coagulation Test,Hematology,CT Citrate Sample,6301-6,Y,Y,927,,CT Coagulation Test,Test Coagulation Essai Clinique
+CT Clot Formation,Hematology,CT Citrate Sample,,Y,Y,928,,CT Clot Formation,Formation Caillot Essai Clinique
+CT Parasitology Microscopy,Parasitology,CT Thin Smear|CT Thick Smear|CT Stool Wet Smear,,Y,Y,929,,CT Parasitology Microscopy,Microscopie Parasitologie Essai Clinique
+CT Parasitology RDT,Parasitology,CT Blood Sample,51587-4,Y,Y,930,,CT Parasitology RDT,TDR Parasitologie Essai Clinique
+CT Urinalysis Dipstick,Urinalysis,CT Urine Sample,24350-1,Y,Y,931,,CT Urinalysis Dipstick,Bandelette Analyse Urine Essai Clinique
+CT Urinalysis Microscopy,Urinalysis,CT Urine Sediment,5770-3,Y,Y,932,,CT Urinalysis Microscopy,Microscopie Analyse Urine Essai Clinique
+CT Urine Physical Examination,Urinalysis,CT Urine Sample,5767-9,Y,Y,933,,CT Urine Physical Examination,Examen Physique Urine Essai Clinique
+CT Urine Chemical Examination,Urinalysis,CT Urine Sample,24357-6,Y,Y,934,,CT Urine Chemical Examination,Examen Chimique Urine Essai Clinique
+CT Stool Ova Test,Parasitology,CT Stool Sample,673-4,Y,Y,935,,CT Stool Ova Test,Test Œufs Selles Essai Clinique
+CT Stool Parasite Test,Parasitology,CT Stool Sample,673-4,Y,Y,936,,CT Stool Parasite Test,Test Parasite Selles Essai Clinique
+CT Stool Occult Blood,Parasitology,CT Stool Sample,2335-8,Y,Y,937,,CT Stool Occult Blood,Sang Occulte Selles Essai Clinique
+CT ECG Test,Biochemistry,CT Patient Sample,,Y,Y,938,,CT ECG Test,Test ECG Essai Clinique
+CT Pregnancy Test,Serology,CT Urine Sample,2106-3,Y,Y,939,,CT Pregnancy Test,Test Grossesse Essai Clinique
+CT Dual Level QC Normal,Hematology,CT Control Sample Normal,,Y,Y,940,,CT Dual Level QC Normal,CQ Niveau Double Normal Essai Clinique
+CT Dual Level QC Pathologic,Hematology,CT Control Sample Pathologic,,Y,Y,941,,CT Dual Level QC Pathologic,CQ Niveau Double Pathologique Essai Clinique
+CT Daily QC,Hematology,CT Control Sample Normal|CT Control Sample Pathologic,,Y,Y,942,,CT Daily QC,CQ Quotidien Essai Clinique
+CT Monthly Calibration,Hematology,CT Control Sample Normal,,Y,Y,943,,CT Monthly Calibration,Étalonnage Mensuel Essai Clinique
+CT LJ Chart Monitoring,Hematology,CT Control Sample Normal|CT Control Sample Pathologic,,Y,Y,944,,CT LJ Chart Monitoring,Surveillance Graphique LJ Essai Clinique
+CT Method Comparison,Hematology,CT Control Sample Normal,,Y,Y,945,,CT Method Comparison,Comparaison Méthode Essai Clinique
+CT Method Verification,Hematology,CT Control Sample Normal,,Y,Y,946,,CT Method Verification,Vérification Méthode Essai Clinique
+CT Quarterly EQA,Hematology,CT Control Sample Normal,,Y,Y,947,,CT Quarterly EQA,EQA Trimestriel Essai Clinique
+CT Positive Control Test,Serology,CT Positive Control,,Y,Y,948,,CT Positive Control Test,Test Témoin Positif Essai Clinique
+CT Negative Control Test,Serology,CT Negative Control,,Y,Y,949,,CT Negative Control Test,Test Témoin Négatif Essai Clinique
+CT QC Pass,Hematology,CT Quality Checked Sample,,Y,Y,950,,CT QC Pass,Passage CQ Essai Clinique
+CT QC Fail,Hematology,CT Failed QC Sample,,Y,Y,951,,CT QC Fail,Échec CQ Essai Clinique
+CT Deviation Capture,Hematology,CT Failed QC Sample,,Y,Y,952,,CT Deviation Capture,Capture Déviation Essai Clinique
+CT Root Cause Analysis,Hematology,CT Failed QC Sample,,Y,Y,953,,CT Root Cause Analysis,Analyse Cause Racine Essai Clinique
+CT Random Error Rerun,Hematology,CT Failed QC Sample,,Y,Y,954,,CT Random Error Rerun,Ré-exécution Erreur Aléatoire Essai Clinique
+CT Recalibration,Hematology,CT Failed QC Sample,,Y,Y,955,,CT Recalibration,Ré-étalonnage Essai Clinique
+CT Maintenance,Hematology,CT Failed QC Sample,,Y,Y,956,,CT Maintenance,Maintenance Essai Clinique
+CT Bioanalytical Transfer,Biochemistry,CT Bioequivalence Sample,,Y,Y,957,,CT Bioanalytical Transfer,Transfert Bioanalytique Essai Clinique
+CT Post-Test Storage,Hematology,CT Accepted Sample,,Y,Y,958,,CT Post-Test Storage,Stockage Post-Test Essai Clinique
+CT Post-Test Disposal,Hematology,CT Sample for Disposal,,Y,Y,959,,CT Post-Test Disposal,Élimination Post-Test Essai Clinique
+CT Manual Result Entry,Hematology,CT Accepted Sample,,Y,Y,960,,CT Manual Result Entry,Saisie Résultat Manuelle Essai Clinique
+CT Machine Result Entry,Hematology,CT Accepted Sample,,Y,Y,961,,CT Machine Result Entry,Saisie Résultat Machine Essai Clinique
+CT Result Validation,Hematology,CT Accepted Sample,,Y,Y,962,,CT Result Validation,Validation Résultat Essai Clinique
+CT Reference Level Modification,Hematology,CT Accepted Sample,,Y,Y,963,,CT Reference Level Modification,Modification Niveau Référence Essai Clinique
+CT Result Approval,Hematology,CT Accepted Sample,,Y,Y,964,,CT Result Approval,Approbation Résultat Essai Clinique
+CT Result Printing,Hematology,CT Accepted Sample,,Y,Y,965,,CT Result Printing,Impression Résultat Essai Clinique
+CT Result Storage,Hematology,CT Accepted Sample,,Y,Y,966,,CT Result Storage,Stockage Résultat Essai Clinique
+CT Result Approval by Department,Hematology,CT Accepted Sample,,Y,Y,967,,CT Result Approval by Department,Approbation Résultat par Département Essai Clinique
+CT Sample Utilization Report,Hematology,CT Accepted Sample,,Y,Y,968,,CT Sample Utilization Report,Rapport Utilisation Échantillon Essai Clinique
+CT Sample Depletion Report,Hematology,CT Sample for Disposal,,Y,Y,969,,CT Sample Depletion Report,Rapport Épuisement Échantillon Essai Clinique
+CT Turnaround Time Report,Hematology,CT Accepted Sample,,Y,Y,970,hours,CT Turnaround Time Report,Rapport Délai Exécution Essai Clinique
+CT Equipment Usage Report,Hematology,CT Accepted Sample,,Y,Y,971,hours,CT Equipment Usage Report,Rapport Utilisation Équipement Essai Clinique
+CT QC Performance Monitoring,Hematology,CT Control Sample Normal|CT Control Sample Pathologic,,Y,Y,972,,CT QC Performance Monitoring,Surveillance Performance CQ Essai Clinique
+CT Assay Success Rate Monitoring,Hematology,CT Accepted Sample,,Y,Y,973,%,CT Assay Success Rate Monitoring,Surveillance Taux Succès Essai Essai Clinique
+CT Instrument Log Monitoring,Hematology,CT Accepted Sample,,Y,Y,974,,CT Instrument Log Monitoring,Surveillance Journal Instrument Essai Clinique
+CT Virtual QC Monitoring,Hematology,CT Control Sample Normal|CT Control Sample Pathologic,,Y,Y,975,,CT Virtual QC Monitoring,Surveillance CQ Virtuelle Essai Clinique
+CT Assay Completion Monitoring,Hematology,CT Accepted Sample,,Y,Y,976,,CT Assay Completion Monitoring,Surveillance Achèvement Essai Essai Clinique
+CT Instrument Usage Monitoring,Hematology,CT Accepted Sample,,Y,Y,977,hours,CT Instrument Usage Monitoring,Surveillance Utilisation Instrument Essai Clinique
+CT TAT Monitoring,Hematology,CT Accepted Sample,,Y,Y,978,hours,CT TAT Monitoring,Surveillance Délai Exécution Essai Clinique
+CT Sample Acceptance Rate,Hematology,CT Accepted Sample|CT Rejected Sample,,Y,Y,979,%,CT Sample Acceptance Rate,Taux Acceptation Échantillon Essai Clinique
+CT Dashboard Summary,Hematology,CT Accepted Sample,,Y,Y,980,,CT Dashboard Summary,Résumé Tableau de Bord Essai Clinique
+CT Periodic Summary,Hematology,CT Accepted Sample,,Y,Y,981,,CT Periodic Summary,Résumé Périodique Essai Clinique
+CT Result Review Restriction,Hematology,CT Accepted Sample,,Y,Y,982,,CT Result Review Restriction,Restriction Examen Résultat Essai Clinique
+CT Corrective Action Monitoring,Hematology,CT Failed QC Sample,,Y,Y,983,,CT Corrective Action Monitoring,Surveillance Action Corrective Essai Clinique
+CT External Reporting,Hematology,CT Accepted Sample,,Y,Y,984,,CT External Reporting,Rapport Externe Essai Clinique
+CT Temperature Record Report,Hematology,CT Refrigerated Storage|CT Frozen Storage,,Y,Y,985,°C,CT Temperature Record Report,Rapport Enregistrement Température Essai Clinique
+CT Temperature Excursion Report,Hematology,CT Refrigerated Storage|CT Frozen Storage,,Y,Y,986,°C,CT Temperature Excursion Report,Rapport Excursion Température Essai Clinique
+CT Accreditation Support,Hematology,CT Accepted Sample,,Y,Y,987,,CT Accreditation Support,Support Accréditation Essai Clinique
+CT Sample Disposal for Expiry,Hematology,CT Sample for Disposal,,Y,Y,988,,CT Sample Disposal for Expiry,Élimination Échantillon pour Expiration Essai Clinique
+CT Sample Disposal for Exhaustion,Hematology,CT Sample for Disposal,,Y,Y,989,,CT Sample Disposal for Exhaustion,Élimination Échantillon pour Épuisement Essai Clinique
+CT Sample Disposal for Failed QC,Hematology,CT Sample for Disposal,,Y,Y,990,,CT Sample Disposal for Failed QC,Élimination Échantillon pour CQ Échoué Essai Clinique
+CT Sample Disposal for Safety,Hematology,CT Sample for Disposal,,Y,Y,991,,CT Sample Disposal for Safety,Élimination Échantillon pour Sécurité Essai Clinique
+CT Disposal Documentation,Hematology,CT Sample for Disposal,,Y,Y,992,,CT Disposal Documentation,Documentation Élimination Essai Clinique
+CT Biological Waste Disposal Guideline,Hematology,CT Sample for Disposal,,Y,Y,993,,CT Biological Waste Disposal Guideline,Directive Élimination Déchets Biologiques Essai Clinique
+CT Licensed Disposal Party,Hematology,CT Sample for Disposal,,Y,Y,994,,CT Licensed Disposal Party,Partie Élimination Licenciée Essai Clinique
+CT Accredited Disposal Facility,Hematology,CT Sample for Disposal,,Y,Y,995,,CT Accredited Disposal Facility,Établissement Élimination Accrédité Essai Clinique
+CT Blood Sample Incineration,Hematology,CT Sample for Disposal,,Y,Y,996,,CT Blood Sample Incineration,Incinération Échantillon Sanguin Essai Clinique
+CT Stool Sample Incineration,Parasitology,CT Sample for Disposal,,Y,Y,997,,CT Stool Sample Incineration,Incinération Échantillon Selles Essai Clinique
+CT Urine Chemical Treatment,Urinalysis,CT Sample for Disposal,,Y,Y,998,,CT Urine Chemical Treatment,Traitement Chimique Urine Essai Clinique
+CT Analyzer Waste Chemical Treatment,Hematology,CT Sample for Disposal,,Y,Y,999,,CT Analyzer Waste Chemical Treatment,Traitement Chimique Déchets Analyseur Essai Clinique
+CT Permanent Data Archiving,Hematology,CT Archived Sample,,Y,Y,1000,,CT Permanent Data Archiving,Archivage Permanent Données Essai Clinique
+CT Metadata Archiving,Hematology,CT Archived Sample,,Y,Y,1001,,CT Metadata Archiving,Archivage Métadonnées Essai Clinique
+CT Analysis Results Archiving,Hematology,CT Archived Sample,,Y,Y,1002,,CT Analysis Results Archiving,Archivage Résultats Analyse Essai Clinique
+CT Long-Term Retention Policy,Hematology,CT Archived Sample,,Y,Y,1003,,CT Long-Term Retention Policy,Politique Rétention Long Terme Essai Clinique
+CT Biobanking Retention,Hematology,CT Biobanking Sample,,Y,Y,1004,,CT Biobanking Retention,Rétention Biobanque Essai Clinique
+CT Regulatory Compliance Retention,Hematology,CT Archived Sample,,Y,Y,1005,,CT Regulatory Compliance Retention,Rétention Conformité Réglementaire Essai Clinique
+CT BE Sample 2-Year Retention,Biochemistry,CT Bioequivalence Sample,,Y,Y,1006,,CT BE Sample 2-Year Retention,Rétention 2 Ans Échantillon BE Essai Clinique
+CT Biobanking Transfer,Hematology,CT Biobanking Sample,,Y,Y,1007,,CT Biobanking Transfer,Transfert Biobanque Essai Clinique
+CT Biobanking Record Keeping,Hematology,CT Biobanking Sample,,Y,Y,1008,,CT Biobanking Record Keeping,Tenue Registre Biobanque Essai Clinique

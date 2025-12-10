@@ -1,0 +1,108 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Bacteriology Sample Collection,Microbiology,Bacteriology Blood|Bacteriology Urine|Bacteriology Stool|Cerebrospinal Fluid|Pleural Fluid|Peritoneal Fluid|Pericardial Fluid|Amniotic Fluid|Synovial Fluid|Other Body Fluid,,Y,Y,500,,Bacteriology Sample Collection,Collecte d'Échantillon Bactériologie
+Environmental Sample Collection,Microbiology,Wastewater|Tap Water|Farm Water|Environmental Soil|Other Environmental Sample,,Y,Y,501,,Environmental Sample Collection,Collecte d'Échantillon Environnemental
+Food Sample Collection,Microbiology,Vegetables|Dry Foods|Dairy Products Food|Poultry Products|Canned Foods|Fruits|Packed Foods|Other Food Sample,,Y,Y,502,,Food Sample Collection,Collecte d'Échantillon Alimentaire
+Veterinary Sample Collection,Microbiology,Animal Stool|Animal Tissue|Other Veterinary Sample,,Y,Y,503,,Veterinary Sample Collection,Collecte d'Échantillon Vétérinaire
+Sample Transport Medium Assignment,Microbiology,Sample in Amies Medium|Sample in Stuart Medium|Sample in Cary-Blair Medium|Sample in TIM Medium|Sample in Blood Culture Bottle|Sample in Other Transport Medium,,Y,Y,504,,Sample Transport Medium Assignment,Attribution de Milieu de Transport d'Échantillon
+Enrichment Medium Assignment,Microbiology,Sample in Peptone Water|Sample in Buffer|Sample in TSB/BHI|Sample in Other Enrichment Medium,,Y,Y,505,,Enrichment Medium Assignment,Attribution de Milieu d'Enrichissement
+Bacteriology Sample Labeling,Microbiology,Bacteriology Blood|Bacteriology Urine|Bacteriology Stool|Clinical Isolate,,Y,Y,506,,Bacteriology Sample Labeling,Étiquetage d'Échantillon Bactériologie
+Barcode Assignment,Microbiology,Bacteriology Blood|Bacteriology Urine|Bacteriology Stool|Clinical Isolate,,Y,Y,507,,Barcode Assignment,Attribution de Code-Barres
+Specimen Accessioning,Microbiology,Bacteriology Blood|Bacteriology Urine|Bacteriology Stool|Cerebrospinal Fluid|Pleural Fluid|Peritoneal Fluid|Clinical Isolate|Wastewater|Tap Water|Vegetables|Animal Stool,,Y,Y,508,,Specimen Accessioning,Enregistrement de Spécimen
+Sample Registration,Microbiology,Bacteriology Blood|Bacteriology Urine|Bacteriology Stool|Cerebrospinal Fluid|Pleural Fluid|Clinical Isolate|Environmental Soil|Vegetables|Animal Stool,,Y,Y,509,,Sample Registration,Enregistrement d'Échantillon
+Sample Quality Assessment,Microbiology,Bacteriology Blood|Bacteriology Urine|Bacteriology Stool|Cerebrospinal Fluid|Pleural Fluid|Clinical Isolate|Wastewater|Vegetables|Animal Stool,,Y,Y,510,,Sample Quality Assessment,Évaluation de Qualité d'Échantillon
+Temperature Check,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,511,°C,Temperature Check,Vérification de Température
+Volume Sufficiency Check,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,512,mL,Volume Sufficiency Check,Vérification de Volume Suffisant
+Labeling Verification,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,513,,Labeling Verification,Vérification d'Étiquetage
+Contamination Check,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,514,,Contamination Check,Vérification de Contamination
+Container Integrity Check,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,515,,Container Integrity Check,Vérification d'Intégrité de Contenant
+Triple Package Verification,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,516,,Triple Package Verification,Vérification de Triple Emballage
+Leakage Check,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,517,,Leakage Check,Vérification de Fuite
+Quality Control Pass,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,518,,Quality Control Pass,Passage de Contrôle Qualité
+Quality Control Fail,Microbiology,Failed Bacteriology QC Sample,,Y,Y,519,,Quality Control Fail,Échec de Contrôle Qualité
+Sample Rejection,Microbiology,Failed Bacteriology QC Sample,,Y,Y,520,,Sample Rejection,Rejet d'Échantillon
+Refrigerator Storage Assignment,Microbiology,Bacteriology Temporary Storage Sample|Bacteriology Long-Term Storage Sample,,Y,Y,521,,Refrigerator Storage Assignment,Attribution de Stockage Réfrigérateur
+Freezer Storage Assignment,Microbiology,Bacteriology Temporary Storage Sample|Bacteriology Long-Term Storage Sample,,Y,Y,522,,Freezer Storage Assignment,Attribution de Stockage Congélateur
+Shipment Storage Assignment,Microbiology,Bacteriology Shipment Sample,,Y,Y,523,,Shipment Storage Assignment,Attribution de Stockage Expédition
+Temporary Storage Location Mapping,Microbiology,Bacteriology Temporary Storage Sample,,Y,Y,524,,Temporary Storage Location Mapping,Cartographie d'Emplacement Stockage Temporaire
+Long-Term Storage Location Mapping,Microbiology,Bacteriology Long-Term Storage Sample,,Y,Y,525,,Long-Term Storage Location Mapping,Cartographie d'Emplacement Stockage Long Terme
+Storage Temperature Monitoring,Microbiology,Bacteriology Temporary Storage Sample|Bacteriology Long-Term Storage Sample,,Y,Y,526,°C,Storage Temperature Monitoring,Surveillance de Température de Stockage
+Culture Media Preparation,Microbiology,Culture Sample,,Y,Y,527,,Culture Media Preparation,Préparation de Milieu de Culture
+Media Sterility Test,Microbiology,Culture Sample,,Y,Y,528,,Media Sterility Test,Test de Stérilité de Milieu
+Media Growth Support Test,Microbiology,Culture Sample,,Y,Y,529,,Media Growth Support Test,Test de Support de Croissance de Milieu
+Biochemical Media Preparation,Microbiology,Culture Sample,,Y,Y,530,,Biochemical Media Preparation,Préparation de Milieu Biochimique
+Biochemical Media IQC,Microbiology,Culture Sample,,Y,Y,531,,Biochemical Media IQC,CIQ Milieu Biochimique
+Antibiotic Disc IQC,Microbiology,DST Tested Isolate,,Y,Y,532,,Antibiotic Disc IQC,CIQ Disque Antibiotique
+Enrichment Incubation,Microbiology,Enriched Sample,,Y,Y,533,hours,Enrichment Incubation,Incubation d'Enrichissement
+Media Reagent Inventory,Microbiology,Culture Sample,,Y,Y,534,,Media Reagent Inventory,Inventaire de Réactif de Milieu
+Gram Staining,Microbiology,Gram Stained Sample,664-3,Y,Y,535,,Gram Staining,Coloration de Gram
+Microscopy Examination,Microbiology,Gram Stained Sample,6466-8,Y,Y,536,,Microscopy Examination,Examen de Microscopie
+Sample Inoculation,Microbiology,Inoculated Sample,,Y,Y,537,,Sample Inoculation,Inoculation d'Échantillon
+Bacterial Isolation,Microbiology,Pure Culture Isolate,634-6,Y,Y,538,,Bacterial Isolation,Isolement Bactérien
+Catalase Test,Microbiology,Pure Culture Isolate,612-2,Y,Y,539,,Catalase Test,Test de Catalase
+Coagulase Test,Microbiology,Pure Culture Isolate,607-2,Y,Y,540,,Coagulase Test,Test de Coagulase
+Oxidase Test,Microbiology,Pure Culture Isolate,609-8,Y,Y,541,,Oxidase Test,Test d'Oxydase
+TSI/KIA Test,Microbiology,Pure Culture Isolate,,Y,Y,542,,TSI/KIA Test,Test TSI/KIA
+Motility Test,Microbiology,Pure Culture Isolate,610-6,Y,Y,543,,Motility Test,Test de Mobilité
+Indole Test,Microbiology,Pure Culture Isolate,608-0,Y,Y,544,,Indole Test,Test d'Indole
+Citrate Test,Microbiology,Pure Culture Isolate,606-4,Y,Y,545,,Citrate Test,Test de Citrate
+Urease Test,Microbiology,Pure Culture Isolate,611-4,Y,Y,546,,Urease Test,Test d'Uréase
+Lysine Decarboxylation Test,Microbiology,Pure Culture Isolate,,Y,Y,547,,Lysine Decarboxylation Test,Test de Décarboxylation de Lysine
+Bacterial Identification,Microbiology,Identified Isolate,634-6,Y,Y,548,,Bacterial Identification,Identification Bactérienne
+Disc Diffusion Method DST,Microbiology,DST Tested Isolate,18900-1,Y,Y,549,mm,Disc Diffusion Method DST,Méthode de Diffusion sur Disque DST
+Broth Microdilution Method DST,Microbiology,DST Tested Isolate,18864-9,Y,Y,550,µg/mL,Broth Microdilution Method DST,Méthode de Microdilution en Bouillon DST
+AST Strip Method,Microbiology,DST Tested Isolate,18866-4,Y,Y,551,µg/mL,AST Strip Method,Méthode Bandelette AST
+Other DST Method,Microbiology,DST Tested Isolate,,Y,Y,552,,Other DST Method,Autre Méthode DST
+BD BACTEC Analysis,Microbiology,Sample in Blood Culture Bottle,635-3,Y,Y,553,,BD BACTEC Analysis,Analyse BD BACTEC
+VITEK Identification,Microbiology,Identified Isolate,634-6,Y,Y,554,,VITEK Identification,Identification VITEK
+Phoenix Identification,Microbiology,Identified Isolate,634-6,Y,Y,555,,Phoenix Identification,Identification Phoenix
+MALDI-TOF Identification,Microbiology,Identified Isolate,91774-4,Y,Y,556,,MALDI-TOF Identification,Identification MALDI-TOF
+Nucleic Acid Extraction Kit-Based,Microbiology,Bacteriology DNA Extract|Bacteriology RNA Extract,,Y,Y,557,,Nucleic Acid Extraction Kit-Based,Extraction d'Acide Nucléique par Kit
+Nucleic Acid Extraction Manual,Microbiology,Bacteriology DNA Extract|Bacteriology RNA Extract,,Y,Y,558,,Nucleic Acid Extraction Manual,Extraction d'Acide Nucléique Manuelle
+Conventional PCR,Microbiology,Bacteriology DNA Extract,21415-5,Y,Y,559,,Conventional PCR,PCR Conventionnelle
+Real-Time PCR,Microbiology,Bacteriology DNA Extract,82196-7,Y,Y,560,,Real-Time PCR,PCR en Temps Réel
+Whole Genome Sequencing,Microbiology,Bacteriology DNA Extract,81304-8,Y,Y,561,,Whole Genome Sequencing,Séquençage du Génome Entier
+Sample Volume Tracking,Microbiology,Quality Checked Bacteriology Sample|Pure Culture Isolate,,Y,Y,562,mL,Sample Volume Tracking,Suivi de Volume d'Échantillon
+Aliquot Type Recording,Microbiology,Clinical Isolate|Bacteriology DNA Extract|Bacteriology RNA Extract,,Y,Y,563,,Aliquot Type Recording,Enregistrement de Type d'Aliquote
+STGG Storage Medium Assignment,Microbiology,Isolate in STGG,,Y,Y,564,,STGG Storage Medium Assignment,Attribution de Milieu de Stockage STGG
+Tube Storage Container Assignment,Microbiology,Sample in Tube,,Y,Y,565,,Tube Storage Container Assignment,Attribution de Contenant de Stockage Tube
+Vial Storage Container Assignment,Microbiology,Sample in Vial,,Y,Y,566,,Vial Storage Container Assignment,Attribution de Contenant de Stockage Flacon
+Slide Storage Container Assignment,Microbiology,Sample on Slide,,Y,Y,567,,Slide Storage Container Assignment,Attribution de Contenant de Stockage Lame
+Plate Storage Container Assignment,Microbiology,Sample in Plate,,Y,Y,568,,Plate Storage Container Assignment,Attribution de Contenant de Stockage Plaque
+Freezer Storage Method Assignment,Microbiology,Bacteriology Long-Term Storage Sample,,Y,Y,569,,Freezer Storage Method Assignment,Attribution de Méthode de Stockage Congélateur
+Refrigerator Storage Method Assignment,Microbiology,Bacteriology Long-Term Storage Sample,,Y,Y,570,,Refrigerator Storage Method Assignment,Attribution de Méthode de Stockage Réfrigérateur
+Slide Cabinet Storage Assignment,Microbiology,Sample on Slide,,Y,Y,571,,Slide Cabinet Storage Assignment,Attribution de Stockage Armoire à Lames
+Environmental Monitoring,Microbiology,Bacteriology Long-Term Storage Sample,,Y,Y,572,°C,Environmental Monitoring,Surveillance Environnementale
+Sample Retrieval for Shipping,Microbiology,Bacteriology Retrieved Sample,,Y,Y,573,,Sample Retrieval for Shipping,Récupération d'Échantillon pour Expédition
+Sample Retrieval for Retesting,Microbiology,Bacteriology Retrieved Sample,,Y,Y,574,,Sample Retrieval for Retesting,Récupération d'Échantillon pour Retester
+Sample Retrieval Other Purpose,Microbiology,Bacteriology Retrieved Sample,,Y,Y,575,,Sample Retrieval Other Purpose,Récupération d'Échantillon Autre But
+Sample Disposal for Expiry,Microbiology,Bacteriology Disposal Sample,,Y,Y,576,,Sample Disposal for Expiry,Élimination d'Échantillon pour Expiration
+Sample Disposal for Leakage,Microbiology,Bacteriology Disposal Sample,,Y,Y,577,,Sample Disposal for Leakage,Élimination d'Échantillon pour Fuite
+Sample Disposal for Mislabeling,Microbiology,Bacteriology Disposal Sample,,Y,Y,578,,Sample Disposal for Mislabeling,Élimination d'Échantillon pour Mauvais Étiquetage
+Sample Disposal for Storage Shortage,Microbiology,Bacteriology Disposal Sample,,Y,Y,579,,Sample Disposal for Storage Shortage,Élimination d'Échantillon pour Manque de Stockage
+Sample Disposal for Exhaustion,Microbiology,Bacteriology Disposal Sample,,Y,Y,580,,Sample Disposal for Exhaustion,Élimination d'Échantillon pour Épuisement
+Sample Disposal for Safety Concerns,Microbiology,Bacteriology Disposal Sample,,Y,Y,581,,Sample Disposal for Safety Concerns,Élimination d'Échantillon pour Préoccupations de Sécurité
+Autoclave Disposal Method,Microbiology,Bacteriology Disposal Sample,,Y,Y,582,,Autoclave Disposal Method,Méthode d'Élimination Autoclave
+Incineration Disposal Method,Microbiology,Bacteriology Disposal Sample,,Y,Y,583,,Incineration Disposal Method,Méthode d'Élimination Incinération
+Chemical Treatment Disposal,Microbiology,Bacteriology Disposal Sample,,Y,Y,584,,Chemical Treatment Disposal,Élimination Traitement Chimique
+Other Disposal Method,Microbiology,Bacteriology Disposal Sample,,Y,Y,585,,Other Disposal Method,Autre Méthode d'Élimination
+Biorepository Transfer,Microbiology,Bacteriology Biorepository Sample,,Y,Y,586,,Biorepository Transfer,Transfert au Bioréférentiel
+Reagent Quality Check,Microbiology,Culture Sample,,Y,Y,587,,Reagent Quality Check,Vérification de Qualité de Réactif
+Reagent Registration,Microbiology,Culture Sample,,Y,Y,588,,Reagent Registration,Enregistrement de Réactif
+Reagent Storage Assignment,Microbiology,Culture Sample,,Y,Y,589,,Reagent Storage Assignment,Attribution de Stockage de Réactif
+Reagent Inventory Management,Microbiology,Culture Sample,,Y,Y,590,,Reagent Inventory Management,Gestion d'Inventaire de Réactif
+Reagent Expiry Notification,Microbiology,Culture Sample,,Y,Y,591,,Reagent Expiry Notification,Notification d'Expiration de Réactif
+Reagent Shortage Alert,Microbiology,Culture Sample,,Y,Y,592,,Reagent Shortage Alert,Alerte de Pénurie de Réactif
+In-House Reagent Preparation,Microbiology,Culture Sample,,Y,Y,593,,In-House Reagent Preparation,Préparation de Réactif Interne
+Equipment Inventory,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,594,,Equipment Inventory,Inventaire d'Équipement
+Equipment Maintenance Notification,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,595,,Equipment Maintenance Notification,Notification de Maintenance d'Équipement
+Equipment Calibration Notification,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,596,,Equipment Calibration Notification,Notification d'Étalonnage d'Équipement
+Equipment Functionality Registration,Microbiology,Quality Checked Bacteriology Sample,,Y,Y,597,,Equipment Functionality Registration,Enregistrement de Fonctionnalité d'Équipement
+Manual Result Recording,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,598,,Manual Result Recording,Enregistrement Manuel de Résultat
+Instrument Output Capture,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,599,,Instrument Output Capture,Capture de Sortie d'Instrument
+Result Validation,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,600,,Result Validation,Validation de Résultat
+Result Review and Approval,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,601,,Result Review and Approval,Examen et Approbation de Résultat
+Final Result Reporting,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,602,,Final Result Reporting,Rapport de Résultat Final
+Result Analysis and Interpretation,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,603,,Result Analysis and Interpretation,Analyse et Interprétation de Résultat
+Data Export to LMS,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,604,,Data Export to LMS,Export de Données vers LMS
+Data Analysis,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,605,,Data Analysis,Analyse de Données
+REDCap Integration,Microbiology,Identified Isolate|DST Tested Isolate,,Y,Y,606,,REDCap Integration,Intégration REDCap

@@ -1,0 +1,61 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+Bacteriology Blood,BACT-BLD,H,Y,130,Bacteriology Blood,Sang Bactériologie
+Bacteriology Urine,BACT-UR,H,Y,131,Bacteriology Urine,Urine Bactériologie
+Bacteriology Stool,BACT-STL,H,Y,132,Bacteriology Stool,Selles Bactériologie
+Cerebrospinal Fluid,CSF,H,Y,133,Cerebrospinal Fluid,Liquide Céphalo-Rachidien
+Pleural Fluid,PLEU,H,Y,134,Pleural Fluid,Liquide Pleural
+Peritoneal Fluid,PERI,H,Y,135,Peritoneal Fluid,Liquide Péritonéal
+Pericardial Fluid,PERIC,H,Y,136,Pericardial Fluid,Liquide Péricardique
+Amniotic Fluid,AMNIO,H,Y,137,Amniotic Fluid,Liquide Amniotique
+Synovial Fluid,SYNOV,H,Y,138,Synovial Fluid,Liquide Synovial
+Other Body Fluid,OTH-BF,H,Y,139,Other Body Fluid,Autre Liquide Corporel
+Clinical Isolate,CLIN-ISO,O,Y,140,Clinical Isolate,Isolat Clinique
+Other Clinical Sample,OTH-CLIN,H,Y,141,Other Clinical Sample,Autre Échantillon Clinique
+Wastewater,WASTE-H2O,E,Y,142,Wastewater,Eaux Usées
+Tap Water,TAP-H2O,E,Y,143,Tap Water,Eau du Robinet
+Farm Water,FARM-H2O,E,Y,144,Farm Water,Eau de Ferme
+Environmental Soil,ENV-SOIL,E,Y,145,Environmental Soil,Sol Environnemental
+Other Environmental Sample,OTH-ENV,E,Y,146,Other Environmental Sample,Autre Échantillon Environnemental
+Vegetables,VEG,O,Y,147,Vegetables,Légumes
+Dry Foods,DRY-FOOD,O,Y,148,Dry Foods,Aliments Secs
+Dairy Products Food,DAIRY-F,O,Y,149,Dairy Products Food,Produits Laitiers Alimentaires
+Poultry Products,POULTRY,O,Y,150,Poultry Products,Produits Avicoles
+Canned Foods,CANNED,O,Y,151,Canned Foods,Aliments en Conserve
+Fruits,FRUITS,O,Y,152,Fruits,Fruits
+Packed Foods,PACKED,O,Y,153,Packed Foods,Aliments Emballés
+Other Food Sample,OTH-FOOD,O,Y,154,Other Food Sample,Autre Échantillon Alimentaire
+Animal Stool,ANIM-STL,O,Y,155,Animal Stool,Selles Animales
+Animal Tissue,ANIM-TIS,O,Y,156,Animal Tissue,Tissu Animal
+Other Veterinary Sample,OTH-VET,O,Y,157,Other Veterinary Sample,Autre Échantillon Vétérinaire
+Sample in Amies Medium,AMIES,O,Y,158,Sample in Amies Medium,Échantillon en Milieu Amies
+Sample in Stuart Medium,STUART,O,Y,159,Sample in Stuart Medium,Échantillon en Milieu Stuart
+Sample in Cary-Blair Medium,CARY-BL,O,Y,160,Sample in Cary-Blair Medium,Échantillon en Milieu Cary-Blair
+Sample in TIM Medium,TIM,O,Y,161,Sample in TIM Medium,Échantillon en Milieu TIM
+Sample in Blood Culture Bottle,BC-BOT,H,Y,162,Sample in Blood Culture Bottle,Échantillon en Flacon d'Hémoculture
+Sample in Other Transport Medium,OTH-TM,O,Y,163,Sample in Other Transport Medium,Échantillon en Autre Milieu de Transport
+Sample in Peptone Water,PEPTONE,O,Y,164,Sample in Peptone Water,Échantillon en Eau Peptonée
+Sample in Buffer,BUFFER,O,Y,165,Sample in Buffer,Échantillon en Tampon
+Sample in TSB/BHI,TSB-BHI,O,Y,166,Sample in TSB/BHI,Échantillon en TSB/BHI
+Sample in Other Enrichment Medium,OTH-EM,O,Y,167,Sample in Other Enrichment Medium,Échantillon en Autre Milieu d'Enrichissement
+Quality Checked Bacteriology Sample,QC-BACT,O,Y,168,Quality Checked Bacteriology Sample,Échantillon Bactériologie Contrôlé Qualité
+Failed Bacteriology QC Sample,FAIL-BACT,O,Y,169,Failed Bacteriology QC Sample,Échantillon Bactériologie QC Échoué
+Bacteriology Temporary Storage Sample,TEMP-BACT,O,Y,170,Bacteriology Temporary Storage Sample,Échantillon Stockage Temporaire Bactériologie
+Bacteriology Long-Term Storage Sample,LT-BACT,O,Y,171,Bacteriology Long-Term Storage Sample,Échantillon Stockage Long Terme Bactériologie
+Bacteriology Shipment Sample,SHIP-BACT,O,Y,172,Bacteriology Shipment Sample,Échantillon Envoi Bactériologie
+Culture Sample,CULTURE,O,Y,173,Culture Sample,Échantillon de Culture
+Enriched Sample,ENRICH,O,Y,174,Enriched Sample,Échantillon Enrichi
+Gram Stained Sample,GRAM-ST,O,Y,175,Gram Stained Sample,Échantillon Coloré Gram
+Inoculated Sample,INOC,O,Y,176,Inoculated Sample,Échantillon Inoculé
+Pure Culture Isolate,PURE-ISO,O,Y,177,Pure Culture Isolate,Isolat Culture Pure
+Identified Isolate,IDENT-ISO,O,Y,178,Identified Isolate,Isolat Identifié
+DST Tested Isolate,DST-ISO,O,Y,179,DST Tested Isolate,Isolat Testé DST
+Bacteriology DNA Extract,BACT-DNA,O,Y,180,Bacteriology DNA Extract,Extrait ADN Bactériologie
+Bacteriology RNA Extract,BACT-RNA,O,Y,181,Bacteriology RNA Extract,Extrait ARN Bactériologie
+Isolate in STGG,STGG-ISO,O,Y,182,Isolate in STGG,Isolat en STGG
+Sample in Tube,TUBE-S,O,Y,183,Sample in Tube,Échantillon en Tube
+Sample in Vial,VIAL-S,O,Y,184,Sample in Vial,Échantillon en Flacon
+Sample on Slide,SLIDE-S,O,Y,185,Sample on Slide,Échantillon sur Lame
+Sample in Plate,PLATE-S,O,Y,186,Sample in Plate,Échantillon en Plaque
+Bacteriology Retrieved Sample,RETR-BACT,O,Y,187,Bacteriology Retrieved Sample,Échantillon Récupéré Bactériologie
+Bacteriology Disposal Sample,DISP-BACT,O,Y,188,Bacteriology Disposal Sample,Échantillon Élimination Bactériologie
+Bacteriology Biorepository Sample,BIO-BACT,O,Y,189,Bacteriology Biorepository Sample,Échantillon Bioréférentiel Bactériologie

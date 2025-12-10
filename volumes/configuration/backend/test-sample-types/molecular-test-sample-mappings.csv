@@ -1,0 +1,68 @@
+testName,sampleType
+Molecular Sample Reception,Raw Biological Material
+Molecular Sample Reception,Pre-Extracted DNA
+Molecular Sample Reception,Pre-Extracted RNA
+Sample Identification and Registration,Raw Biological Material
+Sample Identification and Registration,Pre-Extracted DNA
+Sample Identification and Registration,Pre-Extracted RNA
+DNA Extraction,Blood Sample
+DNA Extraction,Body Fluid
+DNA Extraction,Swab Sample
+DNA Extraction,Sputum Sample
+DNA Extraction,Biopsy Sample
+DNA Extraction,Fixed Tissue
+DNA Extraction,Mammalian Cells
+DNA Extraction,Bacterial Cells
+DNA Extraction,Yeast Cells
+DNA Extraction,Environmental Sample
+DNA Extraction,Soil Sample
+DNA Extraction,Water Sample
+RNA Extraction,Blood Sample
+RNA Extraction,Body Fluid
+RNA Extraction,Swab Sample
+RNA Extraction,Sputum Sample
+RNA Extraction,Biopsy Sample
+RNA Extraction,Fixed Tissue
+RNA Extraction,Mammalian Cells
+RNA Extraction,Viral Particles
+RNA Extraction,Bacterial Cells
+RNA Extraction,Yeast Cells
+NanoDrop Quantification,Extracted Nucleic Acid
+NanoDrop Quantification,Pre-Extracted DNA
+NanoDrop Quantification,Pre-Extracted RNA
+Qubit Quantification,Extracted Nucleic Acid
+Qubit Quantification,Pre-Extracted DNA
+Qubit Quantification,Pre-Extracted RNA
+Purity Assessment A260/A280,Extracted Nucleic Acid
+Purity Assessment A260/A280,Pre-Extracted DNA
+Purity Assessment A260/A280,Pre-Extracted RNA
+Purity Assessment A260/A230,Extracted Nucleic Acid
+Purity Assessment A260/A230,Pre-Extracted DNA
+Purity Assessment A260/A230,Pre-Extracted RNA
+Gel Electrophoresis Post-Extraction,Extracted Nucleic Acid
+Gel Electrophoresis Post-Extraction,Quality Checked DNA
+Gel Electrophoresis Post-Extraction,Quality Checked RNA
+Gel Electrophoresis Post-PCR,PCR Product
+Gel Electrophoresis Post-PCR,Amplified DNA
+PCR Amplification,Quality Checked DNA
+PCR Amplification,Quality Checked RNA
+PCR Amplification,Extracted Nucleic Acid
+PCR Result Reporting,PCR Product
+DNA Fragmentation,Amplified DNA
+DNA Fragmentation,Quality Checked DNA
+End Repair,Fragmented DNA
+Adapter Ligation,Fragmented DNA
+Library Amplification,Fragmented DNA
+Size Selection and Cleanup,Library
+Library QC,Library
+Bioanalyzer Analysis,Library
+Bioanalyzer Analysis,PCR Product
+Library Normalization,Library
+Final Library Quantity Check,Normalized Library
+Sequencing Instrument Loading,Sequencing Ready Library
+NGS Sequencing,Sequencing Ready Library
+Data Submission to Bioinformatics,Sequencing Ready Library
+Data Submission to Bioinformatics,PCR Product
+Molecular Sample Archive Transfer,Raw Biological Material
+Molecular Sample Archive Transfer,Extracted Nucleic Acid
+Molecular Sample Archive Transfer,Library
