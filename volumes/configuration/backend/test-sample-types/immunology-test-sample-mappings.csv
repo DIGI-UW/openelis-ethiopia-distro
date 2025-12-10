@@ -1,0 +1,25 @@
+testName,sampleType
+Sample Reception,Bulk Project Sample
+Volume Determination,Bulk Project Sample
+Volume Determination,Isolated Cells
+Cell Count,Bulk Project Sample
+Cell Count,Isolated Cells
+Cell Isolation,Bulk Project Sample
+Supplementary Pre-Extraction Assay,Isolated Cells
+Child Sample Creation,Isolated Cells
+Sample Transfer,Isolated Cells
+Sample Transfer,Processed Immunology Sample
+Sample Incubation,Fresh Immunology Sample
+Sample Incubation,Frozen Immunology Sample
+ELISA,Incubated Sample
+ELISA,Fresh Immunology Sample
+ELISA,Processed Immunology Sample
+Flow Cytometry,Incubated Sample
+Flow Cytometry,Fresh Immunology Sample
+Flow Cytometry,Processed Immunology Sample
+Flow Cytometry,PBMC
+Post-Analysis Storage,Processed Immunology Sample
+Result Compilation,Processed Immunology Sample
+Biorepository Transfer,Bulk Project Sample
+Biorepository Transfer,Isolated Cells
+Biorepository Transfer,Processed Immunology Sample

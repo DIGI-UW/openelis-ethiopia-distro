@@ -1,0 +1,76 @@
+testName,sampleType
+Path Alert Hospital Reception,Path Alert Hospital Sample
+Path Research Project Reception,Path Research Project Sample
+Path Clinical Sample Reception,Path Clinical Diagnostic Sample
+Path Histopathology Reception,Path FFPE Tissue Block
+Path Histopathology Reception,Path Fresh Biopsy
+Path Histopathology Reception,Path Surgical Resection
+Path Cytopathology Reception,Path FNA
+Path Cytopathology Reception,Path Pleural Fluid
+Path Cytopathology Reception,Path Peritoneal Fluid
+Path Cytopathology Reception,Path Pericardial Fluid
+Path Cytopathology Reception,Path CSF
+Path Cytopathology Reception,Path Urine Cytology
+Path Cytopathology Reception,Path Sputum Cytology
+Path Cytopathology Reception,Path Cervical Smear
+Path Hematology Reception,Path EDTA Blood
+Path Hematology Reception,Path Peripheral Blood Smear
+Path Research Sample Reception,Path Human Fresh Tissue
+Path Research Sample Reception,Path Human Frozen Tissue
+Path Research Sample Reception,Path Human FFPE Research
+Path Research Sample Reception,Path Animal Tissue
+Path Research Sample Reception,Path Bacterial Pellet
+Path Research Sample Reception,Path Primary Cell Culture
+Path Initial Inspection,Path Clinical Diagnostic Sample
+Path Initial Inspection,Path Research Project Sample
+Path Histology Fixation Check,Path NBF Fixed Sample
+Path Cytology Container Integrity,Path FNA
+Path Cytology Container Integrity,Path Pleural Fluid
+Path Peripheral Blood Clot Check,Path EDTA Blood
+Path Tissue Block QC Post-Embedding,Path Embedded Block Pass
+Path Tissue Block QC Post-Embedding,Path Embedded Block Fail
+Path Block Re-embedding,Path Re-embedded Block
+Path QC Status Entry,Path QC Pass Sample
+Path QC Status Entry,Path QC Fail Sample
+Path Grossing,Path Grossed Sample
+Path Aliquoting,Path Aliquoted Sample
+Path Tissue Block Sectioning,Path Slide Sample
+Path Gross Examination,Path Grossed Sample
+Path Alcohol Processing,Path Alcohol Processed
+Path Xylene Processing,Path Xylene Processed
+Path Paraffin Embedding,Path Paraffin Embedded
+Path Microtomy 3-5um,Path Microtomy Section
+Path Fluid Centrifugation,Path Centrifuged Fluid
+Path LBC ThinPrep,Path ThinPrep Sample
+Path Cell Block Preparation,Path Cell Block
+Path FNA Direct Smear,Path FNA Direct Smear
+Path Wedge Smear Preparation,Path Wedge Smear
+Path LN2 Freezing,Path LN2 Frozen
+Path OCT Embedding,Path OCT Embedded
+Path H&E Staining,Path H&E Stained
+Path Papanicolaou Staining,Path Pap Stained
+Path Romanowsky Staining,Path Romanowsky Stained
+Path Giemsa Stain Blood,Path Giemsa Stained
+Path Wright Stain Blood,Path Wright Stained
+Path AFB Staining,Path AFB Stained
+Path GMS Staining,Path GMS Stained
+Path PAS Staining,Path PAS Stained
+Path Gram Staining,Path Gram Stained
+Path IHC FFPE Block,Path IHC Sample
+Path ICC Cell Block,Path ICC Sample
+Path ISH Analysis,Path ISH Sample
+Path Laser Microdissection,Path Laser Microdissected
+Path Multiplex IHC,Path Multiplex IHC
+Path Immunofluorescent Staining,Path Immunofluorescent
+Path RNAscope Analysis,Path RNAscope Sample
+Path Positive Control Run,Path Positive Control
+Path Negative Control Run,Path Negative Control
+Path Microscopy Observation,Path Slide Sample
+Path FFPE Block RT Storage,Path RT Storage
+Path Residual Cytology 4C,Path Refrigerated 4C
+Path Frozen Research -80C,Path Frozen -80C
+Path LN2 Vapor Storage,Path LN2 Vapor Storage
+Path Blood Smear Slide Box,Path Slide Box Storage
+Path Disposal Logbook Entry,Path Disposal Sample
+Path Physical Archive,Path Archived Sample
+Path Project Access Control,Path Research Project Sample

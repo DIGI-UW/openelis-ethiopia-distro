@@ -1,0 +1,35 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+MNTD Whole Blood,MNTD-WB,H,Y,90,MNTD Whole Blood,Sang Total MNTD
+MNTD Serum,MNTD-SER,H,Y,91,MNTD Serum,Sérum MNTD
+MNTD Plasma,MNTD-PLS,H,Y,92,MNTD Plasma,Plasma MNTD
+Cell Pellet,CELL-PEL,H,Y,93,Cell Pellet,Culot Cellulaire
+Dried Blood Spot,DBS,H,Y,94,Dried Blood Spot,Tache de Sang Séché
+Skin Slit Smear,SSS,H,Y,95,Skin Slit Smear,Frottis de Scarification Cutanée
+Biopsy Sample,BIOPSY,H,Y,96,Biopsy Sample,Échantillon de Biopsie
+Microbiopsy,MICRO-BIO,H,Y,97,Microbiopsy,Microbiopsie
+Tissue Aspirate,TIS-ASP,H,Y,98,Tissue Aspirate,Aspirat Tissulaire
+DNAShield Sample,DNA-SH,O,Y,99,DNAShield Sample,Échantillon DNAShield
+RNA Protect Sample,RNA-PR,O,Y,100,RNA Protect Sample,Échantillon RNA Protect
+Cell Culture,CELL-CUL,O,Y,101,Cell Culture,Culture Cellulaire
+Cultured Parasite,CULT-PAR,O,Y,102,Cultured Parasite,Parasite Cultivé
+Tissue in Direct Saline,TIS-SAL,O,Y,103,Tissue in Direct Saline,Tissu en Solution Saline Directe
+Colony Mosquito,COL-MOSQ,E,Y,104,Colony Mosquito,Moustique de Colonie
+Wild Mosquito,WILD-MOSQ,E,Y,105,Wild Mosquito,Moustique Sauvage
+Mosquito Head and Thorax,MOSQ-HT,E,Y,106,Mosquito Head and Thorax,Tête et Thorax de Moustique
+Mosquito Abdomen,MOSQ-ABD,E,Y,107,Mosquito Abdomen,Abdomen de Moustique
+Sandfly,SANDFLY,E,Y,108,Sandfly,Phlébotome
+Tsetse Fly,TSETSE,E,Y,109,Tsetse Fly,Mouche Tsé-Tsé
+Field Sample,FIELD-S,H,Y,110,Field Sample,Échantillon de Terrain
+External Organization Sample,EXT-ORG,O,Y,111,External Organization Sample,Échantillon d'Organisation Externe
+Quality Checked MNTD Sample,QC-MNTD,O,Y,112,Quality Checked MNTD Sample,Échantillon MNTD Contrôlé Qualité
+Failed Quality Sample,FAIL-QC,O,Y,113,Failed Quality Sample,Échantillon Qualité Échouée
+Aliquot Sample,ALIQ-S,O,Y,114,Aliquot Sample,Échantillon Aliquote
+DBS Punch,DBS-PUNCH,H,Y,115,DBS Punch,Poinçon DBS
+Plate Aliquot,PLATE-ALQ,O,Y,116,Plate Aliquot,Plaque Aliquote
+96-Well Plate Sample,96-WELL,O,Y,117,96-Well Plate Sample,Échantillon Plaque 96 Puits
+9x9 Cryobox Sample,CRYO-9X9,O,Y,118,9x9 Cryobox Sample,Échantillon Cryoboîte 9x9
+10x10 Cryobox Sample,CRYO-10X10,O,Y,119,10x10 Cryobox Sample,Échantillon Cryoboîte 10x10
+Processed MNTD Sample,PROC-MNTD,O,Y,120,Processed MNTD Sample,Échantillon MNTD Traité
+Control Sample,CTRL-S,O,Y,121,Control Sample,Échantillon Témoin
+Re-extraction Sample,RE-EXT,O,Y,122,Re-extraction Sample,Échantillon de Ré-extraction
+MNTD Biorepository Sample,MNTD-BIO,O,Y,123,MNTD Biorepository Sample,Échantillon Bioréférentiel MNTD

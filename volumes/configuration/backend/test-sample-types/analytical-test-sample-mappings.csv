@@ -1,0 +1,175 @@
+testName,sampleType
+Analytical Sample Reception,Analytical Processed Biological Sample
+Analytical Sample Reception,Analytical Medicine Sample
+Analytical Sample Reception,Analytical Pharmaceutical Sample
+Analytical Sample Reception,Analytical Client Sample
+Analytical Sample Reception,Analytical Researcher Sample
+Analytical Medical Lab Sample Reception,Analytical Medical Lab Sample
+Analytical Clinical Site Sample Reception,Analytical Clinical Site Sample
+Analytical Medicine Reception,Analytical Medicine Sample
+Analytical Biological Sample Reception,Analytical Processed Biological Sample
+Analytical Researcher Sample Reception,Analytical Researcher Sample
+Analytical Client Sample Reception,Analytical Client Sample
+Analytical Outsourced Sample Reception,Analytical Outsourced Sample
+Analytical Pharmaceutical Analysis Reception,Analytical Pharmaceutical Sample
+Analytical Bioanalytical Test Reception,Analytical Bioanalytical Sample
+Analytical Sample Identifier Assignment,Analytical Medicine Sample
+Analytical Sample Identifier Assignment,Analytical Pharmaceutical Sample
+Analytical Sample Identifier Assignment,Analytical Bioanalytical Sample
+Analytical Sample Identifier Retention,Analytical Medicine Sample
+Analytical Sample Identifier Retention,Analytical Pharmaceutical Sample
+Analytical Sample Identifier Retention,Analytical Bioanalytical Sample
+Analytical Sample Log Registration,Analytical Medicine Sample
+Analytical Sample Log Registration,Analytical Pharmaceutical Sample
+Analytical Sample Log Registration,Analytical Bioanalytical Sample
+Analytical Sample Type Registration,Analytical API
+Analytical Sample Type Registration,Analytical Tablet
+Analytical Sample Type Registration,Analytical Capsule
+Analytical Sample Type Registration,Analytical Powder
+Analytical Sample Type Registration,Analytical Solution
+Analytical Sample Type Registration,Analytical Suspension
+Analytical Sample Type Registration,Analytical Cream
+Analytical Sample Type Registration,Analytical Ointment
+Analytical Sample Type Registration,Analytical Injection
+Analytical Sample Type Registration,Analytical Syrup
+Analytical Sample Type Registration,Analytical Emulsion
+Analytical API Registration,Analytical API
+Analytical Tablet Registration,Analytical Tablet
+Analytical Capsule Registration,Analytical Capsule
+Analytical Powder Registration,Analytical Powder
+Analytical Solution Registration,Analytical Solution
+Analytical Test Request Registration,Analytical Medicine Sample
+Analytical Test Request Registration,Analytical Pharmaceutical Sample
+Analytical Test Request Registration,Analytical Bioanalytical Sample
+Analytical Assay Test Request,Analytical Assay Sample
+Analytical Dissolution Test Request,Analytical Dissolution Sample
+Analytical Disintegration Test Request,Analytical Disintegration Sample
+Analytical Friability Test Request,Analytical Friability Sample
+Analytical Hardness Test Request,Analytical Hardness Sample
+Analytical Identity Test Request,Analytical Identity Test Sample
+Analytical Storage Condition Registration,Analytical Medicine Sample
+Analytical Storage Condition Registration,Analytical Pharmaceutical Sample
+Analytical Storage Condition Registration,Analytical Bioanalytical Sample
+Analytical Room Temperature Condition,Analytical Room Temperature Storage
+Analytical Refrigerated Condition,Analytical Refrigerated Storage
+Analytical Frozen Condition,Analytical Frozen Storage
+Analytical Controlled Condition,Analytical Controlled Storage
+Analytical Test Assignment,Analytical Medicine Sample
+Analytical Test Assignment,Analytical Pharmaceutical Sample
+Analytical Test Assignment,Analytical Bioanalytical Sample
+Analytical Chemical Analyst Assignment,Analytical Pharmaceutical Sample
+Analytical Chemical Analyst Assignment,Analytical Physicochemical Sample
+Analytical Pharmacist Assignment,Analytical Pharmaceutical Sample
+Analytical Researcher Assignment,Analytical R&D Sample
+Analytical Researcher Assignment,Analytical Bioanalytical Sample
+Analytical Methodology Selection,Analytical Medicine Sample
+Analytical Methodology Selection,Analytical Pharmaceutical Sample
+Analytical Methodology Selection,Analytical Bioanalytical Sample
+Analytical HPLC Method Selection,Analytical HPLC Sample
+Analytical UV-Vis Method Selection,Analytical UV-Vis Sample
+Analytical LC-MS/MS Method Selection,Analytical LC-MS/MS Sample
+Analytical Dissolution USP I Method,Analytical Dissolution USP I Sample
+Analytical Dissolution USP II Method,Analytical Dissolution USP II Sample
+Analytical Hardness Method Selection,Analytical Hardness Sample
+Analytical Friability Method Selection,Analytical Friability Sample
+Analytical Disintegration Method Selection,Analytical Disintegration Sample
+Analytical Identity Test Method Selection,Analytical Identity Test Sample
+Analytical Sample Preparation,Analytical Prepared Sample
+Analytical Reference Standard Preparation,Analytical Reference Standard
+Analytical Working Standard Preparation,Analytical Working Standard
+Analytical Assay Test,Analytical Assay Sample
+Analytical Content Uniformity Test,Analytical Tablet
+Analytical Content Uniformity Test,Analytical Capsule
+Analytical Dissolution Test,Analytical Dissolution Sample
+Analytical Dissolution USP I Test,Analytical Dissolution USP I Sample
+Analytical Dissolution USP II Test,Analytical Dissolution USP II Sample
+Analytical Disintegration Test,Analytical Disintegration Sample
+Analytical Friability Test,Analytical Friability Sample
+Analytical Hardness Test,Analytical Hardness Sample
+Analytical Identity Test,Analytical Identity Test Sample
+Analytical HPLC Analysis,Analytical HPLC Sample
+Analytical UV-Vis Spectroscopy,Analytical UV-Vis Sample
+Analytical LC-MS/MS Analysis,Analytical LC-MS/MS Sample
+Analytical Bioanalytical Test,Analytical Bioanalytical Sample
+Analytical Physicochemical Test,Analytical Physicochemical Sample
+Analytical R&D Test,Analytical R&D Sample
+Analytical pH Test,Analytical Solution
+Analytical pH Test,Analytical Suspension
+Analytical Viscosity Test,Analytical Solution
+Analytical Viscosity Test,Analytical Suspension
+Analytical Viscosity Test,Analytical Cream
+Analytical Viscosity Test,Analytical Ointment
+Analytical Specific Gravity Test,Analytical Solution
+Analytical Specific Gravity Test,Analytical Suspension
+Analytical Refractive Index Test,Analytical Solution
+Analytical Moisture Content Test,Analytical Powder
+Analytical Moisture Content Test,Analytical Raw Material
+Analytical Loss on Drying Test,Analytical Powder
+Analytical Loss on Drying Test,Analytical Raw Material
+Analytical Residue on Ignition Test,Analytical Powder
+Analytical Residue on Ignition Test,Analytical Raw Material
+Analytical Heavy Metals Test,Analytical API
+Analytical Heavy Metals Test,Analytical Raw Material
+Analytical Microbial Limit Test,Analytical Medicine Sample
+Analytical Microbial Limit Test,Analytical Pharmaceutical Sample
+Analytical Sterility Test,Analytical Injection
+Analytical Sterility Test,Analytical Solution
+Analytical Endotoxin Test,Analytical Injection
+Analytical Particle Size Analysis,Analytical Powder
+Analytical Particle Size Analysis,Analytical Suspension
+Analytical Melting Point Test,Analytical API
+Analytical Melting Point Test,Analytical Raw Material
+Analytical Boiling Point Test,Analytical Solution
+Analytical Water Content Test,Analytical API
+Analytical Water Content Test,Analytical Raw Material
+Analytical Related Substances Test,Analytical API
+Analytical Related Substances Test,Analytical Medicine Sample
+Analytical Impurities Test,Analytical API
+Analytical Impurities Test,Analytical Medicine Sample
+Analytical Residual Solvents Test,Analytical API
+Analytical Residual Solvents Test,Analytical Medicine Sample
+Analytical Drug Release Profile,Analytical Tablet
+Analytical Drug Release Profile,Analytical Capsule
+Analytical Stability Testing,Analytical Stability Sample
+Analytical Accelerated Stability,Analytical Stability Sample
+Analytical Long-Term Stability,Analytical Stability Sample
+Analytical Photostability Test,Analytical Stability Sample
+Analytical Forced Degradation Study,Analytical API
+Analytical Forced Degradation Study,Analytical Medicine Sample
+Analytical Method Validation,Analytical Quality Control Sample
+Analytical Method Verification,Analytical Quality Control Sample
+Analytical Linearity Test,Analytical Quality Control Sample
+Analytical Precision Test,Analytical Quality Control Sample
+Analytical Accuracy Test,Analytical Quality Control Sample
+Analytical Specificity Test,Analytical Quality Control Sample
+Analytical Robustness Test,Analytical Quality Control Sample
+Analytical LOD Determination,Analytical Quality Control Sample
+Analytical LOQ Determination,Analytical Quality Control Sample
+Analytical System Suitability Test,Analytical Quality Control Sample
+Analytical QC Sample Analysis,Analytical Quality Control Sample
+Analytical Blank Analysis,Analytical Quality Control Sample
+Analytical Standard Curve Preparation,Analytical Reference Standard
+Analytical Calibration Verification,Analytical Quality Control Sample
+Analytical Instrument Performance Check,Analytical Quality Control Sample
+Analytical Result Calculation,Analytical Tested Sample
+Analytical Data Review,Analytical Tested Sample
+Analytical Result Verification,Analytical Tested Sample
+Analytical Result Approval,Analytical Tested Sample
+Analytical Result Report Compilation,Analytical Result Reported Sample
+Analytical Certificate of Analysis,Analytical Result Reported Sample
+Analytical Result Submission,Analytical Result Reported Sample
+Analytical Result to Requesting Unit,Analytical Result Reported Sample
+Analytical Result to Researcher,Analytical Result Reported Sample
+Analytical Result to Client,Analytical Result Reported Sample
+Analytical Post-Test Sample Selection,Analytical Tested Sample
+Analytical Biorepository Transfer,Analytical Biorepository Sample
+Analytical Retention Sample Storage,Analytical Retention Sample
+Analytical Stability Duration Storage,Analytical Stability Sample
+Analytical Legal Hold Storage,Analytical Legal Hold Sample
+Analytical Sample Disposal,Analytical Tested Sample
+Analytical Data Archiving,Analytical Result Reported Sample
+Analytical Metadata Archiving,Analytical Result Reported Sample
+Analytical Raw Data Storage,Analytical Result Reported Sample
+Analytical Chromatogram Archiving,Analytical HPLC Sample
+Analytical Chromatogram Archiving,Analytical LC-MS/MS Sample
+Analytical Spectrum Archiving,Analytical UV-Vis Sample

@@ -1,0 +1,91 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+TB Sample Accession,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,700,,TB Sample Accession,Enregistrement d'Échantillon TB
+TB Test Request Documentation,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,701,,TB Test Request Documentation,Documentation de Demande de Test TB
+TB Patient Metadata Registration,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,702,,TB Patient Metadata Registration,Enregistrement de Métadonnées Patient TB
+TB Sample ID Assignment,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,703,,TB Sample ID Assignment,Attribution d'ID d'Échantillon TB
+TB Sample Reception,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,704,,TB Sample Reception,Réception d'Échantillon TB
+TB Raw Sample Quality Check,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,705,,TB Raw Sample Quality Check,Vérification de Qualité d'Échantillon TB Brut
+TB Sample Leak Check,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,706,,TB Sample Leak Check,Vérification de Fuite d'Échantillon TB
+TB Transportation Check,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,707,,TB Transportation Check,Vérification de Transport TB
+TB Temperature Verification,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,708,°C,TB Temperature Verification,Vérification de Température TB
+TB Triple Packaging Verification,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,709,,TB Triple Packaging Verification,Vérification de Triple Emballage TB
+TB Label Completeness Check,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,710,,TB Label Completeness Check,Vérification d'Exhaustivité d'Étiquette TB
+TB Request Sample Match Verification,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,711,,TB Request Sample Match Verification,Vérification de Correspondance Demande-Échantillon TB
+TB Volume Sufficiency Check,Microbiology,TB Sputum|TB Body Fluid|TB Swab|TB Tissue|Other TB Sample,,Y,Y,712,mL,TB Volume Sufficiency Check,Vérification de Volume Suffisant TB
+TB Quality Check Pass,Microbiology,TB Quality Checked Sample,,Y,Y,713,,TB Quality Check Pass,Passage de Contrôle Qualité TB
+TB Quality Check Fail,Microbiology,TB Failed QC Sample,,Y,Y,714,,TB Quality Check Fail,Échec de Contrôle Qualité TB
+TB Sample Rejection,Microbiology,TB Failed QC Sample,,Y,Y,715,,TB Sample Rejection,Rejet d'Échantillon TB
+TB Failed Sample Notification,Microbiology,TB Failed QC Sample,,Y,Y,716,,TB Failed Sample Notification,Notification d'Échantillon Échoué TB
+TB System Registration,Microbiology,TB Quality Checked Sample,,Y,Y,717,,TB System Registration,Enregistrement Système TB
+TB Sample Labeling,Microbiology,TB Quality Checked Sample,,Y,Y,718,,TB Sample Labeling,Étiquetage d'Échantillon TB
+TB Barcode Generation,Microbiology,TB Quality Checked Sample,,Y,Y,719,,TB Barcode Generation,Génération de Code-Barres TB
+TB Temporary Storage Assignment,Microbiology,TB Temporary Storage Sample,,Y,Y,720,,TB Temporary Storage Assignment,Attribution de Stockage Temporaire TB
+TB Long-Term Storage Assignment,Microbiology,TB Long-Term Storage Sample,,Y,Y,721,,TB Long-Term Storage Assignment,Attribution de Stockage Long Terme TB
+TB Shipment Storage Assignment,Microbiology,TB Shipment Sample,,Y,Y,722,,TB Shipment Storage Assignment,Attribution de Stockage Expédition TB
+TB Processing Date Registration,Microbiology,TB Processed Sample,,Y,Y,723,,TB Processing Date Registration,Enregistrement de Date de Traitement TB
+TB Media Preparation,Microbiology,TB Culture Media,,Y,Y,724,,TB Media Preparation,Préparation de Milieu TB
+TB Reagent Selection,Microbiology,TB Culture Media,,Y,Y,725,,TB Reagent Selection,Sélection de Réactif TB
+TB Instrument Selection,Microbiology,TB Culture Media,,Y,Y,726,,TB Instrument Selection,Sélection d'Instrument TB
+TB Media Incubation,Microbiology,TB Culture Media,,Y,Y,727,hours,TB Media Incubation,Incubation de Milieu TB
+TB Bacterial Growth Check,Microbiology,TB Culture Media,,Y,Y,728,,TB Bacterial Growth Check,Vérification de Croissance Bactérienne TB
+TB Culture Method LJ,Microbiology,TB Inoculated LJ Medium,549-6,Y,Y,729,,TB Culture Method LJ,Méthode de Culture TB LJ
+TB Culture Method MGIT,Microbiology,TB Inoculated MGIT Medium,549-6,Y,Y,730,,TB Culture Method MGIT,Méthode de Culture TB MGIT
+TB Sample Inoculation,Microbiology,TB Inoculated LJ Medium|TB Inoculated MGIT Medium,,Y,Y,731,,TB Sample Inoculation,Inoculation d'Échantillon TB
+TB Culture Week 1 Reading,Microbiology,TB Culture Week 1,,Y,Y,732,,TB Culture Week 1 Reading,Lecture Culture TB Semaine 1
+TB Culture Week 2 Reading,Microbiology,TB Culture Week 2,,Y,Y,733,,TB Culture Week 2 Reading,Lecture Culture TB Semaine 2
+TB Culture Week 3 Reading,Microbiology,TB Culture Week 3,,Y,Y,734,,TB Culture Week 3 Reading,Lecture Culture TB Semaine 3
+TB Culture Week 4 Reading,Microbiology,TB Culture Week 4,,Y,Y,735,,TB Culture Week 4 Reading,Lecture Culture TB Semaine 4
+TB Culture Week 5 Reading,Microbiology,TB Culture Week 5,,Y,Y,736,,TB Culture Week 5 Reading,Lecture Culture TB Semaine 5
+TB Culture Week 6 Reading,Microbiology,TB Culture Week 6,,Y,Y,737,,TB Culture Week 6 Reading,Lecture Culture TB Semaine 6
+TB Culture Week 7 Reading,Microbiology,TB Culture Week 7,,Y,Y,738,,TB Culture Week 7 Reading,Lecture Culture TB Semaine 7
+TB Culture Week 8 Reading,Microbiology,TB Culture Week 8,,Y,Y,739,,TB Culture Week 8 Reading,Lecture Culture TB Semaine 8
+TB Culture Positive Result,Microbiology,TB Culture Positive,548-8,Y,Y,740,,TB Culture Positive Result,Résultat Culture TB Positive
+TB Culture Negative Result,Microbiology,TB Culture Negative,548-8,Y,Y,741,,TB Culture Negative Result,Résultat Culture TB Négative
+TB NTM Detection,Microbiology,TB NTM,87015-5,Y,Y,742,,TB NTM Detection,Détection TB NTM
+TB Culture Contamination,Microbiology,TB Contaminated Culture,,Y,Y,743,,TB Culture Contamination,Contamination Culture TB
+TB Smear Preparation,Microbiology,TB Smear Sample,11545-1,Y,Y,744,,TB Smear Preparation,Préparation de Frottis TB
+TB AFB Smear Microscopy,Microbiology,TB AFB Smear,548-8,Y,Y,745,,TB AFB Smear Microscopy,Microscopie Frottis AFB TB
+TB ZN Staining,Microbiology,TB ZN Stained Sample,664-3,Y,Y,746,,TB ZN Staining,Coloration ZN TB
+TB Concentrated Smear,Microbiology,TB Concentrated Sample,11545-1,Y,Y,747,,TB Concentrated Smear,Frottis Concentré TB
+TB Fluorescence Staining,Microbiology,TB Fluorescence Stained Sample,11545-1,Y,Y,748,,TB Fluorescence Staining,Coloration Fluorescence TB
+TB AFB Scanty Result,Microbiology,TB AFB Smear,548-8,Y,Y,749,,TB AFB Scanty Result,Résultat AFB TB Rare
+TB AFB 1+ Result,Microbiology,TB AFB Smear,548-8,Y,Y,750,,TB AFB 1+ Result,Résultat AFB TB 1+
+TB AFB 2+ Result,Microbiology,TB AFB Smear,548-8,Y,Y,751,,TB AFB 2+ Result,Résultat AFB TB 2+
+TB AFB 3+ Result,Microbiology,TB AFB Smear,548-8,Y,Y,752,,TB AFB 3+ Result,Résultat AFB TB 3+
+TB AFB Negative Result,Microbiology,TB AFB Smear,548-8,Y,Y,753,,TB AFB Negative Result,Résultat AFB TB Négatif
+TB GeneXpert Test,Microbiology,TB GeneXpert Sample,82203-1,Y,Y,754,,TB GeneXpert Test,Test GeneXpert TB
+TB GeneXpert MTB Detected,Microbiology,TB GeneXpert Sample,82203-1,Y,Y,755,,TB GeneXpert MTB Detected,GeneXpert TB MTB Détecté
+TB GeneXpert MTB Not Detected,Microbiology,TB GeneXpert Sample,82203-1,Y,Y,756,,TB GeneXpert MTB Not Detected,GeneXpert TB MTB Non Détecté
+TB GeneXpert RIF Detected,Microbiology,TB GeneXpert Sample,82204-9,Y,Y,757,,TB GeneXpert RIF Detected,GeneXpert TB RIF Détecté
+TB GeneXpert RIF Indeterminate,Microbiology,TB GeneXpert Sample,82204-9,Y,Y,758,,TB GeneXpert RIF Indeterminate,GeneXpert TB RIF Indéterminé
+TB Real-Time PCR,Microbiology,TB GeneXpert Sample,82196-7,Y,Y,759,,TB Real-Time PCR,PCR en Temps Réel TB
+TB MTB Identification,Microbiology,TB MTB Isolate,548-8,Y,Y,760,,TB MTB Identification,Identification MTB TB
+TB BHI/BA Culture,Microbiology,TB BHI/BA Culture,,Y,Y,761,,TB BHI/BA Culture,Culture TB BHI/BA
+TB Rapid Test Kit,Microbiology,TB Rapid Test Sample,,Y,Y,762,,TB Rapid Test Kit,Kit Test Rapide TB
+TB Colony Isolation,Microbiology,TB Colony Isolate,634-6,Y,Y,763,,TB Colony Isolation,Isolement Colonie TB
+TB DST Phenotypic 1st Line,Microbiology,TB DST 1st Line Sample,18866-4,Y,Y,764,,TB DST Phenotypic 1st Line,DST TB Phénotypique 1ère Ligne
+TB DST Phenotypic 2nd Line,Microbiology,TB DST 2nd Line Sample,18866-4,Y,Y,765,,TB DST Phénotypique 2ème Ligne,DST TB Phénotypique 2ème Ligne
+TB DST Molecular 1st Line,Microbiology,TB Molecular DST Sample,91895-7,Y,Y,766,,TB DST Molecular 1st Line,DST TB Moléculaire 1ère Ligne
+TB DST INH Test,Microbiology,TB INH Tested,18862-3,Y,Y,767,,TB DST INH Test,Test DST TB INH
+TB DST RMP Test,Microbiology,TB RMP Tested,18864-9,Y,Y,768,,TB DST RMP Test,Test DST TB RMP
+TB DST STM Test,Microbiology,TB STM Tested,18868-0,Y,Y,769,,TB DST STM Test,Test DST TB STM
+TB DST EMB Test,Microbiology,TB EMB Tested,18863-1,Y,Y,770,,TB DST EMB Test,Test DST TB EMB
+TB DST PZA Test,Microbiology,TB PZA Tested,18865-6,Y,Y,771,,TB DST PZA Test,Test DST TB PZA
+TB DST FLQ Test,Microbiology,TB FLQ Tested,91895-7,Y,Y,772,,TB DST FLQ Test,Test DST TB FLQ
+TB DST KAN Test,Microbiology,TB KAN Tested,18869-8,Y,Y,773,,TB DST KAN Test,Test DST TB KAN
+TB DST AMK Test,Microbiology,TB AMK Tested,18860-7,Y,Y,774,,TB DST AMK Test,Test DST TB AMK
+TB DST CAP Test,Microbiology,TB CAP Tested,18861-5,Y,Y,775,,TB DST CAP Test,Test DST TB CAP
+TB DST VIO Test,Microbiology,TB VIO Tested,91895-7,Y,Y,776,,TB DST VIO Test,Test DST TB VIO
+TB DST Low Level KAN,Microbiology,TB KAN Tested,18869-8,Y,Y,777,,TB DST Low Level KAN,DST TB Bas Niveau KAN
+TB DST Sensitive Result,Microbiology,TB DST 1st Line Sample|TB DST 2nd Line Sample,18866-4,Y,Y,778,,TB DST Sensitive Result,Résultat DST TB Sensible
+TB DST Resistance Result,Microbiology,TB DST 1st Line Sample|TB DST 2nd Line Sample,18866-4,Y,Y,779,,TB DST Resistance Result,Résultat DST TB Résistance
+TB DST Invalid Result,Microbiology,TB DST 1st Line Sample|TB DST 2nd Line Sample,,Y,Y,780,,TB DST Invalid Result,Résultat DST TB Invalide
+TB Isolate Storage Assignment,Microbiology,TB Stored Isolate,,Y,Y,781,,TB Isolate Storage Assignment,Attribution de Stockage Isolat TB
+TB Isolate Freezer Location,Microbiology,TB Stored Isolate,,Y,Y,782,,TB Isolate Freezer Location,Emplacement Congélateur Isolat TB
+TB Result Entry,Microbiology,TB Culture Positive|TB AFB Smear|TB GeneXpert Sample|TB DST 1st Line Sample|TB DST 2nd Line Sample,,Y,Y,783,,TB Result Entry,Saisie de Résultat TB
+TB Result Reporting,Microbiology,TB Culture Positive|TB AFB Smear|TB GeneXpert Sample|TB DST 1st Line Sample|TB DST 2nd Line Sample,,Y,Y,784,,TB Result Reporting,Rapport de Résultat TB
+TB Result Review,Microbiology,TB Culture Positive|TB AFB Smear|TB GeneXpert Sample|TB DST 1st Line Sample|TB DST 2nd Line Sample,,Y,Y,785,,TB Result Review,Examen de Résultat TB
+TB Result Comment,Microbiology,TB Culture Positive|TB AFB Smear|TB GeneXpert Sample|TB DST 1st Line Sample|TB DST 2nd Line Sample,,Y,Y,786,,TB Result Comment,Commentaire Résultat TB
+TB Data Export to LMS,Microbiology,TB Culture Positive|TB AFB Smear|TB GeneXpert Sample|TB DST 1st Line Sample|TB DST 2nd Line Sample,,Y,Y,787,,TB Data Export to LMS,Export de Données TB vers LMS
+TB Data Analysis,Microbiology,TB Culture Positive|TB AFB Smear|TB GeneXpert Sample|TB DST 1st Line Sample|TB DST 2nd Line Sample,,Y,Y,788,,TB Data Analysis,Analyse de Données TB
+TB REDCap Integration,Microbiology,TB Culture Positive|TB AFB Smear|TB GeneXpert Sample|TB DST 1st Line Sample|TB DST 2nd Line Sample,,Y,Y,789,,TB REDCap Integration,Intégration REDCap TB

@@ -1,0 +1,61 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+VV Pre-labeled Sample,VV-PRELAB,O,Y,550,VV Pre-labeled Sample,Échantillon Pré-étiqueté VV
+VV Arrival Labeled Sample,VV-ARRLAB,O,Y,551,VV Arrival Labeled Sample,Échantillon Étiqueté Arrivée VV
+VV Viral Sample,VV-VIRAL,O,Y,552,VV Viral Sample,Échantillon Viral VV
+VV Bacterial Sample,VV-BACT,O,Y,553,VV Bacterial Sample,Échantillon Bactérien VV
+VV Culture Media,VV-MEDIA,O,Y,554,VV Culture Media,Milieu Culture VV
+VV Reagent,VV-REAG,O,Y,555,VV Reagent,Réactif VV
+VV Equipment Sample,VV-EQUIP,O,Y,556,VV Equipment Sample,Échantillon Équipement VV
+VV Autoclaved Media,VV-AUTO,O,Y,557,VV Autoclaved Media,Milieu Autoclavé VV
+VV Filtered Media,VV-FILT,O,Y,558,VV Filtered Media,Milieu Filtré VV
+VV Host Cell Line,VV-CELL,O,Y,559,VV Host Cell Line,Lignée Cellulaire Hôte VV
+VV Growing Cell Culture,VV-GROW,O,Y,560,VV Growing Cell Culture,Culture Cellulaire Croissance VV
+VV Cell Viability QC,VV-VIAB,O,Y,561,VV Cell Viability QC,QC Viabilité Cellulaire VV
+VV Sterility QC,VV-STER,O,Y,562,VV Sterility QC,QC Stérilité VV
+VV QC Pass,VV-QCP,O,Y,563,VV QC Pass,QC Passé VV
+VV QC Fail,VV-QCF,O,Y,564,VV QC Fail,QC Échoué VV
+VV Virus Inoculum,VV-INOC,O,Y,565,VV Virus Inoculum,Inoculum Viral VV
+VV Virus Culture,VV-VCULT,O,Y,566,VV Virus Culture,Culture Virale VV
+VV Virus Strain,VV-STRAIN,O,Y,567,VV Virus Strain,Souche Virale VV
+VV Dark Room Imaging Sample,VV-DARK,O,Y,568,VV Dark Room Imaging Sample,Échantillon Imagerie Chambre Noire VV
+VV Fluorescence Sample,VV-FLUOR,O,Y,569,VV Fluorescence Sample,Échantillon Fluorescence VV
+VV Image Data,VV-IMAGE,O,Y,570,VV Image Data,Données Image VV
+VV Formulated Viral Product,VV-FORM,O,Y,571,VV Formulated Viral Product,Produit Viral Formulé VV
+VV Fed Culture,VV-FED,O,Y,572,VV Fed Culture,Culture Alimentée VV
+VV Packaged Product,VV-PACK,O,Y,573,VV Packaged Product,Produit Emballé VV
+VV Batch Product,VV-BATCH,O,Y,574,VV Batch Product,Produit Lot VV
+VV Isolated Virus,VV-ISOL,O,Y,575,VV Isolated Virus,Virus Isolé VV
+VV Titer Sample,VV-TITER,O,Y,576,VV Titer Sample,Échantillon Titrage VV
+VV Genome Sequencing Sample,VV-GSEQ,O,Y,577,VV Genome Sequencing Sample,Échantillon Séquençage Génome VV
+VV Seed Virus,VV-SEED,O,Y,578,VV Seed Virus,Virus Semence VV
+VV Preclinical Trial Sample,VV-PRECLIN,O,Y,579,VV Preclinical Trial Sample,Échantillon Essai Préclinique VV
+VV Animal Test Sample,VV-ANIM,O,Y,580,VV Animal Test Sample,Échantillon Test Animal VV
+VV Clinical Trial Sample,VV-CLIN,O,Y,581,VV Clinical Trial Sample,Échantillon Essai Clinique VV
+VV Phase I Trial Sample,VV-PH1,O,Y,582,VV Phase I Trial Sample,Échantillon Essai Phase I VV
+VV Phase II Trial Sample,VV-PH2,O,Y,583,VV Phase II Trial Sample,Échantillon Essai Phase II VV
+VV Phase III Trial Sample,VV-PH3,O,Y,584,VV Phase III Trial Sample,Échantillon Essai Phase III VV
+VV Bacterial Culture Sample,VV-BCULT,O,Y,585,VV Bacterial Culture Sample,Échantillon Culture Bactérienne VV
+VV Stained Sample,VV-STAIN,O,Y,586,VV Stained Sample,Échantillon Coloré VV
+VV Gram Stained Sample,VV-GRAM,O,Y,587,VV Gram Stained Sample,Échantillon Coloré Gram VV
+VV Microscopy Sample,VV-MICRO,O,Y,588,VV Microscopy Sample,Échantillon Microscopie VV
+VV Biochemical Test Sample,VV-BIOCHEM,O,Y,589,VV Biochemical Test Sample,Échantillon Test Biochimique VV
+VV Identified Bacteria,VV-IDENT,O,Y,590,VV Identified Bacteria,Bactérie Identifiée VV
+VV Bacterial Species,VV-SPECIES,O,Y,591,VV Bacterial Species,Espèce Bactérienne VV
+VV Bacterial Strain,VV-BSTRAIN,O,Y,592,VV Bacterial Strain,Souche Bactérienne VV
+VV DNA Extract,VV-DNA,O,Y,593,VV DNA Extract,Extrait ADN VV
+VV Genomic DNA,VV-GDNA,O,Y,594,VV Genomic DNA,ADN Génomique VV
+VV Sequenced Genome,VV-SEQG,O,Y,595,VV Sequenced Genome,Génome Séquencé VV
+VV Target Gene,VV-GENE,O,Y,596,VV Target Gene,Gène Cible VV
+VV Gene Sequence,VV-GENESEQ,O,Y,597,VV Gene Sequence,Séquence Génique VV
+VV Detection Kit,VV-DETKIT,O,Y,598,VV Detection Kit,Kit Détection VV
+VV Resistance Kit,VV-RESKIT,O,Y,599,VV Resistance Kit,Kit Résistance VV
+VV Product Kit,VV-PRODKIT,O,Y,600,VV Product Kit,Kit Produit VV
+VV Bioinformatics Sample,VV-BIOINF,O,Y,601,VV Bioinformatics Sample,Échantillon Bioinformatique VV
+VV External Report Sample,VV-EXTRPT,O,Y,602,VV External Report Sample,Échantillon Rapport Externe VV
+VV RT Storage Sample,VV-RTS,O,Y,603,VV RT Storage Sample,Échantillon Stockage TA VV
+VV Refrigerated Sample 2-8C,VV-2-8C,O,Y,604,VV Refrigerated Sample 2-8C,Échantillon Réfrigéré 2-8C VV
+VV Frozen Sample -20C,VV-20C,O,Y,605,VV Frozen Sample -20C,Échantillon Congelé -20C VV
+VV Frozen Sample -80C,VV-80C,O,Y,606,VV Frozen Sample -80C,Échantillon Congelé -80C VV
+VV LN2 Storage Sample,VV-LN2,O,Y,607,VV LN2 Storage Sample,Échantillon Stockage LN2 VV
+VV Archived Sample,VV-ARCH,O,Y,608,VV Archived Sample,Échantillon Archivé VV
+VV Disposal Sample,VV-DISP,O,Y,609,VV Disposal Sample,Échantillon Élimination VV

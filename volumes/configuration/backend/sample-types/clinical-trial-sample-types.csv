@@ -1,0 +1,63 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+CT Patient Sample,CT-PAT,H,Y,260,CT Patient Sample,Échantillon Patient Essai Clinique
+CT Participant Sample,CT-PART,H,Y,261,CT Participant Sample,Échantillon Participant Essai Clinique
+CT Screening Sample,CT-SCR,H,Y,262,CT Screening Sample,Échantillon Dépistage Essai Clinique
+CT Enrolled Participant Sample,CT-ENR,H,Y,263,CT Enrolled Participant Sample,Échantillon Participant Inscrit Essai Clinique
+CT Blood Sample,CT-BLD,H,Y,264,CT Blood Sample,Échantillon Sanguin Essai Clinique
+CT Serum Sample,CT-SER,H,Y,265,CT Serum Sample,Échantillon Sérum Essai Clinique
+CT Plasma Sample,CT-PLS,H,Y,266,CT Plasma Sample,Échantillon Plasma Essai Clinique
+CT Urine Sample,CT-UR,H,Y,267,CT Urine Sample,Échantillon Urine Essai Clinique
+CT Stool Sample,CT-STL,H,Y,268,CT Stool Sample,Échantillon Selles Essai Clinique
+CT Swab Sample,CT-SWB,H,Y,269,CT Swab Sample,Échantillon Écouvillon Essai Clinique
+CT Quality Checked Sample,CT-QC,H,Y,270,CT Quality Checked Sample,Échantillon Contrôlé Qualité Essai Clinique
+CT Failed QC Sample,CT-FAIL,H,Y,271,CT Failed QC Sample,Échantillon QC Échoué Essai Clinique
+CT Accepted Sample,CT-ACC,H,Y,272,CT Accepted Sample,Échantillon Accepté Essai Clinique
+CT Rejected Sample,CT-REJ,H,Y,273,CT Rejected Sample,Échantillon Rejeté Essai Clinique
+CT Sample in Vacutainer,CT-VAC,H,Y,274,CT Sample in Vacutainer,Échantillon en Vacutainer Essai Clinique
+CT Sample in Cryovial,CT-CRYO,H,Y,275,CT Sample in Cryovial,Échantillon en Cryovial Essai Clinique
+CT Sample in Urine Cup,CT-UCUP,H,Y,276,CT Sample in Urine Cup,Échantillon en Gobelet Urine Essai Clinique
+CT Sample in Stool Jar,CT-SJAR,H,Y,277,CT Sample in Stool Jar,Échantillon en Pot Selles Essai Clinique
+CT Sample in Swab Tube,CT-STUBE,H,Y,278,CT Sample in Swab Tube,Échantillon en Tube Écouvillon Essai Clinique
+CT Sample in Biohazard Bag,CT-BHBAG,H,Y,279,CT Sample in Biohazard Bag,Échantillon en Sac Biohazard Essai Clinique
+CT Sample in Transport Box,CT-TBOX,H,Y,280,CT Sample in Transport Box,Échantillon en Boîte de Transport Essai Clinique
+CT EDTA Sample,CT-EDTA,H,Y,281,CT EDTA Sample,Échantillon EDTA Essai Clinique
+CT Citrate Sample,CT-CIT,H,Y,282,CT Citrate Sample,Échantillon Citrate Essai Clinique
+CT Heparin Sample,CT-HEP,H,Y,283,CT Heparin Sample,Échantillon Héparine Essai Clinique
+CT Fluoride Sample,CT-FLU,H,Y,284,CT Fluoride Sample,Échantillon Fluorure Essai Clinique
+CT Hemolyzed Sample,CT-HEMO,H,Y,285,CT Hemolyzed Sample,Échantillon Hémolysé Essai Clinique
+CT Lipemic Sample,CT-LIP,H,Y,286,CT Lipemic Sample,Échantillon Lipémique Essai Clinique
+CT Icteric Sample,CT-ICT,H,Y,287,CT Icteric Sample,Échantillon Ictérique Essai Clinique
+CT Clotted Sample,CT-CLOT,H,Y,288,CT Clotted Sample,Échantillon Coagulé Essai Clinique
+CT Contaminated Sample,CT-CONT,H,Y,289,CT Contaminated Sample,Échantillon Contaminé Essai Clinique
+CT Room Temperature Storage,CT-RT,H,Y,290,CT Room Temperature Storage,Stockage Température Ambiante Essai Clinique
+CT Refrigerated Storage,CT-REF,H,Y,291,CT Refrigerated Storage,Stockage Réfrigéré Essai Clinique
+CT Frozen Storage,CT-FRZ,H,Y,292,CT Frozen Storage,Stockage Congelé Essai Clinique
+CT Aliquot 1,CT-ALQ1,H,Y,293,CT Aliquot 1,Aliquote 1 Essai Clinique
+CT Aliquot 2,CT-ALQ2,H,Y,294,CT Aliquot 2,Aliquote 2 Essai Clinique
+CT Processed Serum,CT-PROC-SER,H,Y,295,CT Processed Serum,Sérum Traité Essai Clinique
+CT Processed Plasma,CT-PROC-PLS,H,Y,296,CT Processed Plasma,Plasma Traité Essai Clinique
+CT Centrifuged Sample,CT-CENT,H,Y,297,CT Centrifuged Sample,Échantillon Centrifugé Essai Clinique
+CT Thin Smear,CT-THIN,H,Y,298,CT Thin Smear,Frottis Mince Essai Clinique
+CT Thick Smear,CT-THICK,H,Y,299,CT Thick Smear,Frottis Épais Essai Clinique
+CT Wright Stained Smear,CT-WRT,H,Y,300,CT Wright Stained Smear,Frottis Coloré Wright Essai Clinique
+CT Giemsa Stained Smear,CT-GMS,H,Y,301,CT Giemsa Stained Smear,Frottis Coloré Giemsa Essai Clinique
+CT Gram Stained Smear,CT-GRAM,H,Y,302,CT Gram Stained Smear,Frottis Coloré Gram Essai Clinique
+CT AFB Stained Smear,CT-AFB,H,Y,303,CT AFB Stained Smear,Frottis Coloré AFB Essai Clinique
+CT Indian Ink Stained,CT-INK,H,Y,304,CT Indian Ink Stained,Coloré Encre de Chine Essai Clinique
+CT KOH Preparation,CT-KOH,H,Y,305,CT KOH Preparation,Préparation KOH Essai Clinique
+CT Urine Sediment,CT-USED,H,Y,306,CT Urine Sediment,Sédiment Urine Essai Clinique
+CT Urine Wet Smear,CT-UWET,H,Y,307,CT Urine Wet Smear,Frottis Humide Urine Essai Clinique
+CT Stool Wet Smear,CT-SWET,H,Y,308,CT Stool Wet Smear,Frottis Humide Selles Essai Clinique
+CT Stool Concentrate,CT-SCONC,H,Y,309,CT Stool Concentrate,Concentré Selles Essai Clinique
+CT Bioequivalence Sample,CT-BE,H,Y,310,CT Bioequivalence Sample,Échantillon Bioéquivalence Essai Clinique
+CT Sample in Vial,CT-VIAL,H,Y,311,CT Sample in Vial,Échantillon en Flacon Essai Clinique
+CT Sample in Tube,CT-TUBE,H,Y,312,CT Sample in Tube,Échantillon en Tube Essai Clinique
+CT Sample in Plate,CT-PLATE,H,Y,313,CT Sample in Plate,Échantillon en Plaque Essai Clinique
+CT Sample on Slide,CT-SLIDE,H,Y,314,CT Sample on Slide,Échantillon sur Lame Essai Clinique
+CT Sample for Disposal,CT-DISP,H,Y,315,CT Sample for Disposal,Échantillon pour Élimination Essai Clinique
+CT Archived Sample,CT-ARCH,H,Y,316,CT Archived Sample,Échantillon Archivé Essai Clinique
+CT Biobanking Sample,CT-BIOB,H,Y,317,CT Biobanking Sample,Échantillon Biobanque Essai Clinique
+CT Control Sample Normal,CT-CTRL-N,O,Y,318,CT Control Sample Normal,Échantillon Témoin Normal Essai Clinique
+CT Control Sample Pathologic,CT-CTRL-P,O,Y,319,CT Control Sample Pathologic,Échantillon Témoin Pathologique Essai Clinique
+CT Positive Control,CT-POS-C,O,Y,320,CT Positive Control,Témoin Positif Essai Clinique
+CT Negative Control,CT-NEG-C,O,Y,321,CT Negative Control,Témoin Négatif Essai Clinique

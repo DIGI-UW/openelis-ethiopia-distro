@@ -1,0 +1,22 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+Archive Sample,ARCH,O,Y,60,Archive Sample,Échantillon d'Archive
+Serum Archive,SER-A,H,Y,61,Serum Archive,Sérum Archivé
+DNA Archive,DNA-A,O,Y,62,DNA Archive,ADN Archivé
+Bacterial Isolate Archive,BAC-A,O,Y,63,Bacterial Isolate Archive,Isolat Bactérien Archivé
+Tissue Archive,TIS-A,H,Y,64,Tissue Archive,Tissu Archivé
+Tablet Archive,TAB-A,O,Y,65,Tablet Archive,Comprimé Archivé
+Cryovial Sample,CRYO,O,Y,66,Cryovial Sample,Échantillon Cryovial
+Paraffin Block,PARAF,H,Y,67,Paraffin Block,Bloc de Paraffine
+Slide Archive,SLIDE,H,Y,68,Slide Archive,Lame Archivée
+Aliquot Sample,ALIQ,O,Y,69,Aliquot Sample,Échantillon Aliquote
+Derived Sample,DER,O,Y,70,Derived Sample,Échantillon Dérivé
+Chemical Archive,CHEM-A,O,Y,71,Chemical Archive,Produit Chimique Archivé
+Non-Biological Archive,NBA,O,Y,72,Non-Biological Archive,Archive Non Biologique
+Biological Archive,BIA,O,Y,73,Biological Archive,Archive Biologique
+External Collaborator Sample,EXT-C,O,Y,74,External Collaborator Sample,Échantillon de Collaborateur Externe
+Retrieved Sample,RET,O,Y,75,Retrieved Sample,Échantillon Récupéré
+Checked Out Sample,CHK-OUT,O,Y,76,Checked Out Sample,Échantillon Sorti
+Sample In Analysis,IN-ANLYS,O,Y,77,Sample In Analysis,Échantillon en Analyse
+Returned Sample,RTN,O,Y,78,Returned Sample,Échantillon Retourné
+Sample for Disposal,DISP,O,Y,79,Sample for Disposal,Échantillon pour Élimination
+QC Verified Sample,QC-VER,O,Y,80,QC Verified Sample,Échantillon Vérifié QC

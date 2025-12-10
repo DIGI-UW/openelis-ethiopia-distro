@@ -1,0 +1,175 @@
+testName,sampleType
+TB Sample Accession,TB Sputum
+TB Sample Accession,TB Body Fluid
+TB Sample Accession,TB Swab
+TB Sample Accession,TB Tissue
+TB Sample Accession,Other TB Sample
+TB Test Request Documentation,TB Sputum
+TB Test Request Documentation,TB Body Fluid
+TB Test Request Documentation,TB Swab
+TB Test Request Documentation,TB Tissue
+TB Test Request Documentation,Other TB Sample
+TB Patient Metadata Registration,TB Sputum
+TB Patient Metadata Registration,TB Body Fluid
+TB Patient Metadata Registration,TB Swab
+TB Patient Metadata Registration,TB Tissue
+TB Patient Metadata Registration,Other TB Sample
+TB Sample ID Assignment,TB Sputum
+TB Sample ID Assignment,TB Body Fluid
+TB Sample ID Assignment,TB Swab
+TB Sample ID Assignment,TB Tissue
+TB Sample ID Assignment,Other TB Sample
+TB Sample Reception,TB Sputum
+TB Sample Reception,TB Body Fluid
+TB Sample Reception,TB Swab
+TB Sample Reception,TB Tissue
+TB Sample Reception,Other TB Sample
+TB Raw Sample Quality Check,TB Sputum
+TB Raw Sample Quality Check,TB Body Fluid
+TB Raw Sample Quality Check,TB Swab
+TB Raw Sample Quality Check,TB Tissue
+TB Raw Sample Quality Check,Other TB Sample
+TB Sample Leak Check,TB Sputum
+TB Sample Leak Check,TB Body Fluid
+TB Sample Leak Check,TB Swab
+TB Sample Leak Check,TB Tissue
+TB Sample Leak Check,Other TB Sample
+TB Transportation Check,TB Sputum
+TB Transportation Check,TB Body Fluid
+TB Transportation Check,TB Swab
+TB Transportation Check,TB Tissue
+TB Transportation Check,Other TB Sample
+TB Temperature Verification,TB Sputum
+TB Temperature Verification,TB Body Fluid
+TB Temperature Verification,TB Swab
+TB Temperature Verification,TB Tissue
+TB Temperature Verification,Other TB Sample
+TB Triple Packaging Verification,TB Sputum
+TB Triple Packaging Verification,TB Body Fluid
+TB Triple Packaging Verification,TB Swab
+TB Triple Packaging Verification,TB Tissue
+TB Triple Packaging Verification,Other TB Sample
+TB Label Completeness Check,TB Sputum
+TB Label Completeness Check,TB Body Fluid
+TB Label Completeness Check,TB Swab
+TB Label Completeness Check,TB Tissue
+TB Label Completeness Check,Other TB Sample
+TB Request Sample Match Verification,TB Sputum
+TB Request Sample Match Verification,TB Body Fluid
+TB Request Sample Match Verification,TB Swab
+TB Request Sample Match Verification,TB Tissue
+TB Request Sample Match Verification,Other TB Sample
+TB Volume Sufficiency Check,TB Sputum
+TB Volume Sufficiency Check,TB Body Fluid
+TB Volume Sufficiency Check,TB Swab
+TB Volume Sufficiency Check,TB Tissue
+TB Volume Sufficiency Check,Other TB Sample
+TB Quality Check Pass,TB Quality Checked Sample
+TB Quality Check Fail,TB Failed QC Sample
+TB Sample Rejection,TB Failed QC Sample
+TB Failed Sample Notification,TB Failed QC Sample
+TB System Registration,TB Quality Checked Sample
+TB Sample Labeling,TB Quality Checked Sample
+TB Barcode Generation,TB Quality Checked Sample
+TB Temporary Storage Assignment,TB Temporary Storage Sample
+TB Long-Term Storage Assignment,TB Long-Term Storage Sample
+TB Shipment Storage Assignment,TB Shipment Sample
+TB Processing Date Registration,TB Processed Sample
+TB Media Preparation,TB Culture Media
+TB Reagent Selection,TB Culture Media
+TB Instrument Selection,TB Culture Media
+TB Media Incubation,TB Culture Media
+TB Bacterial Growth Check,TB Culture Media
+TB Culture Method LJ,TB Inoculated LJ Medium
+TB Culture Method MGIT,TB Inoculated MGIT Medium
+TB Sample Inoculation,TB Inoculated LJ Medium
+TB Sample Inoculation,TB Inoculated MGIT Medium
+TB Culture Week 1 Reading,TB Culture Week 1
+TB Culture Week 2 Reading,TB Culture Week 2
+TB Culture Week 3 Reading,TB Culture Week 3
+TB Culture Week 4 Reading,TB Culture Week 4
+TB Culture Week 5 Reading,TB Culture Week 5
+TB Culture Week 6 Reading,TB Culture Week 6
+TB Culture Week 7 Reading,TB Culture Week 7
+TB Culture Week 8 Reading,TB Culture Week 8
+TB Culture Positive Result,TB Culture Positive
+TB Culture Negative Result,TB Culture Negative
+TB NTM Detection,TB NTM
+TB Culture Contamination,TB Contaminated Culture
+TB Smear Preparation,TB Smear Sample
+TB AFB Smear Microscopy,TB AFB Smear
+TB ZN Staining,TB ZN Stained Sample
+TB Concentrated Smear,TB Concentrated Sample
+TB Fluorescence Staining,TB Fluorescence Stained Sample
+TB AFB Scanty Result,TB AFB Smear
+TB AFB 1+ Result,TB AFB Smear
+TB AFB 2+ Result,TB AFB Smear
+TB AFB 3+ Result,TB AFB Smear
+TB AFB Negative Result,TB AFB Smear
+TB GeneXpert Test,TB GeneXpert Sample
+TB GeneXpert MTB Detected,TB GeneXpert Sample
+TB GeneXpert MTB Not Detected,TB GeneXpert Sample
+TB GeneXpert RIF Detected,TB GeneXpert Sample
+TB GeneXpert RIF Indeterminate,TB GeneXpert Sample
+TB Real-Time PCR,TB GeneXpert Sample
+TB MTB Identification,TB MTB Isolate
+TB BHI/BA Culture,TB BHI/BA Culture
+TB Rapid Test Kit,TB Rapid Test Sample
+TB Colony Isolation,TB Colony Isolate
+TB DST Phenotypic 1st Line,TB DST 1st Line Sample
+TB DST Phenotypic 2nd Line,TB DST 2nd Line Sample
+TB DST Molecular 1st Line,TB Molecular DST Sample
+TB DST INH Test,TB INH Tested
+TB DST RMP Test,TB RMP Tested
+TB DST STM Test,TB STM Tested
+TB DST EMB Test,TB EMB Tested
+TB DST PZA Test,TB PZA Tested
+TB DST FLQ Test,TB FLQ Tested
+TB DST KAN Test,TB KAN Tested
+TB DST AMK Test,TB AMK Tested
+TB DST CAP Test,TB CAP Tested
+TB DST VIO Test,TB VIO Tested
+TB DST Low Level KAN,TB KAN Tested
+TB DST Sensitive Result,TB DST 1st Line Sample
+TB DST Sensitive Result,TB DST 2nd Line Sample
+TB DST Resistance Result,TB DST 1st Line Sample
+TB DST Resistance Result,TB DST 2nd Line Sample
+TB DST Invalid Result,TB DST 1st Line Sample
+TB DST Invalid Result,TB DST 2nd Line Sample
+TB Isolate Storage Assignment,TB Stored Isolate
+TB Isolate Freezer Location,TB Stored Isolate
+TB Result Entry,TB Culture Positive
+TB Result Entry,TB AFB Smear
+TB Result Entry,TB GeneXpert Sample
+TB Result Entry,TB DST 1st Line Sample
+TB Result Entry,TB DST 2nd Line Sample
+TB Result Reporting,TB Culture Positive
+TB Result Reporting,TB AFB Smear
+TB Result Reporting,TB GeneXpert Sample
+TB Result Reporting,TB DST 1st Line Sample
+TB Result Reporting,TB DST 2nd Line Sample
+TB Result Review,TB Culture Positive
+TB Result Review,TB AFB Smear
+TB Result Review,TB GeneXpert Sample
+TB Result Review,TB DST 1st Line Sample
+TB Result Review,TB DST 2nd Line Sample
+TB Result Comment,TB Culture Positive
+TB Result Comment,TB AFB Smear
+TB Result Comment,TB GeneXpert Sample
+TB Result Comment,TB DST 1st Line Sample
+TB Result Comment,TB DST 2nd Line Sample
+TB Data Export to LMS,TB Culture Positive
+TB Data Export to LMS,TB AFB Smear
+TB Data Export to LMS,TB GeneXpert Sample
+TB Data Export to LMS,TB DST 1st Line Sample
+TB Data Export to LMS,TB DST 2nd Line Sample
+TB Data Analysis,TB Culture Positive
+TB Data Analysis,TB AFB Smear
+TB Data Analysis,TB GeneXpert Sample
+TB Data Analysis,TB DST 1st Line Sample
+TB Data Analysis,TB DST 2nd Line Sample
+TB REDCap Integration,TB Culture Positive
+TB REDCap Integration,TB AFB Smear
+TB REDCap Integration,TB GeneXpert Sample
+TB REDCap Integration,TB DST 1st Line Sample
+TB REDCap Integration,TB DST 2nd Line Sample

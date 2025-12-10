@@ -1,0 +1,26 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Molecular Sample Reception,Molecular Biology,Raw Biological Material|Pre-Extracted DNA|Pre-Extracted RNA,,Y,Y,200,,Molecular Sample Reception,Réception d'Échantillon Moléculaire
+Sample Identification and Registration,Molecular Biology,Raw Biological Material|Pre-Extracted DNA|Pre-Extracted RNA,,Y,Y,201,,Sample Identification and Registration,Identification et Enregistrement d'Échantillon
+DNA Extraction,Molecular Biology,Blood Sample|Body Fluid|Swab Sample|Sputum Sample|Biopsy Sample|Fixed Tissue|Mammalian Cells|Bacterial Cells|Yeast Cells|Environmental Sample|Soil Sample|Water Sample,,Y,Y,202,,DNA Extraction,Extraction d'ADN
+RNA Extraction,Molecular Biology,Blood Sample|Body Fluid|Swab Sample|Sputum Sample|Biopsy Sample|Fixed Tissue|Mammalian Cells|Viral Particles|Bacterial Cells|Yeast Cells,,Y,Y,203,,RNA Extraction,Extraction d'ARN
+NanoDrop Quantification,Molecular Biology,Extracted Nucleic Acid|Pre-Extracted DNA|Pre-Extracted RNA,LA26336-8,Y,Y,204,ng/uL,NanoDrop Quantification,Quantification NanoDrop
+Qubit Quantification,Molecular Biology,Extracted Nucleic Acid|Pre-Extracted DNA|Pre-Extracted RNA,LA26337-6,Y,Y,205,ng/uL,Qubit Quantification,Quantification Qubit
+Purity Assessment A260/A280,Molecular Biology,Extracted Nucleic Acid|Pre-Extracted DNA|Pre-Extracted RNA,,Y,Y,206,ratio,Purity Assessment A260/A280,Évaluation de Pureté A260/A280
+Purity Assessment A260/A230,Molecular Biology,Extracted Nucleic Acid|Pre-Extracted DNA|Pre-Extracted RNA,,Y,Y,207,ratio,Purity Assessment A260/A230,Évaluation de Pureté A260/A230
+Gel Electrophoresis Post-Extraction,Molecular Biology,Extracted Nucleic Acid|Quality Checked DNA|Quality Checked RNA,,Y,Y,208,,Gel Electrophoresis Post-Extraction,Électrophorèse sur Gel Post-Extraction
+Gel Electrophoresis Post-PCR,Molecular Biology,PCR Product|Amplified DNA,,Y,Y,209,,Gel Electrophoresis Post-PCR,Électrophorèse sur Gel Post-PCR
+PCR Amplification,Molecular Biology,Quality Checked DNA|Quality Checked RNA|Extracted Nucleic Acid,21415-5,Y,Y,210,,PCR Amplification,Amplification PCR
+PCR Result Reporting,Molecular Biology,PCR Product,,Y,Y,211,,PCR Result Reporting,Rapport de Résultat PCR
+DNA Fragmentation,Molecular Biology,Amplified DNA|Quality Checked DNA,,Y,Y,212,,DNA Fragmentation,Fragmentation d'ADN
+End Repair,Molecular Biology,Fragmented DNA,,Y,Y,213,,End Repair,Réparation des Extrémités
+Adapter Ligation,Molecular Biology,Fragmented DNA,,Y,Y,214,,Adapter Ligation,Ligation d'Adaptateur
+Library Amplification,Molecular Biology,Fragmented DNA,,Y,Y,215,,Library Amplification,Amplification de Bibliothèque
+Size Selection and Cleanup,Molecular Biology,Library,,Y,Y,216,,Size Selection and Cleanup,Sélection de Taille et Nettoyage
+Library QC,Molecular Biology,Library,,Y,Y,217,,Library Quality Control,Contrôle Qualité de Bibliothèque
+Bioanalyzer Analysis,Molecular Biology,Library|PCR Product,LA26472-1,Y,Y,218,,Bioanalyzer Analysis,Analyse Bioanalyseur
+Library Normalization,Molecular Biology,Library,,Y,Y,219,nM,Library Normalization,Normalisation de Bibliothèque
+Final Library Quantity Check,Molecular Biology,Normalized Library,,Y,Y,220,nM,Final Library Quantity Check,Vérification Finale de Quantité de Bibliothèque
+Sequencing Instrument Loading,Molecular Biology,Sequencing Ready Library,,Y,Y,221,,Sequencing Instrument Loading,Chargement d'Instrument de Séquençage
+NGS Sequencing,Molecular Biology,Sequencing Ready Library,81304-8,Y,Y,222,,Next Generation Sequencing,Séquençage de Nouvelle Génération
+Data Submission to Bioinformatics,Molecular Biology,Sequencing Ready Library|PCR Product,,Y,Y,223,,Data Submission to Bioinformatics,Soumission de Données à la Bioinformatique
+Molecular Sample Archive Transfer,Molecular Biology,Raw Biological Material|Extracted Nucleic Acid|Library,,Y,Y,224,,Molecular Sample Archive Transfer,Transfert d'Archives d'Échantillon Moléculaire

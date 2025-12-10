@@ -1,0 +1,8 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+Bulk Project Sample,BPS,H,Y,20,Bulk Project Sample,Échantillon de Projet en Vrac
+Isolated Cells,IC,H,Y,21,Isolated Cells,Cellules Isolées
+PBMC,PBMC,H,Y,22,Peripheral Blood Mononuclear Cells,Cellules Mononucléées du Sang Périphérique
+Processed Immunology Sample,PIS,H,Y,23,Processed Immunology Sample,Échantillon Immunologique Traité
+Fresh Immunology Sample,FIS,H,Y,24,Fresh Immunology Sample,Échantillon Immunologique Frais
+Frozen Immunology Sample,FZIS,H,Y,25,Frozen Immunology Sample,Échantillon Immunologique Congelé
+Incubated Sample,INC,H,Y,26,Incubated Sample,Échantillon Incubé

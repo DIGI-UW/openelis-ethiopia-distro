@@ -1,0 +1,196 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Path Alert Hospital Reception,Histopathology,Path Alert Hospital Sample,,Y,Y,1300,,Path Alert Hospital Reception,Réception Hôpital Alert Pathologie
+Path Research Project Reception,Histopathology,Path Research Project Sample,,Y,Y,1301,,Path Research Project Reception,Réception Projet Recherche Pathologie
+Path Clinical Sample Reception,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1302,,Path Clinical Sample Reception,Réception Échantillon Clinique Pathologie
+Path Histopathology Reception,Histopathology,Path FFPE Tissue Block|Path Fresh Biopsy|Path Surgical Resection,,Y,Y,1303,,Path Histopathology Reception,Réception Histopathologie Pathologie
+Path Cytopathology Reception,Cytology,Path FNA|Path Pleural Fluid|Path Peritoneal Fluid|Path Pericardial Fluid|Path CSF|Path Urine Cytology|Path Sputum Cytology|Path Cervical Smear,,Y,Y,1304,,Path Cytopathology Reception,Réception Cytopathologie Pathologie
+Path Hematology Reception,Hematology,Path EDTA Blood|Path Peripheral Blood Smear,,Y,Y,1305,,Path Hematology Reception,Réception Hématologie Pathologie
+Path Research Sample Reception,Histopathology,Path Human Fresh Tissue|Path Human Frozen Tissue|Path Human FFPE Research|Path Animal Tissue|Path Bacterial Pellet|Path Primary Cell Culture,,Y,Y,1306,,Path Research Sample Reception,Réception Échantillon Recherche Pathologie
+Path Registry Free Text Entry,Histopathology,Path Alert Hospital Sample|Path Research Project Sample,,Y,Y,1307,,Path Registry Free Text Entry,Saisie Texte Libre Registre Pathologie
+Path Clinical Metadata Entry,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1308,,Path Clinical Metadata Entry,Saisie Métadonnées Clinique Pathologie
+Path Patient ID Registration,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1309,,Path Patient ID Registration,Enregistrement ID Patient Pathologie
+Path Clinician Registration,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1310,,Path Clinician Registration,Enregistrement Clinicien Pathologie
+Path Collection DateTime Registration,Histopathology,Path Alert Hospital Sample|Path Research Project Sample,,Y,Y,1311,,Path Collection DateTime Registration,Enregistrement Date Heure Collecte Pathologie
+Path Specimen Type Site Registration,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1312,,Path Specimen Type Site Registration,Enregistrement Type Site Spécimen Pathologie
+Path Clinical Details Entry,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1313,,Path Clinical Details Entry,Saisie Détails Cliniques Pathologie
+Path Research Metadata Entry,Histopathology,Path Research Project Sample,,Y,Y,1314,,Path Research Metadata Entry,Saisie Métadonnées Recherche Pathologie
+Path Study ID Registration,Histopathology,Path Research Project Sample,,Y,Y,1315,,Path Study ID Registration,Enregistrement ID Étude Pathologie
+Path PI Name Registration,Histopathology,Path Research Project Sample,,Y,Y,1316,,Path PI Name Registration,Enregistrement Nom IP Pathologie
+Path Participant Animal ID,Histopathology,Path Research Project Sample,,Y,Y,1317,,Path Participant Animal ID,ID Participant Animal Pathologie
+Path Ethical Approval Reference,Histopathology,Path Research Project Sample,,Y,Y,1318,,Path Ethical Approval Reference,Référence Approbation Éthique Pathologie
+Path Lab Accession Number,Histopathology,Path Alert Hospital Sample|Path Research Project Sample,,Y,Y,1319,,Path Lab Accession Number,Numéro Accession Labo Pathologie
+Path Receiving DateTime Entry,Histopathology,Path Alert Hospital Sample|Path Research Project Sample,,Y,Y,1320,,Path Receiving DateTime Entry,Saisie Date Heure Réception Pathologie
+Path Receiving Staff Registration,Histopathology,Path Alert Hospital Sample|Path Research Project Sample,,Y,Y,1321,,Path Receiving Staff Registration,Enregistrement Personnel Réception Pathologie
+Path Initial Inspection,Histopathology,Path Clinical Diagnostic Sample|Path Research Project Sample,,Y,Y,1322,,Path Initial Inspection,Inspection Initiale Pathologie
+Path Requisition Label Match,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1323,,Path Requisition Label Match,Correspondance Étiquette Réquisition Pathologie
+Path Histology Fixation Check,Histopathology,Path NBF Fixed Sample,,Y,Y,1324,,Path Histology Fixation Check,Vérification Fixation Histologie Pathologie
+Path NBF 10to1 Ratio Check,Histopathology,Path NBF Fixed Sample,,Y,Y,1325,,Path NBF 10to1 Ratio Check,Vérification Ratio NBF 10:1 Pathologie
+Path Fixation Duration Check,Histopathology,Path NBF Fixed Sample,,Y,Y,1326,hours,Path Fixation Duration Check,Vérification Durée Fixation Pathologie
+Path Tissue Integrity Check,Histopathology,Path Fresh Biopsy|Path Surgical Resection,,Y,Y,1327,,Path Tissue Integrity Check,Vérification Intégrité Tissu Pathologie
+Path Cytology Container Integrity,Cytology,Path FNA|Path Pleural Fluid|Path Peritoneal Fluid|Path CSF,,Y,Y,1328,,Path Cytology Container Integrity,Intégrité Contenant Cytologie Pathologie
+Path Preservative Type Check,Cytology,Path Cytolyt Preserved,,Y,Y,1329,,Path Preservative Type Check,Vérification Type Conservateur Pathologie
+Path Cytology Volume Check,Cytology,Path Pleural Fluid|Path Peritoneal Fluid|Path CSF,,Y,Y,1330,mL,Path Cytology Volume Check,Vérification Volume Cytologie Pathologie
+Path Clot Presence Check,Cytology,Path Pleural Fluid|Path Peritoneal Fluid,,Y,Y,1331,,Path Clot Presence Check,Vérification Présence Caillot Pathologie
+Path Peripheral Blood Clot Check,Hematology,Path EDTA Blood,,Y,Y,1332,,Path Peripheral Blood Clot Check,Vérification Caillot Sang Périphérique Pathologie
+Path Research Sample Consent,Histopathology,Path Research Project Sample,,Y,Y,1333,,Path Research Sample Consent,Consentement Échantillon Recherche Pathologie
+Path Sample Type Verification,Histopathology,Path Research Project Sample,,Y,Y,1334,,Path Sample Type Verification,Vérification Type Échantillon Pathologie
+Path Storage Medium Check,Histopathology,Path OCT Embedded|Path RNAlater Sample,,Y,Y,1335,,Path Storage Medium Check,Vérification Milieu Stockage Pathologie
+Path Tissue Block QC Post-Embedding,Histopathology,Path Embedded Block Pass|Path Embedded Block Fail,,Y,Y,1336,,Path Tissue Block QC Post-Embedding,CQ Bloc Tissulaire Post-Inclusion Pathologie
+Path Block Surface Check,Histopathology,Path Embedded Block Pass,,Y,Y,1337,,Path Block Surface Check,Vérification Surface Bloc Pathologie
+Path Block Depth Orientation Check,Histopathology,Path Embedded Block Pass,,Y,Y,1338,,Path Block Depth Orientation Check,Vérification Profondeur Orientation Bloc Pathologie
+Path Paraffin Overflow Check,Histopathology,Path Embedded Block Pass,,Y,Y,1339,,Path Paraffin Overflow Check,Vérification Débordement Paraffine Pathologie
+Path Block Crack Detection,Histopathology,Path Embedded Block Fail,,Y,Y,1340,,Path Block Crack Detection,Détection Fissure Bloc Pathologie
+Path Block Bubble Detection,Histopathology,Path Embedded Block Fail,,Y,Y,1341,,Path Block Bubble Detection,Détection Bulle Bloc Pathologie
+Path Tissue Depth Issue,Histopathology,Path Embedded Block Fail,,Y,Y,1342,,Path Tissue Depth Issue,Problème Profondeur Tissu Pathologie
+Path Paraffin Obscuring Tissue,Histopathology,Path Embedded Block Fail,,Y,Y,1343,,Path Paraffin Obscuring Tissue,Paraffine Obscurcissant Tissu Pathologie
+Path Block Re-embedding,Histopathology,Path Re-embedded Block,,Y,Y,1344,,Path Block Re-embedding,Ré-inclusion Bloc Pathologie
+Path Block Melting,Histopathology,Path Re-embedded Block,,Y,Y,1345,,Path Block Melting,Fonte Bloc Pathologie
+Path Logbook Documentation,Histopathology,Path Embedded Block Fail,,Y,Y,1346,,Path Logbook Documentation,Documentation Journal Pathologie
+Path Pathologist Escalation,Histopathology,Path Embedded Block Fail,,Y,Y,1347,,Path Pathologist Escalation,Escalade Pathologiste Pathologie
+Path Master Accession Ledger,Histopathology,Path QC Pass Sample|Path QC Fail Sample,,Y,Y,1348,,Path Master Accession Ledger,Grand Livre Accession Pathologie
+Path QC Status Entry,Histopathology,Path QC Pass Sample|Path QC Fail Sample,,Y,Y,1349,,Path QC Status Entry,Saisie Statut CQ Pathologie
+Path QC Remarks Entry,Histopathology,Path QC Fail Sample,,Y,Y,1350,,Path QC Remarks Entry,Saisie Remarques CQ Pathologie
+Path Staff Initials Entry,Histopathology,Path QC Pass Sample|Path QC Fail Sample,,Y,Y,1351,,Path Staff Initials Entry,Saisie Initiales Personnel Pathologie
+Path QC Date Entry,Histopathology,Path QC Pass Sample|Path QC Fail Sample,,Y,Y,1352,,Path QC Date Entry,Saisie Date CQ Pathologie
+Path Failed QC Notification,Histopathology,Path QC Fail Sample,,Y,Y,1353,,Path Failed QC Notification,Notification CQ Échoué Pathologie
+Path Submitter Notification,Histopathology,Path QC Fail Sample,,Y,Y,1354,,Path Submitter Notification,Notification Soumetteur Pathologie
+Path Lab Head Notification,Histopathology,Path QC Fail Sample,,Y,Y,1355,,Path Lab Head Notification,Notification Chef Labo Pathologie
+Path Action Documentation,Histopathology,Path QC Fail Sample,,Y,Y,1356,,Path Action Documentation,Documentation Action Pathologie
+Path Recollection Request,Histopathology,Path QC Fail Sample,,Y,Y,1357,,Path Recollection Request,Demande Recollecte Pathologie
+Path Process with Limitations,Histopathology,Path QC Fail Sample,,Y,Y,1358,,Path Process with Limitations,Traiter avec Limitations Pathologie
+Path PI Usability Decision,Histopathology,Path Research Project Sample,,Y,Y,1359,,Path PI Usability Decision,Décision Utilisabilité IP Pathologie
+Path Grossing,Histopathology,Path Grossed Sample,,Y,Y,1360,,Path Grossing,Macroscopie Pathologie
+Path Aliquoting,Histopathology,Path Aliquoted Sample,,Y,Y,1361,,Path Aliquoting,Aliquotage Pathologie
+Path Tissue Block Sectioning,Histopathology,Path Slide Sample,,Y,Y,1362,,Path Tissue Block Sectioning,Section Bloc Tissulaire Pathologie
+Path Cytology Pellet Sectioning,Cytology,Path Slide Sample,,Y,Y,1363,,Path Cytology Pellet Sectioning,Section Culot Cytologie Pathologie
+Path Fluid Aliquoting LBC,Cytology,Path LBC Sample,,Y,Y,1364,,Path Fluid Aliquoting LBC,Aliquotage Liquide LBC Pathologie
+Path Fluid Aliquoting Cell Block,Cytology,Path Cell Block,,Y,Y,1365,,Path Fluid Aliquoting Cell Block,Aliquotage Liquide Bloc Cellulaire Pathologie
+Path Fluid Aliquoting Molecular,Histopathology,Path Molecular Testing Sample,,Y,Y,1366,,Path Fluid Aliquoting Molecular,Aliquotage Liquide Moléculaire Pathologie
+Path Fluid Aliquoting Biobanking,Histopathology,Path Biobanking Sample,,Y,Y,1367,,Path Fluid Aliquoting Biobanking,Aliquotage Liquide Biobanque Pathologie
+Path Parent Accession Labeling,Histopathology,Path Aliquoted Sample,,Y,Y,1368,,Path Parent Accession Labeling,Étiquetage Accession Parent Pathologie
+Path Unique ID Assignment,Histopathology,Path Aliquoted Sample,,Y,Y,1369,,Path Unique ID Assignment,Attribution ID Unique Pathologie
+Path Parent-Child Relationship,Histopathology,Path Aliquoted Sample,,Y,Y,1370,,Path Parent-Child Relationship,Relation Parent-Enfant Pathologie
+Path Gross Examination,Histopathology,Path Grossed Sample,11526-1,Y,Y,1371,,Path Gross Examination,Examen Macroscopique Pathologie
+Path Gross Description,Histopathology,Path Grossed Sample,,Y,Y,1372,,Path Gross Description,Description Macroscopique Pathologie
+Path Pathologist Sectioning,Histopathology,Path Grossed Sample,,Y,Y,1373,,Path Pathologist Sectioning,Section Pathologiste Pathologie
+Path Assistant Sectioning,Histopathology,Path Grossed Sample,,Y,Y,1374,,Path Assistant Sectioning,Section Assistant Pathologie
+Path Alcohol Processing,Histopathology,Path Alcohol Processed,,Y,Y,1375,,Path Alcohol Processing,Traitement Alcool Pathologie
+Path Xylene Processing,Histopathology,Path Xylene Processed,,Y,Y,1376,,Path Xylene Processing,Traitement Xylène Pathologie
+Path Paraffin Embedding,Histopathology,Path Paraffin Embedded,,Y,Y,1377,,Path Paraffin Embedding,Inclusion Paraffine Pathologie
+Path Microtomy 3-5um,Histopathology,Path Microtomy Section,,Y,Y,1378,µm,Path Microtomy 3-5um,Microtomie 3-5µm Pathologie
+Path H&E Section,Histopathology,Path Microtomy Section,,Y,Y,1379,,Path H&E Section,Section H&E Pathologie
+Path IHC Section,Histopathology,Path Microtomy Section,,Y,Y,1380,,Path IHC Section,Section IHC Pathologie
+Path Fluid Centrifugation,Cytology,Path Centrifuged Fluid,,Y,Y,1381,RPM,Path Fluid Centrifugation,Centrifugation Liquide Pathologie
+Path Sediment Smears,Cytology,Path Cytology Sediment,,Y,Y,1382,,Path Sediment Smears,Frottis Sédiment Pathologie
+Path LBC ThinPrep,Cytology,Path ThinPrep Sample,,Y,Y,1383,,Path LBC ThinPrep,LBC ThinPrep Pathologie
+Path Cell Block Preparation,Cytology,Path Cell Block,,Y,Y,1384,,Path Cell Block Preparation,Préparation Bloc Cellulaire Pathologie
+Path FNA Direct Smear,Cytology,Path FNA Direct Smear,,Y,Y,1385,,Path FNA Direct Smear,Frottis Direct FNA Pathologie
+Path Romanowsky Stain FNA,Cytology,Path Romanowsky Stained,11528-7,Y,Y,1386,,Path Romanowsky Stain FNA,Coloration Romanowsky FNA Pathologie
+Path Pap Stain FNA,Cytology,Path Pap Stained,47527-7,Y,Y,1387,,Path Pap Stain FNA,Coloration Pap FNA Pathologie
+Path Needle Rinse Cell Block,Cytology,Path Needle Rinse,,Y,Y,1388,,Path Needle Rinse Cell Block,Bloc Cellulaire Rinçage Aiguille Pathologie
+Path Cell Block from Clot,Cytology,Path Clot Sample,,Y,Y,1389,,Path Cell Block from Clot,Bloc Cellulaire de Caillot Pathologie
+Path Cell Block from Pellet,Cytology,Path Cellular Pellet,,Y,Y,1390,,Path Cell Block from Pellet,Bloc Cellulaire de Culot Pathologie
+Path Cell Block Histology,Cytology,Path Cell Block,,Y,Y,1391,,Path Cell Block Histology,Histologie Bloc Cellulaire Pathologie
+Path Cell Block IHC,Cytology,Path Cell Block,,Y,Y,1392,,Path Cell Block IHC,IHC Bloc Cellulaire Pathologie
+Path Wedge Smear Preparation,Hematology,Path Wedge Smear,,Y,Y,1393,,Path Wedge Smear Preparation,Préparation Frottis en Coin Pathologie
+Path Giemsa Stain Blood,Hematology,Path Giemsa Stained,664-3,Y,Y,1394,,Path Giemsa Stain Blood,Coloration Giemsa Sang Pathologie
+Path Wright Stain Blood,Hematology,Path Wright Stained,664-3,Y,Y,1395,,Path Wright Stain Blood,Coloration Wright Sang Pathologie
+Path Study SOP Processing,Histopathology,Path Research Project Sample,,Y,Y,1396,,Path Study SOP Processing,Traitement SOP Étude Pathologie
+Path LN2 Freezing,Histopathology,Path LN2 Frozen,,Y,Y,1397,,Path LN2 Freezing,Congélation LN2 Pathologie
+Path OCT Embedding,Histopathology,Path OCT Embedded,,Y,Y,1398,,Path OCT Embedding,Inclusion OCT Pathologie
+Path Nucleic Acid Extraction,Histopathology,Path Molecular Testing Sample,,Y,Y,1399,,Path Nucleic Acid Extraction,Extraction Acide Nucléique Pathologie
+Path Processing Logbook Entry,Histopathology,Path Grossed Sample,,Y,Y,1400,,Path Processing Logbook Entry,Saisie Journal Traitement Pathologie
+Path Processing Step Documentation,Histopathology,Path Grossed Sample,,Y,Y,1401,,Path Processing Step Documentation,Documentation Étape Traitement Pathologie
+Path H&E Staining,Histopathology,Path H&E Stained,11526-1,Y,Y,1402,,Path H&E Staining,Coloration H&E Pathologie
+Path Papanicolaou Staining,Cytology,Path Pap Stained,47527-7,Y,Y,1403,,Path Papanicolaou Staining,Coloration Papanicolaou Pathologie
+Path Romanowsky Staining,Cytology,Path Romanowsky Stained,11528-7,Y,Y,1404,,Path Romanowsky Staining,Coloration Romanowsky Pathologie
+Path AFB Staining,Histopathology,Path AFB Stained,664-3,Y,Y,1405,,Path AFB Staining,Coloration AFB Pathologie
+Path GMS Staining,Histopathology,Path GMS Stained,,Y,Y,1406,,Path GMS Staining,Coloration GMS Pathologie
+Path PAS Staining,Histopathology,Path PAS Stained,,Y,Y,1407,,Path PAS Staining,Coloration PAS Pathologie
+Path Gram Staining,Histopathology,Path Gram Stained,664-3,Y,Y,1408,,Path Gram Staining,Coloration Gram Pathologie
+Path IHC FFPE Block,Histopathology,Path IHC Sample,,Y,Y,1409,,Path IHC FFPE Block,IHC Bloc FFPE Pathologie
+Path ICC Cell Block,Cytology,Path ICC Sample,,Y,Y,1410,,Path ICC Cell Block,ICC Bloc Cellulaire Pathologie
+Path ICC Smear,Cytology,Path ICC Sample,,Y,Y,1411,,Path ICC Smear,ICC Frottis Pathologie
+Path ISH Analysis,Histopathology,Path ISH Sample,,Y,Y,1412,,Path ISH Analysis,Analyse ISH Pathologie
+Path Laser Microdissection,Histopathology,Path Laser Microdissected,,Y,Y,1413,,Path Laser Microdissection,Microdissection Laser Pathologie
+Path Multiplex IHC,Histopathology,Path Multiplex IHC,,Y,Y,1414,,Path Multiplex IHC,IHC Multiplex Pathologie
+Path Immunofluorescent Staining,Histopathology,Path Immunofluorescent,,Y,Y,1415,,Path Immunofluorescent Staining,Coloration Immunofluorescence Pathologie
+Path RNAscope Analysis,Histopathology,Path RNAscope Sample,,Y,Y,1416,,Path RNAscope Analysis,Analyse RNAscope Pathologie
+Path Positive Control Run,Histopathology,Path Positive Control,,Y,Y,1417,,Path Positive Control Run,Exécution Témoin Positif Pathologie
+Path Negative Control Run,Histopathology,Path Negative Control,,Y,Y,1418,,Path Negative Control Run,Exécution Témoin Négatif Pathologie
+Path IHC Control Validation,Histopathology,Path Positive Control|Path Negative Control,,Y,Y,1419,,Path IHC Control Validation,Validation Témoin IHC Pathologie
+Path ICC Control Validation,Cytology,Path Positive Control|Path Negative Control,,Y,Y,1420,,Path ICC Control Validation,Validation Témoin ICC Pathologie
+Path ISH Control Validation,Histopathology,Path Positive Control|Path Negative Control,,Y,Y,1421,,Path ISH Control Validation,Validation Témoin ISH Pathologie
+Path Assay Acceptance,Histopathology,Path IHC Sample|Path ICC Sample|Path ISH Sample,,Y,Y,1422,,Path Assay Acceptance,Acceptation Essai Pathologie
+Path Stain Quality Check,Histopathology,Path H&E Stained,,Y,Y,1423,,Path Stain Quality Check,Vérification Qualité Coloration Pathologie
+Path Clinical Result Verification,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1424,,Path Clinical Result Verification,Vérification Résultat Clinique Pathologie
+Path Certified Pathologist Review,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1425,,Path Certified Pathologist Review,Examen Pathologiste Certifié Pathologie
+Path Microscopy Observation,Histopathology,Path Slide Sample,,Y,Y,1426,,Path Microscopy Observation,Observation Microscopie Pathologie
+Path Pathologist Observation,Histopathology,Path Slide Sample,,Y,Y,1427,,Path Pathologist Observation,Observation Pathologiste Pathologie
+Path PI Observation,Histopathology,Path Research Project Sample,,Y,Y,1428,,Path PI Observation,Observation IP Pathologie
+Path Test Requisition Log,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1429,,Path Test Requisition Log,Journal Réquisition Test Pathologie
+Path Result Logbook Entry,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1430,,Path Result Logbook Entry,Saisie Journal Résultat Pathologie
+Path Accession Number Recording,Histopathology,Path Slide Sample,,Y,Y,1431,,Path Accession Number Recording,Enregistrement Numéro Accession Pathologie
+Path Block Slide ID Recording,Histopathology,Path Slide Sample,,Y,Y,1432,,Path Block Slide ID Recording,Enregistrement ID Bloc Lame Pathologie
+Path Test Name Recording,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1433,,Path Test Name Recording,Enregistrement Nom Test Pathologie
+Path Controls Recording,Histopathology,Path Positive Control|Path Negative Control,,Y,Y,1434,,Path Controls Recording,Enregistrement Témoins Pathologie
+Path Results Recording,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1435,,Path Results Recording,Enregistrement Résultats Pathologie
+Path Signature Recording,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1436,,Path Signature Recording,Enregistrement Signature Pathologie
+Path FFPE Block RT Storage,Histopathology,Path RT Storage,,Y,Y,1437,,Path FFPE Block RT Storage,Stockage TA Bloc FFPE Pathologie
+Path Slide RT Storage,Histopathology,Path RT Storage,,Y,Y,1438,,Path Slide RT Storage,Stockage TA Lame Pathologie
+Path Cell Block RT Storage,Cytology,Path RT Storage,,Y,Y,1439,,Path Cell Block RT Storage,Stockage TA Bloc Cellulaire Pathologie
+Path Residual Cytology 4C,Cytology,Path Refrigerated 4C,,Y,Y,1440,,Path Residual Cytology 4C,Cytologie Résiduelle 4C Pathologie
+Path Frozen Research -80C,Histopathology,Path Frozen -80C,,Y,Y,1441,,Path Frozen Research -80C,Recherche Congelée -80C Pathologie
+Path LN2 Vapor Storage,Histopathology,Path LN2 Vapor Storage,,Y,Y,1442,,Path LN2 Vapor Storage,Stockage Vapeur LN2 Pathologie
+Path Blood Smear Slide Box,Hematology,Path Slide Box Storage,,Y,Y,1443,,Path Blood Smear Slide Box,Boîte Lames Frottis Sanguin Pathologie
+Path Manual Inventory,Histopathology,Path RT Storage|Path Refrigerated 4C|Path Frozen -80C,,Y,Y,1444,,Path Manual Inventory,Inventaire Manuel Pathologie
+Path Storage Location Log,Histopathology,Path RT Storage|Path Refrigerated 4C|Path Frozen -80C,,Y,Y,1445,,Path Storage Location Log,Journal Emplacement Stockage Pathologie
+Path Exact Location Entry,Histopathology,Path RT Storage|Path Refrigerated 4C|Path Frozen -80C,,Y,Y,1446,,Path Exact Location Entry,Saisie Emplacement Exact Pathologie
+Path Date Stored Entry,Histopathology,Path RT Storage|Path Refrigerated 4C|Path Frozen -80C,,Y,Y,1447,,Path Date Stored Entry,Saisie Date Stockage Pathologie
+Path Date Retrieved Entry,Histopathology,Path RT Storage|Path Refrigerated 4C|Path Frozen -80C,,Y,Y,1448,,Path Date Retrieved Entry,Saisie Date Récupération Pathologie
+Path Recipient Signature,Histopathology,Path RT Storage|Path Refrigerated 4C|Path Frozen -80C,,Y,Y,1449,,Path Recipient Signature,Signature Destinataire Pathologie
+Path Environmental Monitoring,Histopathology,Path RT Storage|Path Refrigerated 4C|Path Frozen -80C,,Y,Y,1450,°C,Path Environmental Monitoring,Surveillance Environnementale Pathologie
+Path Temperature Check Twice Daily,Histopathology,Path RT Storage|Path Refrigerated 4C|Path Frozen -80C,,Y,Y,1451,°C,Path Temperature Check Twice Daily,Vérification Température Deux Fois Jour Pathologie
+Path Monthly Specimen Volume,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1452,,Path Monthly Specimen Volume,Volume Spécimen Mensuel Pathologie
+Path Monthly TAT Report,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1453,hours,Path Monthly TAT Report,Rapport TAT Mensuel Pathologie
+Path Monthly Rejection Rate,Histopathology,Path QC Fail Sample,,Y,Y,1454,%,Path Monthly Rejection Rate,Taux Rejet Mensuel Pathologie
+Path Monthly QC Meeting,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1455,,Path Monthly QC Meeting,Réunion QC Mensuelle Pathologie
+Path Log Review,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1456,,Path Log Review,Examen Journal Pathologie
+Path Incident Review,Histopathology,Path QC Fail Sample,,Y,Y,1457,,Path Incident Review,Examen Incident Pathologie
+Path Performance Review,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1458,,Path Performance Review,Examen Performance Pathologie
+Path Specimen Rejection Rate,Histopathology,Path QC Fail Sample,,Y,Y,1459,%,Path Specimen Rejection Rate,Taux Rejet Spécimen Pathologie
+Path Assay Success Rate,Histopathology,Path IHC Sample|Path ICC Sample,,Y,Y,1460,%,Path Assay Success Rate,Taux Succès Essai Pathologie
+Path Turnaround Time,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1461,hours,Path Turnaround Time,Délai Exécution Pathologie
+Path Equipment Downtime,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1462,hours,Path Equipment Downtime,Temps Arrêt Équipement Pathologie
+Path Clinical Retention Policy,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1463,,Path Clinical Retention Policy,Politique Rétention Clinique Pathologie
+Path Research Retention Policy,Histopathology,Path Research Project Sample,,Y,Y,1464,,Path Research Retention Policy,Politique Rétention Recherche Pathologie
+Path National Guideline Compliance,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1465,,Path National Guideline Compliance,Conformité Directive Nationale Pathologie
+Path Protocol Approval Compliance,Histopathology,Path Research Project Sample,,Y,Y,1466,,Path Protocol Approval Compliance,Conformité Approbation Protocole Pathologie
+Path Disposal Logbook Entry,Histopathology,Path Disposal Sample,,Y,Y,1467,,Path Disposal Logbook Entry,Saisie Journal Élimination Pathologie
+Path Disposal Date Entry,Histopathology,Path Disposal Sample,,Y,Y,1468,,Path Disposal Date Entry,Saisie Date Élimination Pathologie
+Path Sample IDs Disposal,Histopathology,Path Disposal Sample,,Y,Y,1469,,Path Sample IDs Disposal,Élimination ID Échantillon Pathologie
+Path Disposal Method Entry,Histopathology,Path Disposal Sample,,Y,Y,1470,,Path Disposal Method Entry,Saisie Méthode Élimination Pathologie
+Path Incineration Disposal,Histopathology,Path Disposal Sample,,Y,Y,1471,,Path Incineration Disposal,Élimination Incinération Pathologie
+Path Autoclaving Disposal,Histopathology,Path Disposal Sample,,Y,Y,1472,,Path Autoclaving Disposal,Élimination Autoclavage Pathologie
+Path Staff Signature Disposal,Histopathology,Path Disposal Sample,,Y,Y,1473,,Path Staff Signature Disposal,Signature Personnel Élimination Pathologie
+Path Unit Head Approval,Histopathology,Path Disposal Sample,,Y,Y,1474,,Path Unit Head Approval,Approbation Chef Unité Pathologie
+Path Storage Log Disposal Mark,Histopathology,Path Disposal Sample,,Y,Y,1475,,Path Storage Log Disposal Mark,Marque Élimination Journal Stockage Pathologie
+Path Physical Archive,Histopathology,Path Archived Sample,,Y,Y,1476,,Path Physical Archive,Archive Physique Pathologie
+Path Logbook Archive,Histopathology,Path Archived Sample,,Y,Y,1477,,Path Logbook Archive,Archive Journal Pathologie
+Path Ledger Archive,Histopathology,Path Archived Sample,,Y,Y,1478,,Path Ledger Archive,Archive Grand Livre Pathologie
+Path Report Archive,Histopathology,Path Archived Sample,,Y,Y,1479,,Path Report Archive,Archive Rapport Pathologie
+Path Fire-Proof Cabinet Storage,Histopathology,Path Archived Sample,,Y,Y,1480,,Path Fire-Proof Cabinet Storage,Stockage Armoire Ignifuge Pathologie
+Path Digital Data Backup,Histopathology,Path Archived Sample,,Y,Y,1481,,Path Digital Data Backup,Sauvegarde Données Numériques Pathologie
+Path Secure Server Backup,Histopathology,Path Archived Sample,,Y,Y,1482,,Path Secure Server Backup,Sauvegarde Serveur Sécurisé Pathologie
+Path SOP Upload,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1483,,Path SOP Upload,Téléchargement SOP Pathologie
+Path SOP Storage,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1484,,Path SOP Storage,Stockage SOP Pathologie
+Path SOP View Access,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1485,,Path SOP View Access,Accès Vue SOP Pathologie
+Path Protocol Update,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1486,,Path Protocol Update,Mise à Jour Protocole Pathologie
+Path Version Control,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1487,,Path Version Control,Contrôle Version Pathologie
+Path Previous Version Access,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1488,,Path Previous Version Access,Accès Version Précédente Pathologie
+Path Upload Edit Access,Histopathology,Path Clinical Diagnostic Sample,,Y,Y,1489,,Path Upload Edit Access,Accès Téléchargement Édition Pathologie
+Path Data Clerk Reception,Histopathology,Path Alert Hospital Sample,,Y,Y,1490,,Path Data Clerk Reception,Réception Commis Données Pathologie
+Path Project Access Control,Histopathology,Path Research Project Sample,,Y,Y,1491,,Path Project Access Control,Contrôle Accès Projet Pathologie
+Path Designated Technician Access,Histopathology,Path Research Project Sample,,Y,Y,1492,,Path Designated Technician Access,Accès Technicien Désigné Pathologie
+Path Project Coordinator Access,Histopathology,Path Research Project Sample,,Y,Y,1493,,Path Project Coordinator Access,Accès Coordinateur Projet Pathologie
+Path Pathologist Access,Histopathology,Path Clinical Diagnostic Sample|Path Research Project Sample,,Y,Y,1494,,Path Pathologist Access,Accès Pathologiste Pathologie

@@ -1,0 +1,331 @@
+testName,sampleType
+Pharm Sample Accession,Pharm API
+Pharm Sample Accession,Pharm Excipient
+Pharm Sample Accession,Pharm Bulk Powder
+Pharm Sample Accession,Pharm Intermediate
+Pharm Sample Accession,Pharm Placebo
+Pharm Sample Accession,Pharm Reference Standard
+Pharm Sample Accession,Pharm Impurity Standard
+Pharm Sample Accession,Pharm Tablet
+Pharm Sample Accession,Pharm Capsule
+Pharm Sample Accession,Pharm Injection
+Pharm Sample Accession,Pharm Cream
+Pharm Sample Accession,Pharm Patch
+Pharm Sample ID Assignment,Pharm API
+Pharm Sample ID Assignment,Pharm Excipient
+Pharm Sample ID Assignment,Pharm Bulk Powder
+Pharm Sample ID Assignment,Pharm Tablet
+Pharm Sample ID Assignment,Pharm Capsule
+Pharm Sample ID Assignment,Pharm Injection
+Pharm Chemical Name Registration,Pharm API
+Pharm Chemical Name Registration,Pharm Excipient
+Pharm IUPAC Name Registration,Pharm API
+Pharm Grade Registration,Pharm API
+Pharm Grade Registration,Pharm Excipient
+Pharm Lot Batch Registration,Pharm API
+Pharm Lot Batch Registration,Pharm Tablet
+Pharm Lot Batch Registration,Pharm Capsule
+Pharm Lot Batch Registration,Pharm Injection
+Pharm Expiry Date Registration,Pharm API
+Pharm Expiry Date Registration,Pharm Tablet
+Pharm Expiry Date Registration,Pharm Capsule
+Pharm Expiry Date Registration,Pharm Injection
+Pharm Storage Condition Registration,Pharm API
+Pharm Storage Condition Registration,Pharm Tablet
+Pharm Storage Condition Registration,Pharm Capsule
+Pharm Owner Registration,Pharm API
+Pharm Owner Registration,Pharm Tablet
+Pharm Chain of Custody Log,Pharm API
+Pharm Chain of Custody Log,Pharm Tablet
+Pharm Chain of Custody Log,Pharm Capsule
+Pharm Chain of Custody Log,Pharm Injection
+Pharm Clinical Trial Info Registration,Pharm Tablet
+Pharm Clinical Trial Info Registration,Pharm Capsule
+Pharm Clinical Trial Info Registration,Pharm Injection
+Pharm Label Accuracy Check,Pharm API
+Pharm Label Accuracy Check,Pharm Tablet
+Pharm Label Accuracy Check,Pharm Capsule
+Pharm Label Accuracy Check,Pharm Injection
+Pharm Container Integrity Check,Pharm API
+Pharm Container Integrity Check,Pharm Tablet
+Pharm Container Integrity Check,Pharm Capsule
+Pharm Container Integrity Check,Pharm Injection
+Pharm Quantity Volume Check,Pharm API
+Pharm Quantity Volume Check,Pharm Tablet
+Pharm Quantity Volume Check,Pharm Capsule
+Pharm Physical Appearance Check,Pharm Tablet
+Pharm Physical Appearance Check,Pharm Capsule
+Pharm Physical Appearance Check,Pharm Injection
+Pharm Physical Appearance Check,Pharm Cream
+Pharm Expiry Validity Check,Pharm API
+Pharm Expiry Validity Check,Pharm Tablet
+Pharm Expiry Validity Check,Pharm Capsule
+Pharm Storage Compliance Check,Pharm API
+Pharm Storage Compliance Check,Pharm Tablet
+Pharm Storage Compliance Check,Pharm Injection
+Pharm Biological Sample Temperature Check,Pharm Human Blood
+Pharm Biological Sample Temperature Check,Pharm Human Plasma
+Pharm Biological Sample Temperature Check,Pharm Human Urine
+Pharm Biological Sample Volume Check,Pharm Human Blood
+Pharm Biological Sample Volume Check,Pharm Human Plasma
+Pharm Biological Sample Volume Check,Pharm Human Urine
+Pharm Biological Sample Hemolysis Check,Pharm Human Blood
+Pharm Biological Sample Clotting Check,Pharm Human Blood
+Pharm Micro Sample Swab Check,Pharm Surface Swab
+Pharm Micro Sample Swab Check,Pharm Equipment Swab
+Pharm Micro Sample Swab Check,Pharm Environment Swab
+Pharm Micro Sample Transport Check,Pharm Surface Swab
+Pharm Micro Sample Transport Check,Pharm Equipment Swab
+Pharm Micro Sample Growth Check,Pharm Microbial Culture
+Pharm Water Sample Container Check,Pharm Purified Water
+Pharm Water Sample Container Check,Pharm WFI
+Pharm Water Sample Sterility Check,Pharm Purified Water
+Pharm Water Sample Sterility Check,Pharm WFI
+Pharm Environmental Sample Swab Check,Pharm Environment Swab
+Pharm Sample Weighing,Pharm Weighed Sample
+Pharm Sample Grinding,Pharm Ground Sample
+Pharm Sample Homogenization,Pharm Homogenized Sample
+Pharm Sample Extraction,Pharm Dissolved Sample
+Pharm Sample Dissolution,Pharm Dissolved Sample
+Pharm Calibration Solution Prep,Pharm Calibration Solution
+Pharm Biological Centrifugation,Pharm Centrifuged Sample
+Pharm Plasma Separation,Pharm Plasma Separated
+Pharm Serum Separation,Pharm Serum Separated
+Pharm Protein Precipitation,Pharm Aliquot
+Pharm Tissue Homogenization,Pharm Tissue Homogenate
+Pharm Micro Streak Culture,Pharm Streaked Culture
+Pharm Sample Filtration,Pharm Filtered Sample
+Pharm Micro Enrichment Culture,Pharm Enriched Culture
+Pharm TLC Identification,Pharm TLC Sample
+Pharm UV Vis Identification,Pharm API
+Pharm UV Vis Identification,Pharm Excipient
+Pharm FTIR Identification,Pharm API
+Pharm FTIR Identification,Pharm Excipient
+Pharm Melting Point Determination,Pharm API
+Pharm HPLC Potency Assay,Pharm HPLC Sample
+Pharm Titration Potency Assay,Pharm API
+Pharm UV Vis Potency Assay,Pharm API
+Pharm HPLC Impurity Profile,Pharm HPLC Sample
+Pharm GC Impurity Profile,Pharm GC Sample
+Pharm LCMS Impurity Profile,Pharm LCMS Sample
+Pharm Related Substances Test,Pharm HPLC Sample
+Pharm Residual Solvent Analysis,Pharm GC Sample
+Pharm Dissolution Test,Pharm Tablet
+Pharm Dissolution Test,Pharm Capsule
+Pharm Disintegration Test,Pharm Tablet
+Pharm Friability Test,Pharm Tablet
+Pharm Hardness Test,Pharm Tablet
+Pharm Thickness Test,Pharm Tablet
+Pharm Uniformity of Mass Test,Pharm Tablet
+Pharm Uniformity of Mass Test,Pharm Capsule
+Pharm Content Uniformity Test,Pharm Tablet
+Pharm Content Uniformity Test,Pharm Capsule
+Pharm Viscosity Test,Pharm Cream
+Pharm Viscosity Test,Pharm Patch
+Pharm pH Test,Pharm Injection
+Pharm pH Test,Pharm Cream
+Pharm Osmolality Test,Pharm Injection
+Pharm Particulate Matter Test,Pharm Injection
+Pharm Stability Accelerated Test,Pharm Stability Sample
+Pharm Stability Long Term Test,Pharm Stability Sample
+Pharm Stability Intermediate Test,Pharm Stability Sample
+Pharm Photostability Test,Pharm Stability Sample
+Pharm Clinical Chemistry Test,Pharm Human Blood
+Pharm Hematology Test,Pharm Human Blood
+Pharm Coagulation Test,Pharm Human Plasma
+Pharm ELISA Biomarker Analysis,Pharm Human Blood
+Pharm ELISA Biomarker Analysis,Pharm Human Plasma
+Pharm ELISA Biomarker Analysis,Pharm Human Serum Separated
+Pharm HPLC Pharmacokinetics,Pharm HPLC Sample
+Pharm LCMS Pharmacokinetics,Pharm LCMS Sample
+Pharm PCR Detection,Pharm Human Blood
+Pharm PCR Detection,Pharm Human Saliva
+Pharm qPCR Quantification,Pharm Human Blood
+Pharm qPCR Quantification,Pharm Human Saliva
+Pharm Western Blot Analysis,Pharm Human Blood
+Pharm Micro TAMC Test,Pharm Tablet
+Pharm Micro TAMC Test,Pharm Capsule
+Pharm Micro TAMC Test,Pharm Cream
+Pharm Micro TAMC Test,Pharm Patch
+Pharm Micro TYMC Test,Pharm Tablet
+Pharm Micro TYMC Test,Pharm Capsule
+Pharm Micro TYMC Test,Pharm Cream
+Pharm Micro LAL Endotoxin Test,Pharm Injection
+Pharm Micro Sterility Test,Pharm Injection
+Pharm Water TOC Test,Pharm Purified Water
+Pharm Water TOC Test,Pharm WFI
+Pharm Water Conductivity Test,Pharm Purified Water
+Pharm Water Conductivity Test,Pharm WFI
+Pharm Water pH Test,Pharm Purified Water
+Pharm Water pH Test,Pharm WFI
+Pharm Water Microbial Test,Pharm Purified Water
+Pharm Water Microbial Test,Pharm WFI
+Pharm Surface Microbial Test,Pharm Surface Swab
+Pharm Equipment Microbial Test,Pharm Equipment Swab
+Pharm Air Microbial Test,Pharm Environment Swab
+Pharm Antimicrobial Efficacy Test,Pharm Tablet
+Pharm Antimicrobial Efficacy Test,Pharm Capsule
+Pharm Antimicrobial Challenge Test,Pharm Cream
+Pharm Antimicrobial Challenge Test,Pharm Injection
+Pharm Herbal Phytochemical Screen,Pharm Plant Root
+Pharm Herbal Phytochemical Screen,Pharm Plant Leaf
+Pharm Herbal Phytochemical Screen,Pharm Plant Stem
+Pharm Herbal Phytochemical Screen,Pharm Plant Flower
+Pharm Herbal Extraction Yield,Pharm Plant Root
+Pharm Herbal Extraction Yield,Pharm Plant Leaf
+Pharm Herbal Extraction Yield,Pharm Plant Stem
+Pharm Herbal Extraction Yield,Pharm Plant Flower
+Pharm Herbal HPLC Fingerprint,Pharm HPLC Sample
+Pharm Herbal Heavy Metal Test,Pharm Plant Root
+Pharm Herbal Heavy Metal Test,Pharm Plant Leaf
+Pharm Herbal Heavy Metal Test,Pharm Plant Stem
+Pharm Herbal Heavy Metal Test,Pharm Plant Flower
+Pharm Herbal Pesticide Residue Test,Pharm Plant Root
+Pharm Herbal Pesticide Residue Test,Pharm Plant Leaf
+Pharm Herbal Pesticide Residue Test,Pharm Plant Stem
+Pharm Herbal Pesticide Residue Test,Pharm Plant Flower
+Pharm Herbal Microbial Load Test,Pharm Plant Root
+Pharm Herbal Microbial Load Test,Pharm Plant Leaf
+Pharm Herbal Microbial Load Test,Pharm Plant Stem
+Pharm Herbal Microbial Load Test,Pharm Plant Flower
+Pharm Herbal Marker Compound Assay,Pharm HPLC Sample
+Pharm Positive Control Analysis,Pharm Positive Control
+Pharm Negative Control Analysis,Pharm Negative Control
+Pharm Internal Standard Addition,Pharm Internal Standard
+Pharm Triplicate Analysis,Pharm Aliquot
+Pharm Method Validation Linearity,Pharm Calibration Solution
+Pharm Method Validation Precision,Pharm Calibration Solution
+Pharm Method Validation Accuracy,Pharm Calibration Solution
+Pharm Method Validation Specificity,Pharm Calibration Solution
+Pharm Method Validation LOD,Pharm Calibration Solution
+Pharm Method Validation LOQ,Pharm Calibration Solution
+Pharm OOS Investigation,Pharm OOS Sample
+Pharm CAPA Initiation,Pharm OOS Sample
+Pharm CAPA Execution,Pharm OOS Sample
+Pharm CAPA Verification,Pharm QC Pass
+Pharm Data Capture ALCOA Check,Pharm API
+Pharm Data Capture ALCOA Check,Pharm Tablet
+Pharm Data Capture ALCOA Check,Pharm Capsule
+Pharm Data Processing,Pharm API
+Pharm Data Processing,Pharm Tablet
+Pharm Data Processing,Pharm Capsule
+Pharm Data Interpretation,Pharm API
+Pharm Data Interpretation,Pharm Tablet
+Pharm Data Interpretation,Pharm Capsule
+Pharm Data Review,Pharm API
+Pharm Data Review,Pharm Tablet
+Pharm Data Review,Pharm Capsule
+Pharm Data Approval,Pharm API
+Pharm Data Approval,Pharm Tablet
+Pharm Data Approval,Pharm Capsule
+Pharm OOS Flag,Pharm OOS Sample
+Pharm Aliquot Creation,Pharm Aliquot
+Pharm Parent Child Mapping,Pharm Aliquot
+Pharm USI Generation,Pharm Aliquot
+Pharm Barcode Generation,Pharm Aliquot
+Pharm QR Code Generation,Pharm Aliquot
+Pharm Storage Room Assignment,Pharm RT Storage
+Pharm Storage Freezer Assignment,Pharm Refrigerated 2-8C
+Pharm Storage Freezer Assignment,Pharm Frozen -20C
+Pharm Storage Freezer Assignment,Pharm Frozen -80C
+Pharm Storage Freezer Assignment,Pharm LN2 Storage
+Pharm Storage Rack Assignment,Pharm Refrigerated 2-8C
+Pharm Storage Rack Assignment,Pharm Frozen -20C
+Pharm Storage Rack Assignment,Pharm Frozen -80C
+Pharm Storage Box Assignment,Pharm Refrigerated 2-8C
+Pharm Storage Box Assignment,Pharm Frozen -20C
+Pharm Storage Box Assignment,Pharm Frozen -80C
+Pharm Storage Position Assignment,Pharm Refrigerated 2-8C
+Pharm Storage Position Assignment,Pharm Frozen -20C
+Pharm Storage Position Assignment,Pharm Frozen -80C
+Pharm Temperature Monitoring,Pharm Refrigerated 2-8C
+Pharm Temperature Monitoring,Pharm Frozen -20C
+Pharm Temperature Monitoring,Pharm Frozen -80C
+Pharm Temperature Monitoring,Pharm LN2 Storage
+Pharm Humidity Monitoring,Pharm RT Storage
+Pharm Alarm System Check,Pharm Frozen -20C
+Pharm Alarm System Check,Pharm Frozen -80C
+Pharm Alarm System Check,Pharm LN2 Storage
+Pharm Backup System Check,Pharm Frozen -80C
+Pharm Backup System Check,Pharm LN2 Storage
+Pharm Contingency Plan Execution,Pharm Frozen -80C
+Pharm Contingency Plan Execution,Pharm LN2 Storage
+Pharm Sample Retrieval Request,Pharm Retrieved Sample
+Pharm Chain of Custody Update,Pharm Retrieved Sample
+Pharm External Shipping Prep,Pharm External Ship
+Pharm IATA Compliance Check,Pharm External Ship
+Pharm GMP Compliance Check,Pharm External Ship
+Pharm MTA Documentation,Pharm External Ship
+Pharm TAT Monitoring,Pharm API
+Pharm TAT Monitoring,Pharm Tablet
+Pharm TAT Monitoring,Pharm Capsule
+Pharm TAT Monitoring,Pharm Injection
+Pharm QC Pass Rate Monitoring,Pharm QC Pass
+Pharm QC Pass Rate Monitoring,Pharm QC Fail
+Pharm Assay Success Rate Monitoring,Pharm API
+Pharm Assay Success Rate Monitoring,Pharm Tablet
+Pharm Monthly Report Generation,Pharm API
+Pharm Monthly Report Generation,Pharm Tablet
+Pharm Monthly Report Generation,Pharm Capsule
+Pharm Disposal Criteria Check,Pharm Disposal Sample
+Pharm Incineration Disposal,Pharm Disposal Sample
+Pharm Chemical Treatment Disposal,Pharm Disposal Sample
+Pharm Autoclave Disposal,Pharm Disposal Sample
+Pharm Landfill Disposal,Pharm Disposal Sample
+Pharm Data Archiving,Pharm Archived Sample
+Pharm Sample Archiving,Pharm Archived Sample
+Pharm Retention Sample Storage,Pharm Retention Sample
+Pharm GMP Data Retention,Pharm Archived Sample
+Pharm GxP Data Retention,Pharm Archived Sample
+Pharm Sample Weighing,Pharm API
+Pharm Sample Weighing,Pharm Excipient
+Pharm Sample Weighing,Pharm Bulk Powder
+Pharm Sample Weighing,Pharm Tablet
+Pharm Sample Grinding,Pharm Tablet
+Pharm Sample Grinding,Pharm Plant Root
+Pharm Sample Grinding,Pharm Plant Leaf
+Pharm Sample Homogenization,Pharm Animal Tissue
+Pharm Sample Homogenization,Pharm Animal Organ
+Pharm Sample Extraction,Pharm API
+Pharm Sample Extraction,Pharm Plant Root
+Pharm Sample Dissolution,Pharm Tablet
+Pharm Sample Dissolution,Pharm Capsule
+Pharm TLC Identification,Pharm API
+Pharm HPLC Potency Assay,Pharm API
+Pharm HPLC Potency Assay,Pharm Tablet
+Pharm HPLC Potency Assay,Pharm Capsule
+Pharm HPLC Impurity Profile,Pharm API
+Pharm HPLC Impurity Profile,Pharm Tablet
+Pharm GC Impurity Profile,Pharm API
+Pharm LCMS Impurity Profile,Pharm API
+Pharm Related Substances Test,Pharm API
+Pharm Related Substances Test,Pharm Tablet
+Pharm Residual Solvent Analysis,Pharm API
+Pharm Residual Solvent Analysis,Pharm Excipient
+Pharm Stability Accelerated Test,Pharm Tablet
+Pharm Stability Accelerated Test,Pharm Capsule
+Pharm Stability Accelerated Test,Pharm Injection
+Pharm Stability Long Term Test,Pharm Tablet
+Pharm Stability Long Term Test,Pharm Capsule
+Pharm Stability Long Term Test,Pharm Injection
+Pharm Stability Intermediate Test,Pharm Tablet
+Pharm Stability Intermediate Test,Pharm Capsule
+Pharm Photostability Test,Pharm Tablet
+Pharm Photostability Test,Pharm Capsule
+Pharm HPLC Pharmacokinetics,Pharm Human Blood
+Pharm HPLC Pharmacokinetics,Pharm Human Plasma
+Pharm LCMS Pharmacokinetics,Pharm Human Blood
+Pharm LCMS Pharmacokinetics,Pharm Human Plasma
+Pharm Micro TAMC Test,Pharm API
+Pharm Micro TAMC Test,Pharm Excipient
+Pharm Micro TYMC Test,Pharm API
+Pharm Micro TYMC Test,Pharm Excipient
+Pharm Glycerol Stock,Pharm Glycerol Stock
+Pharm Cell Culture,Pharm Cell Culture
+Pharm Animal Tissue,Pharm Animal Tissue
+Pharm Animal Organ,Pharm Animal Organ
+Pharm Animal Feces,Pharm Animal Feces
+Pharm Tissue Homogenization,Pharm Animal Tissue
+Pharm Centrifuged Sample,Pharm Centrifuged Sample
+Pharm Snap Frozen,Pharm Snap Frozen
+Pharm Cryovial,Pharm Cryovial

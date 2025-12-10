@@ -1,0 +1,75 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+TM Arrival Sample,TM-ARR,O,Y,610,TM Arrival Sample,Échantillon Arrivée TM
+TM Plant Material,TM-PLANT,O,Y,611,TM Plant Material,Matériel Végétal TM
+TM Traditional Source,TM-TRAD,O,Y,612,TM Traditional Source,Source Traditionnelle TM
+TM Registered Sample,TM-REG,O,Y,613,TM Registered Sample,Échantillon Enregistré TM
+TM Unique ID Sample,TM-UID,O,Y,614,TM Unique ID Sample,Échantillon ID Unique TM
+TM Origin Recorded Sample,TM-ORIG,O,Y,615,TM Origin Recorded Sample,Échantillon Origine Enregistrée TM
+TM Species Sample,TM-SPEC,O,Y,616,TM Species Sample,Échantillon Espèce TM
+TM Collector Sample,TM-COLL,O,Y,617,TM Collector Sample,Échantillon Collecteur TM
+TM Botanical Verification,TM-BOTV,O,Y,618,TM Botanical Verification,Vérification Botanique TM
+TM Expert Identified,TM-EXID,O,Y,619,TM Expert Identified,Identifié Expert TM
+TM Authentication Pass,TM-AUTHP,O,Y,620,TM Authentication Pass,Authentification Passée TM
+TM Authentication Fail,TM-AUTHF,O,Y,621,TM Authentication Fail,Authentification Échouée TM
+TM Refrigerated Storage,TM-REFR,O,Y,622,TM Refrigerated Storage,Stockage Réfrigéré TM
+TM Dried Sample,TM-DRY,O,Y,623,TM Dried Sample,Échantillon Séché TM
+TM Preserved Sample,TM-PRES,O,Y,624,TM Preserved Sample,Échantillon Préservé TM
+TM Herbarium Specimen,TM-HERB,O,Y,625,TM Herbarium Specimen,Spécimen Herbier TM
+TM Mounted Specimen,TM-MOUNT,O,Y,626,TM Mounted Specimen,Spécimen Monté TM
+TM Labeled Specimen,TM-LABEL,O,Y,627,TM Labeled Specimen,Spécimen Étiqueté TM
+TM Cataloged Specimen,TM-CATA,O,Y,628,TM Cataloged Specimen,Spécimen Catalogué TM
+TM Ground Sample,TM-GRND,O,Y,629,TM Ground Sample,Échantillon Broyé TM
+TM Chopped Sample,TM-CHOP,O,Y,630,TM Chopped Sample,Échantillon Haché TM
+TM Powdered Sample,TM-POWD,O,Y,631,TM Powdered Sample,Échantillon Pulvérisé TM
+TM Fresh Processed Sample,TM-FRESH,O,Y,632,TM Fresh Processed Sample,Échantillon Frais Traité TM
+TM Drying Sample,TM-DRYG,O,Y,633,TM Drying Sample,Échantillon Séchage TM
+TM Ethanol Extract,TM-ETOH,O,Y,634,TM Ethanol Extract,Extrait Éthanol TM
+TM Methanol Extract,TM-MEOH,O,Y,635,TM Methanol Extract,Extrait Méthanol TM
+TM Water Extract,TM-H2O,O,Y,636,TM Water Extract,Extrait Eau TM
+TM Maceration Extract,TM-MACER,O,Y,637,TM Maceration Extract,Extrait Macération TM
+TM Soxhlet Extract,TM-SOX,O,Y,638,TM Soxhlet Extract,Extrait Soxhlet TM
+TM Ultrasonic Extract,TM-ULTRA,O,Y,639,TM Ultrasonic Extract,Extrait Ultrasonique TM
+TM Distillation Extract,TM-DIST,O,Y,640,TM Distillation Extract,Extrait Distillation TM
+TM Filtered Extract,TM-FILT,O,Y,641,TM Filtered Extract,Extrait Filtré TM
+TM Debris Removed Extract,TM-DEBR,O,Y,642,TM Debris Removed Extract,Extrait Débris Enlevé TM
+TM Concentrated Extract,TM-CONC,O,Y,643,TM Concentrated Extract,Extrait Concentré TM
+TM Evaporated Extract,TM-EVAP,O,Y,644,TM Evaporated Extract,Extrait Évaporé TM
+TM Enriched Extract,TM-ENRICH,O,Y,645,TM Enriched Extract,Extrait Enrichi TM
+TM Fractionated Sample,TM-FRAC,O,Y,646,TM Fractionated Sample,Échantillon Fractionné TM
+TM Fraction Sample,TM-FRACTION,O,Y,647,TM Fraction Sample,Échantillon Fraction TM
+TM Identified Compound,TM-IDCOMP,O,Y,648,TM Identified Compound,Composé Identifié TM
+TM Active Constituent,TM-ACTIVE,O,Y,649,TM Active Constituent,Constituant Actif TM
+TM Isolated Compound,TM-ISOL,O,Y,650,TM Isolated Compound,Composé Isolé TM
+TM Purified Sample,TM-PURE,O,Y,651,TM Purified Sample,Échantillon Purifié TM
+TM Characterized Compound,TM-CHAR,O,Y,652,TM Characterized Compound,Composé Caractérisé TM
+TM NMR Sample,TM-NMR,O,Y,653,TM NMR Sample,Échantillon RMN TM
+TM MS Sample,TM-MS,O,Y,654,TM MS Sample,Échantillon SM TM
+TM IR Sample,TM-IR,O,Y,655,TM IR Sample,Échantillon IR TM
+TM Spectral Data Sample,TM-SPECDATA,O,Y,656,TM Spectral Data Sample,Échantillon Données Spectrales TM
+TM Production Ready Extract,TM-PRODEXT,O,Y,657,TM Production Ready Extract,Extrait Prêt Production TM
+TM Phytochemical Screen Sample,TM-PHYTO,O,Y,658,TM Phytochemical Screen Sample,Échantillon Criblage Phytochimique TM
+TM Alkaloid Test Sample,TM-ALK,O,Y,659,TM Alkaloid Test Sample,Échantillon Test Alcaloïde TM
+TM Flavonoid Test Sample,TM-FLAV,O,Y,660,TM Flavonoid Test Sample,Échantillon Test Flavonoïde TM
+TM Tannin Test Sample,TM-TAN,O,Y,661,TM Tannin Test Sample,Échantillon Test Tanin TM
+TM Saponin Test Sample,TM-SAP,O,Y,662,TM Saponin Test Sample,Échantillon Test Saponine TM
+TM Terpenoid Test Sample,TM-TERP,O,Y,663,TM Terpenoid Test Sample,Échantillon Test Terpénoïde TM
+TM Safety Test Sample,TM-SAFE,O,Y,664,TM Safety Test Sample,Échantillon Test Sécurité TM
+TM Toxicity Test Sample,TM-TOX,O,Y,665,TM Toxicity Test Sample,Échantillon Test Toxicité TM
+TM In Vitro Test Sample,TM-INVIT,O,Y,666,TM In Vitro Test Sample,Échantillon Test In Vitro TM
+TM Animal Model Test,TM-ANIM,O,Y,667,TM Animal Model Test,Test Modèle Animal TM
+TM Efficacy Test Sample,TM-EFFIC,O,Y,668,TM Efficacy Test Sample,Échantillon Test Efficacité TM
+TM Activity Assay Sample,TM-ASSAY,O,Y,669,TM Activity Assay Sample,Échantillon Essai Activité TM
+TM Capsule Formulation,TM-CAPS,O,Y,670,TM Capsule Formulation,Formulation Gélule TM
+TM Tincture Formulation,TM-TINCT,O,Y,671,TM Tincture Formulation,Formulation Teinture TM
+TM Ointment Formulation,TM-OINT,O,Y,672,TM Ointment Formulation,Formulation Onguent TM
+TM Tea Formulation,TM-TEA,O,Y,673,TM Tea Formulation,Formulation Thé TM
+TM Tablet Formulation,TM-TAB,O,Y,674,TM Tablet Formulation,Formulation Comprimé TM
+TM Syrup Formulation,TM-SYR,O,Y,675,TM Syrup Formulation,Formulation Sirop TM
+TM Cream Formulation,TM-CREAM,O,Y,676,TM Cream Formulation,Formulation Crème TM
+TM Oil Formulation,TM-OIL,O,Y,677,TM Oil Formulation,Formulation Huile TM
+TM QC Pass Sample,TM-QCP,O,Y,678,TM QC Pass Sample,Échantillon QC Passé TM
+TM QC Fail Sample,TM-QCF,O,Y,679,TM QC Fail Sample,Échantillon QC Échoué TM
+TM RT Storage Sample,TM-RTS,O,Y,680,TM RT Storage Sample,Échantillon Stockage TA TM
+TM Cold Storage Sample,TM-COLD,O,Y,681,TM Cold Storage Sample,Échantillon Stockage Froid TM
+TM Archived Sample,TM-ARCH,O,Y,682,TM Archived Sample,Échantillon Archivé TM
+TM Disposal Sample,TM-DISP,O,Y,683,TM Disposal Sample,Échantillon Élimination TM

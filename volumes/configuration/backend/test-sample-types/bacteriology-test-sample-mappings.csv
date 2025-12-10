@@ -1,0 +1,187 @@
+testName,sampleType
+Bacteriology Sample Collection,Bacteriology Blood
+Bacteriology Sample Collection,Bacteriology Urine
+Bacteriology Sample Collection,Bacteriology Stool
+Bacteriology Sample Collection,Cerebrospinal Fluid
+Bacteriology Sample Collection,Pleural Fluid
+Bacteriology Sample Collection,Peritoneal Fluid
+Bacteriology Sample Collection,Pericardial Fluid
+Bacteriology Sample Collection,Amniotic Fluid
+Bacteriology Sample Collection,Synovial Fluid
+Bacteriology Sample Collection,Other Body Fluid
+Environmental Sample Collection,Wastewater
+Environmental Sample Collection,Tap Water
+Environmental Sample Collection,Farm Water
+Environmental Sample Collection,Environmental Soil
+Environmental Sample Collection,Other Environmental Sample
+Food Sample Collection,Vegetables
+Food Sample Collection,Dry Foods
+Food Sample Collection,Dairy Products Food
+Food Sample Collection,Poultry Products
+Food Sample Collection,Canned Foods
+Food Sample Collection,Fruits
+Food Sample Collection,Packed Foods
+Food Sample Collection,Other Food Sample
+Veterinary Sample Collection,Animal Stool
+Veterinary Sample Collection,Animal Tissue
+Veterinary Sample Collection,Other Veterinary Sample
+Sample Transport Medium Assignment,Sample in Amies Medium
+Sample Transport Medium Assignment,Sample in Stuart Medium
+Sample Transport Medium Assignment,Sample in Cary-Blair Medium
+Sample Transport Medium Assignment,Sample in TIM Medium
+Sample Transport Medium Assignment,Sample in Blood Culture Bottle
+Sample Transport Medium Assignment,Sample in Other Transport Medium
+Enrichment Medium Assignment,Sample in Peptone Water
+Enrichment Medium Assignment,Sample in Buffer
+Enrichment Medium Assignment,Sample in TSB/BHI
+Enrichment Medium Assignment,Sample in Other Enrichment Medium
+Bacteriology Sample Labeling,Bacteriology Blood
+Bacteriology Sample Labeling,Bacteriology Urine
+Bacteriology Sample Labeling,Bacteriology Stool
+Bacteriology Sample Labeling,Clinical Isolate
+Barcode Assignment,Bacteriology Blood
+Barcode Assignment,Bacteriology Urine
+Barcode Assignment,Bacteriology Stool
+Barcode Assignment,Clinical Isolate
+Specimen Accessioning,Bacteriology Blood
+Specimen Accessioning,Bacteriology Urine
+Specimen Accessioning,Bacteriology Stool
+Specimen Accessioning,Cerebrospinal Fluid
+Specimen Accessioning,Pleural Fluid
+Specimen Accessioning,Peritoneal Fluid
+Specimen Accessioning,Clinical Isolate
+Specimen Accessioning,Wastewater
+Specimen Accessioning,Tap Water
+Specimen Accessioning,Vegetables
+Specimen Accessioning,Animal Stool
+Sample Registration,Bacteriology Blood
+Sample Registration,Bacteriology Urine
+Sample Registration,Bacteriology Stool
+Sample Registration,Cerebrospinal Fluid
+Sample Registration,Pleural Fluid
+Sample Registration,Clinical Isolate
+Sample Registration,Environmental Soil
+Sample Registration,Vegetables
+Sample Registration,Animal Stool
+Sample Quality Assessment,Bacteriology Blood
+Sample Quality Assessment,Bacteriology Urine
+Sample Quality Assessment,Bacteriology Stool
+Sample Quality Assessment,Cerebrospinal Fluid
+Sample Quality Assessment,Pleural Fluid
+Sample Quality Assessment,Clinical Isolate
+Sample Quality Assessment,Wastewater
+Sample Quality Assessment,Vegetables
+Sample Quality Assessment,Animal Stool
+Temperature Check,Quality Checked Bacteriology Sample
+Volume Sufficiency Check,Quality Checked Bacteriology Sample
+Labeling Verification,Quality Checked Bacteriology Sample
+Contamination Check,Quality Checked Bacteriology Sample
+Container Integrity Check,Quality Checked Bacteriology Sample
+Triple Package Verification,Quality Checked Bacteriology Sample
+Leakage Check,Quality Checked Bacteriology Sample
+Quality Control Pass,Quality Checked Bacteriology Sample
+Quality Control Fail,Failed Bacteriology QC Sample
+Sample Rejection,Failed Bacteriology QC Sample
+Refrigerator Storage Assignment,Bacteriology Temporary Storage Sample
+Refrigerator Storage Assignment,Bacteriology Long-Term Storage Sample
+Freezer Storage Assignment,Bacteriology Temporary Storage Sample
+Freezer Storage Assignment,Bacteriology Long-Term Storage Sample
+Shipment Storage Assignment,Bacteriology Shipment Sample
+Temporary Storage Location Mapping,Bacteriology Temporary Storage Sample
+Long-Term Storage Location Mapping,Bacteriology Long-Term Storage Sample
+Storage Temperature Monitoring,Bacteriology Temporary Storage Sample
+Storage Temperature Monitoring,Bacteriology Long-Term Storage Sample
+Culture Media Preparation,Culture Sample
+Media Sterility Test,Culture Sample
+Media Growth Support Test,Culture Sample
+Biochemical Media Preparation,Culture Sample
+Biochemical Media IQC,Culture Sample
+Antibiotic Disc IQC,DST Tested Isolate
+Enrichment Incubation,Enriched Sample
+Media Reagent Inventory,Culture Sample
+Gram Staining,Gram Stained Sample
+Microscopy Examination,Gram Stained Sample
+Sample Inoculation,Inoculated Sample
+Bacterial Isolation,Pure Culture Isolate
+Catalase Test,Pure Culture Isolate
+Coagulase Test,Pure Culture Isolate
+Oxidase Test,Pure Culture Isolate
+TSI/KIA Test,Pure Culture Isolate
+Motility Test,Pure Culture Isolate
+Indole Test,Pure Culture Isolate
+Citrate Test,Pure Culture Isolate
+Urease Test,Pure Culture Isolate
+Lysine Decarboxylation Test,Pure Culture Isolate
+Bacterial Identification,Identified Isolate
+Disc Diffusion Method DST,DST Tested Isolate
+Broth Microdilution Method DST,DST Tested Isolate
+AST Strip Method,DST Tested Isolate
+Other DST Method,DST Tested Isolate
+BD BACTEC Analysis,Sample in Blood Culture Bottle
+VITEK Identification,Identified Isolate
+Phoenix Identification,Identified Isolate
+MALDI-TOF Identification,Identified Isolate
+Nucleic Acid Extraction Kit-Based,Bacteriology DNA Extract
+Nucleic Acid Extraction Kit-Based,Bacteriology RNA Extract
+Nucleic Acid Extraction Manual,Bacteriology DNA Extract
+Nucleic Acid Extraction Manual,Bacteriology RNA Extract
+Conventional PCR,Bacteriology DNA Extract
+Real-Time PCR,Bacteriology DNA Extract
+Whole Genome Sequencing,Bacteriology DNA Extract
+Sample Volume Tracking,Quality Checked Bacteriology Sample
+Sample Volume Tracking,Pure Culture Isolate
+Aliquot Type Recording,Clinical Isolate
+Aliquot Type Recording,Bacteriology DNA Extract
+Aliquot Type Recording,Bacteriology RNA Extract
+STGG Storage Medium Assignment,Isolate in STGG
+Tube Storage Container Assignment,Sample in Tube
+Vial Storage Container Assignment,Sample in Vial
+Slide Storage Container Assignment,Sample on Slide
+Plate Storage Container Assignment,Sample in Plate
+Freezer Storage Method Assignment,Bacteriology Long-Term Storage Sample
+Refrigerator Storage Method Assignment,Bacteriology Long-Term Storage Sample
+Slide Cabinet Storage Assignment,Sample on Slide
+Environmental Monitoring,Bacteriology Long-Term Storage Sample
+Sample Retrieval for Shipping,Bacteriology Retrieved Sample
+Sample Retrieval for Retesting,Bacteriology Retrieved Sample
+Sample Retrieval Other Purpose,Bacteriology Retrieved Sample
+Sample Disposal for Expiry,Bacteriology Disposal Sample
+Sample Disposal for Leakage,Bacteriology Disposal Sample
+Sample Disposal for Mislabeling,Bacteriology Disposal Sample
+Sample Disposal for Storage Shortage,Bacteriology Disposal Sample
+Sample Disposal for Exhaustion,Bacteriology Disposal Sample
+Sample Disposal for Safety Concerns,Bacteriology Disposal Sample
+Autoclave Disposal Method,Bacteriology Disposal Sample
+Incineration Disposal Method,Bacteriology Disposal Sample
+Chemical Treatment Disposal,Bacteriology Disposal Sample
+Other Disposal Method,Bacteriology Disposal Sample
+Biorepository Transfer,Bacteriology Biorepository Sample
+Reagent Quality Check,Culture Sample
+Reagent Registration,Culture Sample
+Reagent Storage Assignment,Culture Sample
+Reagent Inventory Management,Culture Sample
+Reagent Expiry Notification,Culture Sample
+Reagent Shortage Alert,Culture Sample
+In-House Reagent Preparation,Culture Sample
+Equipment Inventory,Quality Checked Bacteriology Sample
+Equipment Maintenance Notification,Quality Checked Bacteriology Sample
+Equipment Calibration Notification,Quality Checked Bacteriology Sample
+Equipment Functionality Registration,Quality Checked Bacteriology Sample
+Manual Result Recording,Identified Isolate
+Manual Result Recording,DST Tested Isolate
+Instrument Output Capture,Identified Isolate
+Instrument Output Capture,DST Tested Isolate
+Result Validation,Identified Isolate
+Result Validation,DST Tested Isolate
+Result Review and Approval,Identified Isolate
+Result Review and Approval,DST Tested Isolate
+Final Result Reporting,Identified Isolate
+Final Result Reporting,DST Tested Isolate
+Result Analysis and Interpretation,Identified Isolate
+Result Analysis and Interpretation,DST Tested Isolate
+Data Export to LMS,Identified Isolate
+Data Export to LMS,DST Tested Isolate
+Data Analysis,Identified Isolate
+Data Analysis,DST Tested Isolate
+REDCap Integration,Identified Isolate
+REDCap Integration,DST Tested Isolate

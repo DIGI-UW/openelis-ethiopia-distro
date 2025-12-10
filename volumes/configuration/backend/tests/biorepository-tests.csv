@@ -1,0 +1,49 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+Sample Intake Verification,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive|External Collaborator Sample,,Y,Y,300,,Sample Intake Verification,Vérification de Réception d'Échantillon
+Documentation Completeness Check,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,301,,Documentation Completeness Check,Vérification de l'Exhaustivité de la Documentation
+Sample Identifier Verification,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,302,,Sample Identifier Verification,Vérification de l'Identifiant d'Échantillon
+Ethical Approval Confirmation,Biorepository,Archive Sample|Biological Archive|External Collaborator Sample,,Y,Y,303,,Ethical Approval Confirmation,Confirmation de l'Approbation Éthique
+Material Transfer Agreement Check,Biorepository,External Collaborator Sample,,Y,Y,304,,Material Transfer Agreement Check,Vérification de l'Accord de Transfert de Matériel
+Biosafety Classification Verification,Biorepository,Archive Sample|Biological Archive,,Y,Y,305,,Biosafety Classification Verification,Vérification de la Classification de Biosécurité
+Packaging Integrity Check,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,306,,Packaging Integrity Check,Vérification de l'Intégrité de l'Emballage
+Biorepository Registration,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,307,,Biorepository Registration,Enregistrement Bioréférentiel
+Barcode Generation and Validation,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,308,,Barcode Generation and Validation,Génération et Validation de Code-Barres
+Parent-Child Relationship Mapping,Biorepository,Aliquot Sample|Derived Sample,,Y,Y,309,,Parent-Child Relationship Mapping,Cartographie de Relation Parent-Enfant
+Storage Environment Assignment,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,310,,Storage Environment Assignment,Attribution d'Environnement de Stockage
+Freezer Location Mapping,Biorepository,Archive Sample|Cryovial Sample|Serum Archive|DNA Archive|Bacterial Isolate Archive|Tissue Archive,,Y,Y,311,,Freezer Location Mapping,Cartographie d'Emplacement de Congélateur
+Cryostorage Placement,Biorepository,Cryovial Sample|Tissue Archive|Bacterial Isolate Archive,,Y,Y,312,,Cryostorage Placement,Placement en Cryostockage
+Ambient Storage Placement,Biorepository,Chemical Archive|Non-Biological Archive|Tablet Archive|Paraffin Block|Slide Archive,,Y,Y,313,,Ambient Storage Placement,Placement en Stockage Ambiant
+Box Barcode Scanning,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,314,,Box Barcode Scanning,Scan de Code-Barres de Boîte
+Storage Position Verification,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,315,,Storage Position Verification,Vérification de Position de Stockage
+Dual Verification Check,Biorepository,Archive Sample|Biological Archive,,Y,Y,316,,Dual Verification Check,Vérification Double
+Temperature Monitoring,Biorepository,Archive Sample|Biological Archive,,Y,Y,317,°C,Temperature Monitoring,Surveillance de Température
+Equipment Calibration Check,Biorepository,Archive Sample|Biological Archive,,Y,Y,318,,Equipment Calibration Check,Vérification de l'Étalonnage de l'Équipement
+Maintenance Event Recording,Biorepository,Archive Sample|Biological Archive,,Y,Y,319,,Maintenance Event Recording,Enregistrement d'Événement de Maintenance
+Retention Policy Enforcement,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,320,days,Retention Policy Enforcement,Application de Politique de Rétention
+Retention Alert Notification,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,321,,Retention Alert Notification,Notification d'Alerte de Rétention
+Sample Disposal Authorization,Biorepository,Sample for Disposal,,Y,Y,322,,Sample Disposal Authorization,Autorisation d'Élimination d'Échantillon
+Sample Destruction,Biorepository,Sample for Disposal,,Y,Y,323,,Sample Destruction,Destruction d'Échantillon
+Disposal Documentation,Biorepository,Sample for Disposal,,Y,Y,324,,Disposal Documentation,Documentation d'Élimination
+Sample Retrieval Request,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,325,,Sample Retrieval Request,Demande de Récupération d'Échantillon
+Retrieval Authorization Check,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,326,,Retrieval Authorization Check,Vérification d'Autorisation de Récupération
+Retrieval Work Order Generation,Biorepository,Retrieved Sample,,Y,Y,327,,Retrieval Work Order Generation,Génération de Bon de Travail de Récupération
+Sample Checkout,Biorepository,Checked Out Sample,,Y,Y,328,,Sample Checkout,Sortie d'Échantillon
+Custody Status Update,Biorepository,Checked Out Sample|Sample In Analysis|Returned Sample,,Y,Y,329,,Custody Status Update,Mise à Jour du Statut de Garde
+Chain of Custody Transfer,Biorepository,Checked Out Sample,,Y,Y,330,,Chain of Custody Transfer,Transfert de Chaîne de Traçabilité
+Sample Return Check-In,Biorepository,Returned Sample,,Y,Y,331,,Sample Return Check-In,Enregistrement de Retour d'Échantillon
+QC Random Selection,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,332,%,QC Random Selection,Sélection Aléatoire QC
+QC Layout Generation,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,333,,QC Layout Generation,Génération de Disposition QC
+QC Physical Verification,Biorepository,QC Verified Sample,,Y,Y,334,,QC Physical Verification,Vérification Physique QC
+QC Label Integrity Check,Biorepository,QC Verified Sample,,Y,Y,335,,QC Label Integrity Check,Vérification d'Intégrité d'Étiquette QC
+QC Discrepancy Logging,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,336,,QC Discrepancy Logging,Journalisation de Non-Conformité QC
+CAPA Ticket Generation,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,337,,CAPA Ticket Generation,Génération de Ticket CAPA
+Corrective Action Tracking,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,338,,Corrective Action Tracking,Suivi d'Action Corrective
+QC Audit Report Generation,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,339,,QC Audit Report Generation,Génération de Rapport d'Audit QC
+Predictive QC Scheduling,Biorepository,Archive Sample|Biological Archive,,Y,Y,340,,Predictive QC Scheduling,Planification QC Prédictive
+Freezer Capacity Reporting,Biorepository,Archive Sample|Biological Archive,,Y,Y,341,%,Freezer Capacity Reporting,Rapport de Capacité de Congélateur
+Sample Aging Analysis,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,342,days,Sample Aging Analysis,Analyse de Vieillissement d'Échantillon
+Compliance Metrics Reporting,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,343,,Compliance Metrics Reporting,Rapport de Métriques de Conformité
+Audit Trail Export,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,344,,Audit Trail Export,Export de Piste d'Audit
+Data Backup Verification,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,345,,Data Backup Verification,Vérification de Sauvegarde de Données
+Backup Integrity Check,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,346,,Backup Integrity Check,Vérification d'Intégrité de Sauvegarde
+Disaster Recovery Test,Biorepository,Archive Sample|Biological Archive|Non-Biological Archive,,Y,Y,347,,Disaster Recovery Test,Test de Récupération après Sinistre

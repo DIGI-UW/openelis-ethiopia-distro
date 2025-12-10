@@ -1,0 +1,51 @@
+description,localAbbreviation,domain,isActive,sortOrder,englishName,frenchName
+Analytical Processed Biological Sample,ANAL-BIO,H,Y,330,Analytical Processed Biological Sample,Échantillon Biologique Traité Analytique
+Analytical Medicine Sample,ANAL-MED,O,Y,331,Analytical Medicine Sample,Échantillon Médicament Analytique
+Analytical Pharmaceutical Sample,ANAL-PHAR,O,Y,332,Analytical Pharmaceutical Sample,Échantillon Pharmaceutique Analytique
+Analytical Client Sample,ANAL-CLI,O,Y,333,Analytical Client Sample,Échantillon Client Analytique
+Analytical Researcher Sample,ANAL-RES,O,Y,334,Analytical Researcher Sample,Échantillon Chercheur Analytique
+Analytical API,ANAL-API,O,Y,335,Analytical Active Pharmaceutical Ingredient,Ingrédient Pharmaceutique Actif Analytique
+Analytical Tablet,ANAL-TAB,O,Y,336,Analytical Tablet,Comprimé Analytique
+Analytical Capsule,ANAL-CAP,O,Y,337,Analytical Capsule,Gélule Analytique
+Analytical Powder,ANAL-POW,O,Y,338,Analytical Powder,Poudre Analytique
+Analytical Solution,ANAL-SOL,O,Y,339,Analytical Solution,Solution Analytique
+Analytical Suspension,ANAL-SUS,O,Y,340,Analytical Suspension,Suspension Analytique
+Analytical Cream,ANAL-CRE,O,Y,341,Analytical Cream,Crème Analytique
+Analytical Ointment,ANAL-OIN,O,Y,342,Analytical Ointment,Pommade Analytique
+Analytical Injection,ANAL-INJ,O,Y,343,Analytical Injection,Injection Analytique
+Analytical Syrup,ANAL-SYR,O,Y,344,Analytical Syrup,Sirop Analytique
+Analytical Emulsion,ANAL-EMU,O,Y,345,Analytical Emulsion,Émulsion Analytique
+Analytical Raw Material,ANAL-RAW,O,Y,346,Analytical Raw Material,Matière Première Analytique
+Analytical Excipient,ANAL-EXC,O,Y,347,Analytical Excipient,Excipient Analytique
+Analytical Reference Standard,ANAL-REF,O,Y,348,Analytical Reference Standard,Standard de Référence Analytique
+Analytical Working Standard,ANAL-WRK,O,Y,349,Analytical Working Standard,Standard de Travail Analytique
+Analytical Quality Control Sample,ANAL-QC,O,Y,350,Analytical Quality Control Sample,Échantillon Contrôle Qualité Analytique
+Analytical Bioanalytical Sample,ANAL-BA,H,Y,351,Analytical Bioanalytical Sample,Échantillon Bioanalytique Analytique
+Analytical Physicochemical Sample,ANAL-PC,O,Y,352,Analytical Physicochemical Sample,Échantillon Physicochimique Analytique
+Analytical R&D Sample,ANAL-RD,O,Y,353,Analytical R&D Sample,Échantillon R&D Analytique
+Analytical Assay Sample,ANAL-ASY,O,Y,354,Analytical Assay Sample,Échantillon Essai Analytique
+Analytical Dissolution Sample,ANAL-DIS,O,Y,355,Analytical Dissolution Sample,Échantillon Dissolution Analytique
+Analytical Disintegration Sample,ANAL-DSI,O,Y,356,Analytical Disintegration Sample,Échantillon Désintégration Analytique
+Analytical Friability Sample,ANAL-FRI,O,Y,357,Analytical Friability Sample,Échantillon Friabilité Analytique
+Analytical Hardness Sample,ANAL-HAR,O,Y,358,Analytical Hardness Sample,Échantillon Dureté Analytique
+Analytical Identity Test Sample,ANAL-ID,O,Y,359,Analytical Identity Test Sample,Échantillon Test Identité Analytique
+Analytical HPLC Sample,ANAL-HPLC,O,Y,360,Analytical HPLC Sample,Échantillon HPLC Analytique
+Analytical UV-Vis Sample,ANAL-UV,O,Y,361,Analytical UV-Vis Sample,Échantillon UV-Vis Analytique
+Analytical LC-MS/MS Sample,ANAL-LCMS,O,Y,362,Analytical LC-MS/MS Sample,Échantillon LC-MS/MS Analytique
+Analytical Dissolution USP I Sample,ANAL-DSP1,O,Y,363,Analytical Dissolution USP I Sample,Échantillon Dissolution USP I Analytique
+Analytical Dissolution USP II Sample,ANAL-DSP2,O,Y,364,Analytical Dissolution USP II Sample,Échantillon Dissolution USP II Analytique
+Analytical Stability Sample,ANAL-STB,O,Y,365,Analytical Stability Sample,Échantillon Stabilité Analytique
+Analytical Retention Sample,ANAL-RET,O,Y,366,Analytical Retention Sample,Échantillon Rétention Analytique
+Analytical Legal Hold Sample,ANAL-LEG,O,Y,367,Analytical Legal Hold Sample,Échantillon Conservation Légale Analytique
+Analytical Room Temperature Storage,ANAL-RT,O,Y,368,Analytical Room Temperature Storage,Stockage Température Ambiante Analytique
+Analytical Refrigerated Storage,ANAL-REF-S,O,Y,369,Analytical Refrigerated Storage,Stockage Réfrigéré Analytique
+Analytical Frozen Storage,ANAL-FRZ-S,O,Y,370,Analytical Frozen Storage,Stockage Congelé Analytique
+Analytical Controlled Storage,ANAL-CTL,O,Y,371,Analytical Controlled Storage,Stockage Contrôlé Analytique
+Analytical Biorepository Sample,ANAL-BIO-R,O,Y,372,Analytical Biorepository Sample,Échantillon Bioréférentiel Analytique
+Analytical Medical Lab Sample,ANAL-MLS,H,Y,373,Analytical Medical Lab Sample,Échantillon Labo Médical Analytique
+Analytical Clinical Site Sample,ANAL-CS,H,Y,374,Analytical Clinical Site Sample,Échantillon Site Clinique Analytique
+Analytical Outsourced Sample,ANAL-OUT,O,Y,375,Analytical Outsourced Sample,Échantillon Externalisé Analytique
+Analytical Prepared Sample,ANAL-PREP,O,Y,376,Analytical Prepared Sample,Échantillon Préparé Analytique
+Analytical Test In Progress,ANAL-TIP,O,Y,377,Analytical Test In Progress,Test en Cours Analytique
+Analytical Tested Sample,ANAL-TST,O,Y,378,Analytical Tested Sample,Échantillon Testé Analytique
+Analytical Result Reported Sample,ANAL-REP,O,Y,379,Analytical Result Reported Sample,Échantillon Résultat Rapporté Analytique

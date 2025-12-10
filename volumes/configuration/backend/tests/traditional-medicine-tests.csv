@@ -1,0 +1,107 @@
+testName,testSection,sampleType,loinc,isActive,isOrderable,sortOrder,unitOfMeasure,englishName,frenchName
+TM Sample Arrival,Biochemistry,TM Arrival Sample,,,Y,Y,1850,,TM Sample Arrival,Arrivée Échantillon TM
+TM Plant Material Receipt,Biochemistry,TM Plant Material,,,Y,Y,1851,,TM Plant Material Receipt,Réception Matériel Végétal TM
+TM Traditional Source Receipt,Biochemistry,TM Traditional Source,,,Y,Y,1852,,TM Traditional Source Receipt,Réception Source Traditionnelle TM
+TM Sample Registration,Biochemistry,TM Registered Sample,,,Y,Y,1853,,TM Sample Registration,Enregistrement Échantillon TM
+TM Unique ID Assignment,Biochemistry,TM Unique ID Sample,,,Y,Y,1854,,TM Unique ID Assignment,Attribution ID Unique TM
+TM Sample Labeling,Biochemistry,TM Unique ID Sample,,,Y,Y,1855,,TM Sample Labeling,Étiquetage Échantillon TM
+TM Origin Recording,Biochemistry,TM Origin Recorded Sample,,,Y,Y,1856,,TM Origin Recording,Enregistrement Origine TM
+TM Species Recording,Biochemistry,TM Species Sample,,,Y,Y,1857,,TM Species Recording,Enregistrement Espèce TM
+TM Collector Recording,Biochemistry,TM Collector Sample,,,Y,Y,1858,,TM Collector Recording,Enregistrement Collecteur TM
+TM Date Time Recording,Biochemistry,TM Registered Sample,,,Y,Y,1859,,TM Date Time Recording,Enregistrement Date Heure TM
+TM Metadata Entry,Biochemistry,TM Registered Sample,,,Y,Y,1860,,TM Metadata Entry,Saisie Métadonnées TM
+TM Botanical Verification,Biochemistry,TM Botanical Verification,,,Y,Y,1861,,TM Botanical Verification,Vérification Botanique TM
+TM Expert Identification,Biochemistry,TM Expert Identified,,,Y,Y,1862,,TM Expert Identification,Identification Expert TM
+TM Authentication Method Log,Biochemistry,TM Botanical Verification,,,Y,Y,1863,,TM Authentication Method Log,Journal Méthode Authentification TM
+TM Authentication Result Log,Biochemistry,TM Authentication Pass,,,Y,Y,1864,,TM Authentication Result Log,Journal Résultat Authentification TM
+TM Authentication Pass Recording,Biochemistry,TM Authentication Pass,,,Y,Y,1865,,TM Authentication Pass Recording,Enregistrement Authentification Passée TM
+TM Authentication Fail Recording,Biochemistry,TM Authentication Fail,,,Y,Y,1866,,TM Authentication Fail Recording,Enregistrement Authentification Échouée TM
+TM Refrigerated Storage Assignment,Biochemistry,TM Refrigerated Storage,,,Y,Y,1867,,TM Refrigerated Storage Assignment,Attribution Stockage Réfrigéré TM
+TM Drying Process,Biochemistry,TM Dried Sample,,,Y,Y,1868,,TM Drying Process,Processus Séchage TM
+TM Preservation Process,Biochemistry,TM Preserved Sample,,,Y,Y,1869,,TM Preservation Process,Processus Préservation TM
+TM Storage Option Selection,Biochemistry,TM Refrigerated Storage,,,Y,Y,1870,,TM Storage Option Selection,Sélection Option Stockage TM
+TM Herbarium Specimen Prep,Biochemistry,TM Herbarium Specimen,,,Y,Y,1871,,TM Herbarium Specimen Prep,Préparation Spécimen Herbier TM
+TM Specimen Mounting,Biochemistry,TM Mounted Specimen,,,Y,Y,1872,,TM Specimen Mounting,Montage Spécimen TM
+TM Specimen Labeling,Biochemistry,TM Labeled Specimen,,,Y,Y,1873,,TM Specimen Labeling,Étiquetage Spécimen TM
+TM Specimen Cataloging,Biochemistry,TM Cataloged Specimen,,,Y,Y,1874,,TM Specimen Cataloging,Catalogage Spécimen TM
+TM Herbarium Placement,Biochemistry,TM Cataloged Specimen,,,Y,Y,1875,,TM Herbarium Placement,Placement Herbier TM
+TM Grinding Process,Biochemistry,TM Ground Sample,,,Y,Y,1876,,TM Grinding Process,Processus Broyage TM
+TM Chopping Process,Biochemistry,TM Chopped Sample,,,Y,Y,1877,,TM Chopping Process,Processus Hachage TM
+TM Powdering Process,Biochemistry,TM Powdered Sample,,,Y,Y,1878,,TM Powdering Process,Processus Pulvérisation TM
+TM Fresh Processing,Biochemistry,TM Fresh Processed Sample,,,Y,Y,1879,,TM Fresh Processing,Traitement Frais TM
+TM Drying Required Check,Biochemistry,TM Drying Sample,,,Y,Y,1880,,TM Drying Required Check,Vérification Séchage Requis TM
+TM Physical Processing Log,Biochemistry,TM Ground Sample,,,Y,Y,1881,,TM Physical Processing Log,Journal Traitement Physique TM
+TM Ethanol Extraction,Biochemistry,TM Ethanol Extract,,,Y,Y,1882,,TM Ethanol Extraction,Extraction Éthanol TM
+TM Methanol Extraction,Biochemistry,TM Methanol Extract,,,Y,Y,1883,,TM Methanol Extraction,Extraction Méthanol TM
+TM Water Extraction,Biochemistry,TM Water Extract,,,Y,Y,1884,,TM Water Extraction,Extraction Eau TM
+TM Solvent Selection,Biochemistry,TM Ethanol Extract,,,Y,Y,1885,,TM Solvent Selection,Sélection Solvant TM
+TM Target Compound Documentation,Biochemistry,TM Ethanol Extract,,,Y,Y,1886,,TM Target Compound Documentation,Documentation Composé Cible TM
+TM Maceration Extraction,Biochemistry,TM Maceration Extract,,,Y,Y,1887,,TM Maceration Extraction,Extraction Macération TM
+TM Soxhlet Extraction,Biochemistry,TM Soxhlet Extract,,,Y,Y,1888,,TM Soxhlet Extraction,Extraction Soxhlet TM
+TM Ultrasonic Extraction,Biochemistry,TM Ultrasonic Extract,,,Y,Y,1889,,TM Ultrasonic Extraction,Extraction Ultrasonique TM
+TM Distillation Extraction,Biochemistry,TM Distillation Extract,,,Y,Y,1890,,TM Distillation Extraction,Extraction Distillation TM
+TM Extraction Method Recording,Biochemistry,TM Maceration Extract,,,Y,Y,1891,,TM Extraction Method Recording,Enregistrement Méthode Extraction TM
+TM Filtration Process,Biochemistry,TM Filtered Extract,,,Y,Y,1892,,TM Filtration Process,Processus Filtration TM
+TM Debris Removal,Biochemistry,TM Debris Removed Extract,,,Y,Y,1893,,TM Debris Removal,Enlèvement Débris TM
+TM Impurity Removal,Biochemistry,TM Filtered Extract,,,Y,Y,1894,,TM Impurity Removal,Enlèvement Impuretés TM
+TM Concentration Process,Biochemistry,TM Concentrated Extract,,,Y,Y,1895,,TM Concentration Process,Processus Concentration TM
+TM Evaporation Process,Biochemistry,TM Evaporated Extract,,,Y,Y,1896,,TM Evaporation Process,Processus Évaporation TM
+TM Volume Reduction,Biochemistry,TM Concentrated Extract,,,Y,Y,1897,mL,TM Volume Reduction,Réduction Volume TM
+TM Extract Enrichment,Biochemistry,TM Enriched Extract,,,Y,Y,1898,,TM Extract Enrichment,Enrichissement Extrait TM
+TM Fractionation Process,Biochemistry,TM Fractionated Sample,,,Y,Y,1899,,TM Fractionation Process,Processus Fractionnement TM
+TM Compound Separation,Biochemistry,TM Fraction Sample,,,Y,Y,1900,,TM Compound Separation,Séparation Composés TM
+TM Fraction Method Recording,Biochemistry,TM Fraction Sample,,,Y,Y,1901,,TM Fraction Method Recording,Enregistrement Méthode Fraction TM
+TM Fraction Collection,Biochemistry,TM Fraction Sample,,,Y,Y,1902,,TM Fraction Collection,Collection Fraction TM
+TM Compound Identification,Biochemistry,TM Identified Compound,,,Y,Y,1903,,TM Compound Identification,Identification Composé TM
+TM Active Constituent Detection,Biochemistry,TM Active Constituent,,,Y,Y,1904,,TM Active Constituent Detection,Détection Constituant Actif TM
+TM Compound Database Link,Biochemistry,TM Identified Compound,,,Y,Y,1905,,TM Compound Database Link,Lien Base Données Composés TM
+TM Compound Isolation,Biochemistry,TM Isolated Compound,,,Y,Y,1906,,TM Compound Isolation,Isolement Composé TM
+TM Purification Process,Biochemistry,TM Purified Sample,,,Y,Y,1907,,TM Purification Process,Processus Purification TM
+TM Impurity Removal Advanced,Biochemistry,TM Purified Sample,,,Y,Y,1908,,TM Impurity Removal Advanced,Enlèvement Impuretés Avancé TM
+TM Purity Level Log,Biochemistry,TM Purified Sample,,,Y,Y,1909,%,TM Purity Level Log,Journal Niveau Pureté TM
+TM Compound Characterization,Biochemistry,TM Characterized Compound,,,Y,Y,1910,,TM Compound Characterization,Caractérisation Composé TM
+TM Structure Determination,Biochemistry,TM Characterized Compound,,,Y,Y,1911,,TM Structure Determination,Détermination Structure TM
+TM Properties Determination,Biochemistry,TM Characterized Compound,,,Y,Y,1912,,TM Properties Determination,Détermination Propriétés TM
+TM NMR Spectroscopy,Biochemistry,TM NMR Sample,,,Y,Y,1913,,TM NMR Spectroscopy,Spectroscopie RMN TM
+TM Mass Spectrometry,Biochemistry,TM MS Sample,,,Y,Y,1914,,TM Mass Spectrometry,Spectrométrie Masse TM
+TM IR Spectroscopy,Biochemistry,TM IR Sample,,,Y,Y,1915,,TM IR Spectroscopy,Spectroscopie IR TM
+TM Spectral Data Storage,Biochemistry,TM Spectral Data Sample,,,Y,Y,1916,,TM Spectral Data Storage,Stockage Données Spectrales TM
+TM Production Readiness Assessment,Biochemistry,TM Production Ready Extract,,,Y,Y,1917,,TM Production Readiness Assessment,Évaluation Préparation Production TM
+TM Direct to Production Decision,Biochemistry,TM Production Ready Extract,,,Y,Y,1918,,TM Direct to Production Decision,Décision Directe Production TM
+TM Preliminary Phytochemical Screen,Biochemistry,TM Phytochemical Screen Sample,,,Y,Y,1919,,TM Preliminary Phytochemical Screen,Criblage Phytochimique Préliminaire TM
+TM Alkaloid Test,Biochemistry,TM Alkaloid Test Sample,,,Y,Y,1920,,TM Alkaloid Test,Test Alcaloïde TM
+TM Flavonoid Test,Biochemistry,TM Flavonoid Test Sample,,,Y,Y,1921,,TM Flavonoid Test,Test Flavonoïde TM
+TM Tannin Test,Biochemistry,TM Tannin Test Sample,,,Y,Y,1922,,TM Tannin Test,Test Tanin TM
+TM Saponin Test,Biochemistry,TM Saponin Test Sample,,,Y,Y,1923,,TM Saponin Test,Test Saponine TM
+TM Terpenoid Test,Biochemistry,TM Terpenoid Test Sample,,,Y,Y,1924,,TM Terpenoid Test,Test Terpénoïde TM
+TM Phytochemical Test Results,Biochemistry,TM Phytochemical Screen Sample,,,Y,Y,1925,,TM Phytochemical Test Results,Résultats Test Phytochimique TM
+TM Safety Study,Biochemistry,TM Safety Test Sample,,,Y,Y,1926,,TM Safety Study,Étude Sécurité TM
+TM Toxicity Study,Biochemistry,TM Toxicity Test Sample,,,Y,Y,1927,,TM Toxicity Study,Étude Toxicité TM
+TM In Vitro Testing,Biochemistry,TM In Vitro Test Sample,,,Y,Y,1928,,TM In Vitro Testing,Test In Vitro TM
+TM Animal Model Testing,Biochemistry,TM Animal Model Test,,,Y,Y,1929,,TM Animal Model Testing,Test Modèle Animal TM
+TM External Trial Data Link,Biochemistry,TM Safety Test Sample,,,Y,Y,1930,,TM External Trial Data Link,Lien Données Essai Externe TM
+TM Efficacy Test,Biochemistry,TM Efficacy Test Sample,,,Y,Y,1931,,TM Efficacy Test,Test Efficacité TM
+TM Biological Activity Assay,Biochemistry,TM Activity Assay Sample,,,Y,Y,1932,,TM Biological Activity Assay,Essai Activité Biologique TM
+TM Efficacy Outcome Documentation,Biochemistry,TM Efficacy Test Sample,,,Y,Y,1933,,TM Efficacy Outcome Documentation,Documentation Résultat Efficacité TM
+TM Protocol Documentation,Biochemistry,TM Efficacy Test Sample,,,Y,Y,1934,,TM Protocol Documentation,Documentation Protocole TM
+TM Capsule Formulation,Biochemistry,TM Capsule Formulation,,,Y,Y,1935,,TM Capsule Formulation,Formulation Gélule TM
+TM Tincture Formulation,Biochemistry,TM Tincture Formulation,,,Y,Y,1936,,TM Tincture Formulation,Formulation Teinture TM
+TM Ointment Formulation,Biochemistry,TM Ointment Formulation,,,Y,Y,1937,,TM Ointment Formulation,Formulation Onguent TM
+TM Tea Formulation,Biochemistry,TM Tea Formulation,,,Y,Y,1938,,TM Tea Formulation,Formulation Thé TM
+TM Tablet Formulation,Biochemistry,TM Tablet Formulation,,,Y,Y,1939,,TM Tablet Formulation,Formulation Comprimé TM
+TM Syrup Formulation,Biochemistry,TM Syrup Formulation,,,Y,Y,1940,,TM Syrup Formulation,Formulation Sirop TM
+TM Cream Formulation,Biochemistry,TM Cream Formulation,,,Y,Y,1941,,TM Cream Formulation,Formulation Crème TM
+TM Oil Formulation,Biochemistry,TM Oil Formulation,,,Y,Y,1942,,TM Oil Formulation,Formulation Huile TM
+TM Formulation Type Selection,Biochemistry,TM Capsule Formulation,,,Y,Y,1943,,TM Formulation Type Selection,Sélection Type Formulation TM
+TM Product Development Documentation,Biochemistry,TM Capsule Formulation,,,Y,Y,1944,,TM Product Development Documentation,Documentation Développement Produit TM
+TM QC Testing,Biochemistry,TM QC Pass Sample,,,Y,Y,1945,,TM QC Testing,Test QC TM
+TM QC Pass Recording,Biochemistry,TM QC Pass Sample,,,Y,Y,1946,,TM QC Pass Recording,Enregistrement QC Passé TM
+TM QC Fail Recording,Biochemistry,TM QC Fail Sample,,,Y,Y,1947,,TM QC Fail Recording,Enregistrement QC Échoué TM
+TM RT Storage Assignment,Biochemistry,TM RT Storage Sample,,,Y,Y,1948,,TM RT Storage Assignment,Attribution Stockage TA TM
+TM Cold Storage Assignment,Biochemistry,TM Cold Storage Sample,,,Y,Y,1949,,TM Cold Storage Assignment,Attribution Stockage Froid TM
+TM Temperature Monitoring,Biochemistry,TM Cold Storage Sample,,,Y,Y,1950,°C,TM Temperature Monitoring,Surveillance Température TM
+TM Sample Archiving,Biochemistry,TM Archived Sample,,,Y,Y,1951,,TM Sample Archiving,Archivage Échantillon TM
+TM Data Archiving,Biochemistry,TM Archived Sample,,,Y,Y,1952,,TM Data Archiving,Archivage Données TM
+TM Sample Disposal,Biochemistry,TM Disposal Sample,,,Y,Y,1953,,TM Sample Disposal,Élimination Échantillon TM
+TM Chain of Custody Log,Biochemistry,TM Registered Sample,,,Y,Y,1954,,TM Chain of Custody Log,Journal Chaîne Traçabilité TM
+TM Traceability Documentation,Biochemistry,TM Registered Sample,,,Y,Y,1955,,TM Traceability Documentation,Documentation Traçabilité TM
