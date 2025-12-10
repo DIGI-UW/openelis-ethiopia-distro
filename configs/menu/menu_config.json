@@ -1,0 +1,262 @@
+{
+  "includes": [
+    {
+      "elementId": "menu_home",
+      "childMenus": []
+    },
+    {
+      "elementId": "menu_generic_sample",
+      "childMenus": [
+        {
+          "elementId": "menu_generic_sample_order",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_generic_sample_edit",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_generic_sample_import",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_generic_sample_results",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_sample_management",
+          "childMenus": []
+        }
+      ]
+    },
+    {
+      "elementId": "menu_storage",
+      "childMenus": [
+        {
+          "elementId": "menu_storage_management",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_freezer_monitoring",
+          "childMenus": []
+        }
+      ]
+    },
+    {
+      "elementId": "menu_nonconformity",
+      "childMenus": [
+        {
+          "elementId": "menu_non_conforming_report",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_non_conforming_view",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_non_conforming_corrective_actions",
+          "childMenus": []
+        }
+      ]
+    },
+    {
+      "elementId": "menu_workplan",
+      "childMenus": [
+        {
+          "elementId": "menu_workplan_test",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_workplan_panel",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_workplan_bench",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_workplan_priority",
+          "childMenus": []
+        }
+      ]
+    },
+    {
+      "elementId": "menu_results",
+      "childMenus": [
+        {
+          "elementId": "menu_results_logbook",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_results_accession",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_results_referred",
+          "childMenus": []
+        },
+
+        {
+          "elementId": "menu_results_status",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_results_analyzer",
+          "childMenus": [
+            {
+              "elementId": "PocH100iAnalyzer_plugin",
+              "childMenus": []
+            },
+            {
+              "elementId": "GeneXpertAnalyzer_plugin",
+              "childMenus": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "elementId": "menu_resultvalidation",
+      "childMenus": [
+        {
+          "elementId": "menu_resultvalidation_routine",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_accession_validation",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_accession_validation_range",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_resultvalidation_date",
+          "childMenus": []
+        }
+      ]
+    },
+    {
+      "elementId": "menu_reports",
+      "childMenus": [
+        {
+          "elementId": "menu_reports_routine",
+          "childMenus": [
+            {
+              "elementId": "menu_reports_aggregate",
+              "childMenus": [
+                {
+                  "elementId": "menu_reports_aggregate_statistics",
+                  "childMenus": []
+                },
+                {
+                  "elementId": "menu_reports_aggregate_all",
+                  "childMenus": []
+                }
+              ]
+            },
+            {
+              "elementId": "menu_reports_management",
+              "childMenus": [
+                {
+                  "elementId": "menu_reports_management_rejection",
+                  "childMenus": []
+                },
+                {
+                  "elementId": "menu_reports_activity",
+                  "childMenus": [
+                    {
+                      "elementId": "menu_activity_report_test",
+                      "childMenus": []
+                    },
+                    {
+                      "elementId": "menu_activity_report_panel",
+                      "childMenus": []
+                    },
+                    {
+                      "elementId": "menu_activity_report_bench",
+                      "childMenus": []
+                    }
+                  ]
+                },
+                {
+                  "elementId": "menu_reports_nonconformity",
+                  "childMenus": [
+                    {
+                      "elementId": "menu_reports_nonconformity_date",
+                      "childMenus": []
+                    },
+                    {
+                      "elementId": "menu_reports_nonconformity_section",
+                      "childMenus": []
+                    }
+                  ]
+                },
+                {
+                  "elementId": "menu_reports_validation_backlog",
+                  "childMenus": []
+                },
+                {
+                  "elementId": "menu_reports_auditTrail",
+                  "childMenus": []
+                }
+              ]
+            },
+            {
+              "elementId": "menu_reports_export_routine",
+              "childMenus": []
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "elementId": "menu_administration",
+      "childMenus": []
+    },
+    {
+      "elementId": "menu_billing",
+      "childMenus": []
+    },
+    {
+      "elementId": "menu_aliquot",
+      "childMenus": []
+    },
+    {
+      "elementId": "menu_notebook",
+      "childMenus": []
+    },
+    {
+      "elementId": "menu_inventory",
+      "childMenus": [
+        {
+          "elementId": "menu_inventory_management",
+          "childMenus": []
+        }
+      ]
+    },
+    {
+      "elementId": "menu_help",
+      "childMenus": [
+        {
+          "elementId": "menu_help_user_manual",
+          "childMenus": []
+        },
+        {
+          "elementId": "menu_help_documents",
+          "childMenus": [
+            {
+              "elementId": "menu_help_form_VL",
+              "childMenus": []
+            },
+            {
+              "elementId": "menu_help_form_DBS",
+              "childMenus": []
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
